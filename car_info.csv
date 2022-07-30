@@ -1,0 +1,1194 @@
+,index,name,price,mileage,ex_color,in_color,drivetrain,mpg,fuel_type,transmission,engine
+0,0,2019 Honda Accord Sport,27995,27995, White , Red , Front-wheel Drive ,29–35,Gasoline ,Automatic CVT,1.5L I4 16V GDI DOHC Turbo
+1,1,2018 Porsche Macan ,41998,41998, Gray , Black , All-wheel Drive ,20–25,Gasoline ,7-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo
+2,2,2015 Chevrolet Corvette Stingray Z51,52000,52000, Velocity Yellow Tinted Clearcoat , Black , Rear-wheel Drive ,17–29,Gasoline ,8-Speed Automatic,6.2L V8 16V GDI OHV
+3,3,2020 Jeep Grand Cherokee Overland,41998,41998, Ivory , Sepia / Black , Four-wheel Drive ,18–25,Gasoline ,8-Speed Automatic,3.6L V6 24V MPFI DOHC
+4,4,2017 Ford Mustang GT Premium,29995,29995, Ingot Silver Metallic , Ebony w/Metal Gray Stitch , Rear-wheel Drive ,15–25,Gasoline ,Automatic,Engine: 5.0L Ti-VCT V8
+5,5,2016 Jeep Grand Cherokee Limited,26499,26499, Granite Crystal Clearcoat Metallic , Black , Four-wheel Drive ,18–25,Gasoline ,8-Speed Automatic,3.6L V6 24V MPFI DOHC
+6,6,2018 Jeep Grand Cherokee High Altitude,39944,39944, Diamond Black , Black , Four-wheel Drive ,18–25,Gasoline ,8-Speed Automatic,3.6L V6 24V MPFI DOHC
+7,7,2021 Ford F-150 Raptor,123500,123500, Gray , Blue , Four-wheel Drive ,14–18,Gasoline Fuel ,Transmission w/Dual Shift Mode,450.0HP 3.5L V6 Cylinder Engine Gasoline Fuel
+8,8,2019 GMC Yukon Denali,61974,61974, Onyx Black , Jet Black , Four-wheel Drive ,14–22,Gasoline ,10-Speed Automatic,6.2L V8 16V GDI OHV
+9,9,2022 Kia Telluride SX,54500,54500, Gray , Beige , All-wheel Drive ,19–24,Gasoline Fuel ,8-Speed A/T,291.0HP 3.8L V6 Cylinder Engine Gasoline Fuel
+10,10,2018 Jeep Wrangler Unlimited Sport,36277,36277, Mojito! Clearcoat , Black , Four-wheel Drive ,17–23,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+11,11,2015 Toyota 4Runner Limited,33050,33050, Blizzard Pearl , Sand Beige , Rear-wheel Drive ,17–22,Gasoline ,5-Speed Automatic,4.0L V6 24V MPFI DOHC
+12,12,2020 Toyota Camry SE,33677,33677, White , White , Front-wheel Drive ,28–39,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+13,13,2016 INFINITI Q50 3.0T Red Sport 400,28900,28900, Gray , Graphite , Rear-wheel Drive ,19–28,Gasoline ,7-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo
+14,14,2017 Ford F-150 Raptor,56999,56999, Black , Black , Four-wheel Drive ,15–18,Gasoline Fuel ,10-Speed A/T,450.0HP 3.5L V6 Cylinder Engine Gasoline Fuel
+15,15,2013 Lexus GS 350 Base,16990,16990, Gray , Black , Rear-wheel Drive ,19–28,Gasoline ,6-Speed Automatic,3.5L V6 24V GDI DOHC
+16,16,2021 Mitsubishi Mirage ES,15165,15165, Mystic Black Metallic , Black , Front-wheel Drive ,None,Gasoline ,Automatic CVT,1.2L I3 12V MPFI DOHC
+17,17,2022 Subaru Outback Touring,39747,39747, Crystal White Pearl , Java Brown , All-wheel Drive ,26–33,Gasoline ,Automatic CVT,2.5L H4 16V GDI DOHC
+18,18,2017 Lexus ES 350 Base,29500,29500, Black , Beige , Front-wheel Drive ,21–30,Gasoline Fuel ,A/T,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel
+19,19,2021 Toyota Land Cruiser ,97900,97900, Black , – , Four-wheel Drive ,13–17,Gasoline ,8-Speed Automatic,5.7L V8 32V MPFI DOHC
+20,0,2017 BMW M3 Base,53789,53789, Gray , Sakhir Orange , Rear-wheel Drive ,17–26,Gasoline ,7-Speed Automatic with Auto-Shift,3.0L I6 24V GDI DOHC Twin Turbo
+21,1,2011 Toyota Avalon Limited,8999,8999, Gray , Beige , Front-wheel Drive ,20–29,Gasoline Fuel ,6-Speed A/T,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel
+22,2,2020 Ford Mustang EcoBoost Premium,30223,30223, Race Red , Ebony , Rear-wheel Drive ,20–28,Gasoline ,10-Speed Automatic,2.3L I4 16V GDI DOHC Turbo
+23,3,2019 Audi A7 3.0T Prestige,62750,62750, Daytona Gray Pearl Effect , Black , All-wheel Drive ,22–29,Gasoline ,7-Speed Automatic with Auto-Shift,3.0L V6 24V GDI DOHC Turbo
+24,4,2019 Acura ILX Technology & A-Spec,24995,24995, Blue , Red , Front-wheel Drive ,24–34,Gasoline ,8-Speed Automatic with Auto-Shift,2.4L I4 16V GDI DOHC
+25,5,2019 Subaru Outback 3.6R Touring,32900,32900, Crystal White Pearl , Java Brown , All-wheel Drive ,20–27,Gasoline ,Automatic CVT,3.6L H6 24V MPFI DOHC
+26,6,2018 Nissan Frontier S,29997,29997, Glacier White , Steel , Four-wheel Drive ,21,Gasoline ,5-Speed Automatic with Overdrive,4.0L V6 DOHC
+27,7,2020 Lamborghini Urus Base,280000,280000, Blu Astraeus Metallic , Nero Ade , All-wheel Drive ,12–17,Gasoline ,8-Speed Automatic,4.0L V8 32V GDI DOHC Twin Turbo
+28,8,2014 Nissan Leaf SL,15990,15990, Black , Black , Front-wheel Drive ,0–0,Electric Fuel System ,A/T,107.0HP Electric Motor Electric Fuel System
+29,9,2017 Nissan Rogue SV,24688,24688, Brilliant Silver , Charcoal , All-wheel Drive ,25–32,Gasoline ,Automatic CVT,2.5L I4 16V MPFI DOHC
+30,10,2017 Chevrolet Silverado 1500 LTZ,37991,37991, Black , Black , Four-wheel Drive ,None,Gasoline ,8-Speed Automatic with Overdrive,5.3L V8 16V GDI OHV
+31,11,2021 GMC Yukon Denali,89888,89888, Smokey Quartz Metallic , Dark Walnut/Very Dark Ash Gray , Four-wheel Drive ,14–19,Gasoline ,10-SPEED A/T,8 Cylinder Engine
+32,12,2021 Mitsubishi Mirage ES,15185,15185, Starlight Silver Metallic , Black , Front-wheel Drive ,None,Gasoline ,Automatic CVT,1.2L I3 12V MPFI DOHC
+33,13,2020 Acura MDX 3.5L,39420,39420, Gunmetal Metallic , Ebony , Front-wheel Drive ,20–27,Gasoline ,Automatic,Premium Unleaded V-6 3.5 L/212
+34,14,2020 Jeep Grand Cherokee Limited,34750,34750, Black , Black , Four-wheel Drive ,18–25,Gasoline ,8-Speed Automatic,3.6L V6 24V MPFI DOHC
+35,15,2015 BMW X5 M Base,45950,45950, White , Mugello Red , All-wheel Drive ,14–19,Gasoline ,8-Speed Automatic,4.4L V8 32V GDI DOHC Twin Turbo
+36,16,2019 Honda CR-V EX,31074,31074, Molten Lava , Black , All-wheel Drive ,27–33,Gasoline ,Automatic CVT,1.5L I4 16V GDI DOHC Turbo
+37,17,2020 Ford Edge Sport,44500,44500, White , – , All-wheel Drive ,19–26,Gasoline ,Automatic,Twin Turbo Premium Unleaded V-6 2.7 L/166
+38,18,2017 Kia Sorento LX,21006,21006, Ebony Black , Satin Black , All-wheel Drive ,18–25,Gasoline ,6-Speed Automatic,3.3L V6 24V GDI DOHC
+39,19,2021 Lexus ES 350 F Sport,48377,48377, Obsidian Black , Red , Front-wheel Drive ,22–31,Gasoline ,8-Speed Automatic,3.5L V6 24V PDI DOHC
+40,0,2020 Kia Telluride EX,46801,46801, Gravity Gray , Black , All-wheel Drive ,19–24,Gasoline ,8-Speed Automatic,3.8L V6 24V GDI DOHC
+41,1,2016 Honda Civic Touring,24998,24998, Black , Gray , Front-wheel Drive ,31–41,Gasoline ,Automatic CVT,1.5L I4 16V GDI DOHC Turbo
+42,2,2020 Ford Mustang EcoBoost Premium,27993,27993, Race Red , Ebony , Rear-wheel Drive ,21–30,Gasoline ,10-Speed Automatic,2.3L I4 16V GDI DOHC Turbo
+43,3,2019 Audi A7 3.0T Prestige,64450,64450, Daytona Gray Pearl Effect , Pearl Beige , All-wheel Drive ,22–29,Gasoline ,7-Speed Automatic with Auto-Shift,3.0L V6 24V GDI DOHC Turbo
+44,4,2020 Toyota Corolla LE,22115,22115, Barcelona Red Metallic , Black , Front-wheel Drive ,30–38,Gasoline ,Automatic CVT,1.8L I4 16V MPFI DOHC
+45,5,2020 Bentley Continental GT V8,274900,274900, Onyx Metallic , Hotspur , All-wheel Drive ,16–26,Gasoline ,8-Speed Automatic with Auto-Shift,4.0L V8 32V GDI DOHC Twin Turbo
+46,6,2021 Tesla Model Y Performance,76492,76492, Deep Blue Metallic , White / Black , All-wheel Drive ,115–106,Electric ,1-Speed Automatic,Electric
+47,7,2020 Kia Telluride EX,37400,37400, Ebony Black , Black , Front-wheel Drive ,20–26,Gasoline ,8-Speed Automatic,3.8L V6 24V GDI DOHC
+48,8,2017 Volkswagen Golf Alltrack TSI S,19500,19500, Silk Blue Metallic , Titan Black , All-wheel Drive ,22–30,Gasoline ,6-Speed Automatic with Auto-Shift,1.8L I4 16V GDI DOHC Turbo
+49,9,2016 Honda Accord EX-L,24993,24993, Gray , – , Front-wheel Drive ,27–37,Gasoline ,CVT,4 Cylinder Engine
+50,10,2020 Honda HR-V LX,19999,19999, Gray , Gray , All-wheel Drive ,27–31,Gasoline ,Automatic CVT,1.8L I4 16V MPFI SOHC
+51,11,2021 Genesis G70 3.3T,46980,46980, Himalayan Gray , Black / Red , Rear-wheel Drive ,17–26,Gasoline ,8-Speed Automatic,3.3L V6 24V GDI DOHC Twin Turbo
+52,12,2018 Honda Accord LX,25982,25982, Platinum White Pearl , Gray , Front-wheel Drive ,30–38,Gasoline ,Variable,Intercooled Turbo Regular Unleaded I-4 1.5 L/91
+53,13,2012 Ford Escape XLT,7200,7200, Green , Black , Front-wheel Drive ,21–28,Flex Fuel Capability ,A/T,240.0HP 3.0L V6 Cylinder Engine Flex Fuel Capability
+54,14,2017 Honda Civic LX,19741,19741, White , Black / Ivory , Front-wheel Drive ,31–40,Gasoline ,Automatic CVT,2.0L I4 16V MPFI DOHC
+55,15,2016 Toyota 4Runner SR5 Premium,32999,32999, Magnetic Gray Metallic , Black / Graphite , Four-wheel Drive ,17–21,Gasoline ,5-Speed Automatic,4.0L V6 24V MPFI DOHC
+56,16,2007 Porsche 911 Turbo,89888,89888, Black , Brown , All-wheel Drive ,17–25,Gasoline Fuel ,5-Speed A/T,480.0HP 3.6L Flat 6 Cylinder Engine Gasoline Fuel
+57,17,2009 Maserati GranTurismo S,32900,32900, Black , Red , Rear-wheel Drive ,None,Gasoline ,6-Speed Automatic with Overdrive,4.7L V8 32V MPFI DOHC
+58,18,2014 Mercedes-Benz CLS-Class CLS 550 4MATIC,24735,24735, White , Black , All-wheel Drive ,18–25,Gasoline ,7-Speed Automatic,4.7L V8 32V GDI DOHC Twin Turbo
+59,19,2019 Mercedes-Benz GLS 450 Base 4MATIC,53523,53523, Gray , Black , All-wheel Drive ,16–22,Gasoline ,9-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo
+60,0,2020 Ford Mustang EcoBoost Premium,30883,30883, Magnetic Metallic , Ebony , Rear-wheel Drive ,20–28,Gasoline ,10-Speed Automatic,2.3L I4 16V GDI DOHC Turbo
+61,1,2016 Land Rover Range Rover 3.0L Turbocharged Diesel HSE Td6,39995,39995, White , Beige , Four-wheel Drive ,22–28,Diesel Fuel ,8-Speed A/T,254.0HP 3.0L V6 Cylinder Engine Diesel Fuel
+62,2,2021 GMC Acadia SLE,34479,34479, Satin Steel Metallic , Cocoa , Front-wheel Drive ,21–27,Gasoline ,9-Speed Automatic,2.5L I4 16V GDI DOHC
+63,3,2019 Jeep Grand Cherokee Limited,42590,42590, Diamond Black , Black , Four-wheel Drive ,18–25,Gasoline ,8-Speed Automatic,3.6L V6 24V MPFI DOHC
+64,4,2016 Toyota 4Runner ,35194,35194, Blue , – , Four-wheel Drive ,17–21,Gasoline ,5-Speed Automatic,4.0L V6 24V MPFI DOHC
+65,5,2018 Chevrolet Suburban LT,40750,40750, Silver Ice Metallic , Black , Four-wheel Drive ,15–22,Gasoline ,6-Speed Automatic,5.3L V8 16V GDI OHV
+66,6,2021 Nissan GT-R Premium,149999,149999, Bayside Blue , Gray , All-wheel Drive ,16–22,Gasoline ,6-Speed Automatic with Auto-Shift,3.8L V6 24V MPFI DOHC Twin Turbo
+67,7,2020 Acura TLX A-Spec,33745,33745, Platinum White Pearl , Red , Front-wheel Drive ,23–32,Gasoline ,8-Speed Automatic with Auto-Shift,2.4L I4 16V GDI DOHC
+68,8,2018 Porsche Panamera ,69998,69998, Black , Gray , – ,21,Gasoline ,8-Speed Automatic with Auto-Shift,3.0L V6 24V GDI DOHC Turbo
+69,9,2019 Toyota 4Runner Limited,36893,36893, Magnetic Gray Metallic , Black Graphite , Four-wheel Drive ,17–20,Gasoline ,5-Speed Automatic,4.0L V6 24V MPFI DOHC
+70,10,2006 Maserati Quattroporte Executive GT,18777,18777, Gray , Avorio , Rear-wheel Drive ,12–15,Gasoline ,6-Speed Automatic with Auto-Shift,4.2L V8 32V MPFI DOHC
+71,11,2019 Honda CR-V EX-L,33790,33790, Basque Red Pearl II , Gray , Front-wheel Drive ,28–34,Gasoline ,Automatic CVT,1.5L I4 16V GDI DOHC Turbo
+72,12,2019 Mazda CX-9 Touring,32499,32499, Snowflake White Pearl Mica , Black , All-wheel Drive ,20–26,Gasoline ,Automatic,Intercooled Turbo Regular Unleaded I-4 2.5 L/152
+73,13,2020 Acura TLX A-Spec,33500,33500, Modern Steel Metallic , Ebony , All-wheel Drive ,20–29,Gasoline ,9-Speed Automatic,3.5L V6 24V GDI SOHC
+74,14,2019 Tesla Model 3 Long Range,52458,52458, Gray , Black , All-wheel Drive ,120–112,Electric ,1-Speed Automatic,Electric
+75,15,2019 Toyota Camry XLE,30995,30995, Silver , Gray , Front-wheel Drive ,28–39,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+76,16,2019 Land Rover Range Rover Velar P250 S,50999,50999, Narvik Black , Light Oyster / Ebony , Four-wheel Drive ,21–27,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+77,17,2021 BMW X5 xDrive40i,62600,62600, Arctic Gray Metallic , Black , All-wheel Drive ,21–25,Gasoline ,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+78,18,2020 Tesla Model X Performance,102000,102000, Gray , Beige , All-wheel Drive ,80–77,Electric Fuel System ,A/T,Electric Motor Electric Fuel System
+79,19,2021 Chevrolet Corvette Stingray w/2LT,101985,101985, Red , Red , Rear-wheel Drive ,15–27,Gasoline Fuel ,8-Speed A/T,490.0HP 6.2L 8 Cylinder Engine Gasoline Fuel
+80,0,2017 Chevrolet Corvette Z06,79970,79970, Watkins Glen Gray Metallic , Jet Black , Rear-wheel Drive ,15–22,Gasoline ,8-Speed Automatic,6.2L V8 16V GDI OHV Supercharged
+81,1,2018 Mazda CX-5 Grand Touring,25488,25488, Jet Black Mica , Black , Front-wheel Drive ,25–31,Gasoline ,6-Speed Automatic,2.5L I4 16V GDI DOHC
+82,2,2020 Honda HR-V LX,25499,25499, Black , Gray , All-wheel Drive ,27–31,Gasoline ,Automatic CVT,1.8L I4 16V MPFI SOHC
+83,3,2019 INFINITI QX60 Luxe,30991,30991, Graphite Shadow , Graphite , All-wheel Drive ,19–26,Gasoline ,Automatic CVT,3.5L V6 24V GDI DOHC
+84,4,2016 Porsche Panamera 4,49886,49886, Gray , Carrera Red , All-wheel Drive ,18–27,Gasoline ,7-Speed Automatic with Auto-Shift,3.6L V6 24V GDI DOHC
+85,5,2017 Toyota Tundra Platinum,40900,40900, Black , – , Four-wheel Drive ,13–17,E85 Flex Fuel ,6-Speed Automatic,5.7L V8 32V MPFI DOHC Flexible Fuel
+86,6,2019 Mercedes-Benz GLS 450 Base 4MATIC,56353,56353, Lunar Blue Metallic , Ginger , All-wheel Drive ,16–22,Gasoline ,9-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo
+87,7,2019 GMC Yukon Denali,70981,70981, Onyx Black , Jet Black , Four-wheel Drive ,14–22,Gasoline ,10-Speed Automatic,6.2L V8 16V GDI OHV
+88,8,2019 Mercedes-Benz AMG C 43 Base 4MATIC,54871,54871, designo Cardinal Red , Black , All-wheel Drive ,19–27,Gasoline ,9-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo
+89,9,2016 Ford Mustang GT Premium,52485,52485, Black , Ebony , Rear-wheel Drive ,15–25,Gasoline ,6-Speed Automatic,5.0L V8 32V MPFI DOHC
+90,10,2018 Honda Odyssey EX-L,35371,35371, Gray , Beige , Front-wheel Drive ,19–28,Gasoline ,9-Speed Automatic,3.5L V6 24V GDI SOHC
+91,11,2020 Acura MDX 3.5L w/Technology Package,41985,41985, Modern Steel Metallic , Ebony , Front-wheel Drive ,20–27,Gasoline ,9-Speed Automatic,3.5L V6 24V GDI SOHC
+92,12,2019 Toyota 4Runner Limited,48759,48759, Blizzard Pearl , Redwood , Four-wheel Drive ,17–20,Gasoline ,5-Speed Automatic,4.0L V6 24V MPFI DOHC
+93,13,2019 Toyota Corolla SE,20995,20995, Blue , Black , Front-wheel Drive ,None,Gasoline ,Automatic CVT,1.8L I4 16V MPFI DOHC
+94,14,2017 BMW 440 Gran Coupe i xDrive,26500,26500, Blue , Coral Red / Black , All-wheel Drive ,21–31,Gasoline ,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+95,15,2009 INFINITI FX35 Base,14500,14500, Black , Beige , Rear-wheel Drive ,16–23,Gasoline Fuel ,7-Speed A/T,303.0HP 3.5L V6 Cylinder Engine Gasoline Fuel
+96,16,2021 BMW X3 xDrive30i,45151,45151, Glacier Silver Metallic , Black , All-wheel Drive ,23–29,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+97,17,2019 BMW X5 xDrive40i,54488,54488, Alpine White , Canberra Beige , All-wheel Drive ,20–26,Gasoline ,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+98,18,2022 Toyota Highlander Hybrid Platinum,62000,62000, Black , Brown , All-wheel Drive ,35–34,Gas/Electric Hybrid ,CVT Transmission,243.0HP 2.5L 4 Cylinder Engine Gas/Electric Hybrid
+99,19,2019 Ford Expedition Max Platinum,62998,62998, Black , Ebony , Four-wheel Drive ,None,Gasoline ,10-Speed Automatic,3.5L V6 24V GDI DOHC Twin Turbo
+100,0,2019 Land Rover Range Rover Velar P250 S,48900,48900, Narvik Black , Ebony / Ebony , Four-wheel Drive ,21–27,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+101,1,2019 Lexus RC 300 ,35998,35998, Gray , Tan , Rear-wheel Drive ,21–30,Gasoline ,8-Speed Automatic,2.0L I4 16V PDI DOHC Turbo
+102,2,2021 Tesla Model Y Long Range,68984,68984, White , Black , All-wheel Drive ,131–117,Electric ,1-Speed Automatic,Electric
+103,3,2022 Tesla Model S Base,108950,108950, Pearl White Multi , Black , All-wheel Drive ,124–115,Electric ,1-Speed Automatic,Electric
+104,4,2021 Tesla Model Y Long Range,68995,68995, SELECT , White / Black , All-wheel Drive ,131–117,Electric ,1-Speed Automatic,Electric
+105,5,2021 Hyundai Elantra Limited,29000,29000, Quartz White , Medium Gray , Front-wheel Drive ,31–41,Gasoline ,Automatic CVT,2.0L I4 16V MPFI DOHC
+106,6,2019 Honda Accord Sport,23981,23981, Red , Black , Front-wheel Drive ,29–35,Gasoline ,Automatic CVT,1.5L I4 16V GDI DOHC Turbo
+107,7,2019 Mazda CX-9 Touring,32199,32199, Snowflake White Pearl Mica , Black , All-wheel Drive ,20–26,Gasoline ,6-Speed Automatic,2.5L I4 16V GDI DOHC Turbo
+108,8,2020 Ford F-150 Lariat,52151,52151, Magnetic Metallic , Black , Four-wheel Drive ,None,Gasoline ,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo
+109,9,2013 BMW 335 i,19650,19650, Silver , – , Rear-wheel Drive ,23–33,Gasoline ,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+110,10,2012 Mercedes-Benz E-Class E 350,16495,16495, – , – , Rear-wheel Drive ,20–30,Gasoline ,7-Speed Automatic,3.5L V6 24V GDI DOHC
+111,11,2019 Honda CR-V EX-L,29977,29977, Molten Lava Pearl , Ivory , All-wheel Drive ,27–33,Gasoline ,Automatic CVT,1.5L I4 16V GDI DOHC Turbo
+112,12,2013 Mercedes-Benz SL-Class SL 550,34987,34987, Diamond White Metallic , Black , Rear-wheel Drive ,17–25,Gasoline ,Automatic,Turbocharged Gas V8 4.6L/285
+113,13,2018 BMW 320 i xDrive,23698,23698, Black , Venetian Beige , All-wheel Drive ,23–34,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+114,14,2019 Toyota Highlander LE,28995,28995, Predawn Gray Mica , Black , All-wheel Drive ,19–26,Gasoline ,8-Speed Automatic,3.5L V6 24V PDI DOHC
+115,15,2021 Tesla Model Y Long Range,71999,71999, White , Black , All-wheel Drive ,131–117,Electric ,1-Speed Automatic,Electric
+116,16,2015 Toyota Avalon XLE Touring,19980,19980, Sizzling Crimson Mica , Beige , Front-wheel Drive ,21–31,Gasoline ,6-Speed Automatic,3.5L V6 24V MPFI DOHC
+117,17,2018 Audi S4 3.0T Premium Plus,41700,41700, Tango Red Metallic , Black , All-wheel Drive ,21–30,Gasoline ,8-Speed Automatic,3.0L V6 24V GDI DOHC Turbo
+118,18,2016 Volvo XC60 T6 Premier Plus,25990,25990, Osmium Grey Metallic , Off Black , All-wheel Drive ,17–23,Gasoline ,6-Speed Automatic,3.0L I6 24V MPFI DOHC Turbo
+119,19,2017 Kia Optima EX,17500,17500, Maroon , Black , Front-wheel Drive ,24–34,Gasoline ,6 speed automatic w/sportmatic,4 Cylinder Engine
+120,0,2020 Porsche Macan S,67995,67995, Gray , Beige , All-wheel Drive ,18–23,Gasoline Fuel ,7-Speed A/T,348.0HP 3.0L V6 Cylinder Engine Gasoline Fuel
+121,1,2019 Toyota 4Runner Limited,40887,40887, Blizzard Pearl , Redwood , Four-wheel Drive ,17–20,Gasoline ,5-Speed Automatic,4.0L V6 24V MPFI DOHC
+122,2,2021 GMC Yukon Denali,84489,84489, White Frost Tri-Coat , – , Four-wheel Drive ,14–19,Diesel ,10-Speed Automatic,3.0L I6 24V DDI DOHC Turbo Diesel
+123,3,2015 Toyota 4Runner Limited,29995,29995, White , Tan , Four-wheel Drive ,17–21,Gasoline ,5-Speed Automatic,4.0L V6 24V MPFI DOHC
+124,4,2013 Lexus ES 350 Base,14899,14899, Brown , Beige , Front-wheel Drive ,21–31,Gasoline ,6-Speed Automatic,3.5L V6 24V MPFI DOHC
+125,5,2020 Mazda Mazda6 Sport,29998,29998, Jet Black Mica , Parchment , Front-wheel Drive ,23–31,Gasoline ,6-Speed Automatic,2.5L I4 16V
+126,6,2010 Lexus ES 350 Base,9799,9799, BURGUN , BEIGE , Front-wheel Drive ,19–0,Gasoline ,Automatic,V6 Cylinder Engine
+127,7,2019 Honda Pilot EX-L,36631,36631, Crystal Black Pearl , – , All-wheel Drive ,18–26,Gasoline ,6-Speed Automatic,3.5L V6 24V GDI SOHC
+128,8,2013 Mercedes-Benz S-Class S 550 4MATIC,25777,25777, Blue , Cashmere / Savanna , All-wheel Drive ,15–24,Gasoline ,7-Speed Automatic,4.7L V8 32V GDI DOHC Twin Turbo
+129,9,2020 Mercedes-Benz G-Class G 550 4MATIC,149990,149990, designo Diamond White Metallic , Black , All-wheel Drive ,13–17,Gasoline ,9-Speed Automatic,4.0L V8 32V GDI DOHC Twin Turbo
+130,10,2019 Mercedes-Benz C-Class C 300,42000,42000, Graphite , Cranberry Red , Rear-wheel Drive ,22–31,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+131,11,2020 Mercedes-Benz CLA 250 Base,38995,38995, Polar White , – , Front-wheel Drive ,25–35,Gasoline ,7-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo
+132,12,2004 Ford Freestar Limited,6000,6000, Green , Beige , Front-wheel Drive ,16–23,Gasoline Fuel ,A/T,201.0HP 4.2L V6 Cylinder Engine Gasoline Fuel
+133,13,2019 Mercedes-Benz AMG C 43 Base 4MATIC,48500,48500, Polar White , – , All-wheel Drive ,19–27,Gasoline ,9-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo
+134,14,2021 Tesla Model Y Performance,73998,73998, Gray , Black , All-wheel Drive ,115–106,Electric ,1-Speed Automatic,Electric
+135,15,2017 Subaru Forester 2.5i Premium,22998,22998, Jasmine Green Metallic , Gray , All-wheel Drive ,26–32,Gasoline ,Automatic CVT,2.5L H4 16V MPFI DOHC
+136,16,2021 Aston Martin DBX Base,173996,173996, Black , Orange , All-wheel Drive ,14–18,Gasoline ,9-Speed Automatic,4.0L V8 32V GDI DOHC Twin Turbo
+137,17,2019 Volvo XC60 T5 Momentum,42550,42550, Crystal White Pearl Metallic , Maroon Brown , All-wheel Drive ,20–27,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+138,18,2022 Tesla Model S Base,109950,109950, Black , Black , All-wheel Drive ,124–115,Electric ,1-Speed Automatic,Electric
+139,19,2020 Kia Telluride SX,52037,52037, Snow White Pearl , Brown , Front-wheel Drive ,20–26,Gasoline ,8-Speed Automatic,3.8L V6 24V GDI DOHC
+140,0,2021 Dodge Challenger GT,35594,35594, F8 Green , Black , Rear-wheel Drive ,19–30,Gasoline ,8-Speed Automatic,3.6L V6 24V MPFI DOHC
+141,1,2017 Hyundai Tucson Eco,18495,18495, Coliseum Grey , Black , All-wheel Drive ,25–30,Gasoline ,7-Speed Automatic with Auto-Shift,1.6L I4 16V GDI DOHC Turbo
+142,2,2020 Subaru Ascent Touring 7-Passenger,31754,31754, Crystal White Pearl , Java Brown , All-wheel Drive ,20–26,Gasoline ,Automatic CVT,2.4L H4 16V GDI DOHC Turbo
+143,3,2021 GMC Acadia SLE,34990,34990, Satin Steel Metallic , Jet Black , Front-wheel Drive ,21–27,Gasoline ,9-Speed Automatic,3.6L V6 24V GDI DOHC
+144,4,2016 Ford Explorer Sport,27500,27500, Ruby Red Metallic , Ebony Black , Four-wheel Drive ,16–22,Gasoline ,6-Speed Automatic,3.5L V6 24V GDI DOHC Twin Turbo
+145,5,2020 Nissan Pathfinder SL,28998,28998, Gun Metallic , Charcoal , Front-wheel Drive ,20–27,Gasoline ,Automatic CVT,3.5L V6 24V GDI DOHC
+146,6,2005 Volvo S60 2.4,3059,3059, White , – , Front-wheel Drive ,21–29,Gasoline ,5-Speed Automatic,2.4L I5 20V MPFI DOHC
+147,7,2020 Jaguar F-PACE S,47077,47077, Narvik Black , Ebony / Ebony , All-wheel Drive ,18–23,Gasoline ,Automatic,V6
+148,8,2016 Ford Explorer Sport,29000,29000, Black , Ebony Black , Four-wheel Drive ,16–22,Gasoline ,6-Speed Automatic,3.5L V6 24V GDI DOHC Twin Turbo
+149,9,2010 Lincoln Town Car Signature Limited,14995,14995, – , Light Camel , Rear-wheel Drive ,16–24,E85 Flex Fuel ,4-Speed Automatic,4.6L V8 16V MPFI SOHC Flexible Fuel
+150,10,2016 Ford Fusion SE,18995,18995, Ruby Red Metallic Tinted Clearcoat , Charcoal Black , Front-wheel Drive ,22–34,Gasoline ,6-Speed Automatic,2.5L I4 16V MPFI DOHC
+151,11,2020 Acura MDX 3.5L w/Technology Package,39590,39590, Modern Steel Metallic , Ebony , All-wheel Drive ,19–26,Gasoline ,9-Speed Automatic,3.5L V6 24V GDI SOHC
+152,12,2018 BMW 330 i xDrive,32998,32998, Black , Black , All-wheel Drive ,23–33,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+153,13,2019 Nissan Rogue SV,22797,22797, Gun Metallic , Charcoal , All-wheel Drive ,25–32,Gasoline ,Automatic CVT,2.5L I4 16V MPFI DOHC
+154,14,2016 Audi Q3 2.0T Premium Plus,21944,21944, Cortina White , Black , Front-wheel Drive ,20–29,Gasoline ,6-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+155,15,2018 BMW 320 320i xDrive,22950,22950, Black Sapphire Metallic , Black , All-wheel Drive ,23–34,Gasoline ,Automatic,Engine: 2.0L TwinPower Turbo 4-Cylinder 16V DOHC
+156,16,2019 Jeep Grand Cherokee Limited,34600,34600, Diamond Black , Black , Four-wheel Drive ,18–25,Gasoline ,8-Speed Automatic,3.6L V6 24V MPFI DOHC
+157,17,2018 Chevrolet Suburban LT,52998,52998, White , Brown , 4WD ,15–22,Gasoline ,6-Speed Automatic,5.3L V8 16V GDI OHV
+158,0,2015 BMW 228 i xDrive,26791,26791, White Metallic , Oyster , All-wheel Drive ,22–33,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+159,1,2019 Ford Escape SEL,24223,24223, Lightning Blue Metallic , Medium Light Stone , Four-wheel Drive ,22–28,Gasoline ,6-Speed Automatic,1.5L I4 16V GDI DOHC Turbo
+160,2,2013 Mercedes-Benz S-Class S 550 4MATIC,28995,28995, Diamond White Metallic , Shara Beige , All-wheel Drive ,15–24,Gasoline ,7-Speed Automatic,4.7L V8 32V GDI DOHC Twin Turbo
+161,3,2020 Mercedes-Benz GLA 250 Base 4MATIC,33808,33808, Midnight Black , Shara Beige , All-wheel Drive ,22–30,Gasoline ,7-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo
+162,4,2017 Subaru Forester 2.5i Premium,22390,22390, Crystal White Pearl , Gray , All-wheel Drive ,26–32,Gasoline ,Automatic CVT,2.5L H4 16V MPFI DOHC
+163,5,2021 GMC Yukon Denali,85549,85549, Black , Brownstone / Jet Black , Four-wheel Drive ,14–19,Gasoline ,10-Speed Automatic,6.2L V8 16V GDI OHV
+164,6,2019 Volvo XC40 R-Design,29740,29740, Bursting Blue Metallic , Charcoal , All-wheel Drive ,23–31,Gasoline ,Automatic,Intercooled Turbo Regular Unleaded I-4 2.0 L/120
+165,7,2021 Honda Accord EX-L,34995,34995, Platinum White Pearl , Black , Front-wheel Drive ,30–38,Gasoline ,Automatic CVT,1.5L I4 16V GDI DOHC Turbo
+166,8,2020 Mercedes-Benz S-Class S 560,85188,85188, designo Diamond White , Black , Rear-wheel Drive ,17–27,Gasoline ,9-Speed Automatic,4.0L V8 32V GDI DOHC Twin Turbo
+167,9,2020 Lexus RX 350 Base,42990,42990, Champagne , – , Front-wheel Drive ,20–27,Gasoline ,8-Speed Automatic,3.5L V6 24V PDI DOHC
+168,10,2020 Mazda CX-5 Grand Touring,35465,35465, Snowflake White Pearl Mica , Black , All-wheel Drive ,24–30,Gasoline ,Automatic,Regular Unleaded I-4 2.5 L/152
+169,11,2017 Toyota Sienna XLE Premium,22950,22950, Midnight Black Metallic , Ash , FWD ,19–27,Gasoline ,8-Speed Automatic,3.5L V6 24V GDI DOHC
+170,12,2020 Chevrolet Trax LS,13995,13995, Gray , – , Front-wheel Drive ,26–31,Gasoline ,6-Speed Automatic,1.4L I4 16V MPFI DOHC Turbo
+171,13,2019 Dodge Charger R/T,35484,35484, Pitch Black Clearcoat , Black , Rear-wheel Drive ,16–25,Gasoline ,8-Speed Automatic,5.7L V8 16V MPFI OHV
+172,14,2012 Mercedes-Benz C-Class C 250 Sport,13000,13000, Black , Beige , Rear-wheel Drive ,21–31,Gasoline Fuel ,A/T,201.0HP 1.8L 4 Cylinder Engine Gasoline Fuel
+173,15,2021 BMW X3 sDrive30i,42741,42741, Glacier Silver Metallic , Black , Rear-wheel Drive ,25–29,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+174,16,2021 Porsche Macan Base,55988,55988, Black , – , All-wheel Drive ,19–23,Gasoline ,7-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo
+175,17,2018 Jeep Wrangler Unlimited Sport,32906,32906, Bright White Clearcoat , Black , Four-wheel Drive ,17–23,Gasoline ,8-Speed Automatic,3.6L V6 24V MPFI DOHC
+176,18,2022 Land Rover Range Rover Evoque SE,51500,51500, Fuji White , Ebony , All-wheel Drive ,20–27,Gasoline ,Automatic,I4
+177,0,2010 Subaru Outback 2.5 i Limited,6000,6000, White , Beige , All-wheel Drive ,22–29,Gasoline Fuel ,A/T,170.0HP 2.5L 4 Cylinder Engine Gasoline Fuel
+178,1,2019 BMW X5 xDrive40i,54190,54190, Alpine White , Amarone , All-wheel Drive ,20–26,Gasoline ,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+179,2,2019 Honda Passport EX-L,33949,33949, Black Copper Pearl , – , Front-wheel Drive ,20–25,Gasoline ,9-Speed Automatic,3.5L V6 24V GDI SOHC
+180,3,2020 Nissan Rogue SL,33765,33765, Magnetic Black Pearl , Charcoal , Front-wheel Drive ,26–33,Gasoline ,Automatic CVT,2.5L I4 16V MPFI DOHC
+181,4,2021 Chrysler 300 S,30000,30000, Gloss Black , Black , Rear-wheel Drive ,19–30,Gasoline ,8-Speed Automatic,3.6L V6 24V MPFI DOHC
+182,5,2019 BMW M240 i xDrive,47734,47734, Black Sapphire Metallic , Black , All-wheel Drive ,21–30,Gasoline ,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+183,6,2013 Acura MDX 3.7L Advance,18000,18000, White , Beige , All-wheel Drive ,16–21,Gasoline Fuel ,Transmission w/Dual Shift Mode,300.0HP 3.7L V6 Cylinder Engine Gasoline Fuel
+184,7,2021 Honda Accord Sport SE,28500,28500, Gray , Black , Front-wheel Drive ,29–35,Gasoline ,Automatic CVT,1.5L I4 16V GDI DOHC Turbo
+185,8,2020 Honda Civic Sport,26789,26789, Black , Black , Front-wheel Drive ,29–37,Gasoline ,Automatic CVT,2.0L I4 16V MPFI DOHC
+186,9,2016 Jeep Wrangler Unlimited Rubicon,41500,41500, Billet Silver Clearcoat Metallic , Black , Four-wheel Drive ,16–21,Gasoline ,5-Speed Automatic,3.6L V6 24V MPFI DOHC
+187,10,2019 BMW X3 sDrive30i,29998,29998, Alpine White , Canberra Beige , Rear-wheel Drive ,23–30,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+188,11,2020 Lincoln Aviator Reserve AWD,57962,57962, Infinite Black Metallic , Medium Slate , All-wheel Drive ,17–24,Gasoline ,10-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo
+189,12,2016 Toyota Camry SE,18998,18998, Creme Brulee Mica , Black , Front-wheel Drive ,25–35,Gasoline ,6-Speed Automatic,2.5L I4 16V MPFI DOHC
+190,13,2021 BMW X3 M AWD,73980,73980, Black Sapphire Metallic , Sakhir Orange , All-wheel Drive ,14–19,Gasoline ,8-Speed Automatic,3.0L I6 24V GDI DOHC Twin Turbo
+191,14,2021 Mercedes-Benz AMG GLE 53 Base,88998,88998, Selenite Gray Metallic , Black , All-wheel Drive ,18–23,Gasoline ,9-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+192,15,2019 INFINITI QX60 Luxe,30446,30446, Liquid Platinum , Graphite , All-wheel Drive ,19–26,Gasoline ,Automatic CVT,3.5L V6 24V GDI DOHC
+193,16,2012 Ford Expedition EL King Ranch,15999,15999, Black , Charcoal Black w/King Ranch Red , Four-wheel Drive ,13–0,Gasoline ,6-Speed Automatic,8 Cylinder Engine
+194,17,2017 Cadillac XT5 Luxury,24497,24497, Radiant Silver Metallic , Jet Black , Front-wheel Drive ,19–27,Gasoline ,8-Speed Automatic,V6 Cylinder Engine
+195,18,2020 Acura TLX V6 w/Technology Package,33634,33634, Black , – , Front-wheel Drive ,20–31,Gasoline ,9-Speed Automatic,3.5L V6 24V GDI SOHC
+196,19,2020 Jeep Grand Cherokee Limited,46529,46529, Diamond Black , Black , Four-wheel Drive ,18–25,Gasoline ,8-Speed Automatic,3.6L V6 24V MPFI DOHC
+197,0,2020 RAM 1500 Limited,53791,53791, Diamond Black , – , Rear-wheel Drive ,20–25,Gasoline ,8-Speed Automatic,5.7L V8 16V MPFI OHV
+198,1,2021 Porsche Macan Base,59995,59995, Night Blue Metallic , Black , All-wheel Drive ,19–23,Gasoline ,7-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo
+199,2,2019 Mercedes-Benz GLC 300 Base 4MATIC,34885,34885, Polar White , – , All-wheel Drive ,22–27,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+200,3,2020 Lincoln Aviator Reserve AWD,59962,59962, Black , Ebony , All-wheel Drive ,17–24,Gasoline ,10-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo
+201,4,2019 Chevrolet Traverse LS,29881,29881, Black , Jet Black , All-wheel Drive ,17–25,Gasoline ,9-Speed Automatic,3.6L V6 24V GDI DOHC
+202,5,2019 BMW M550 i Xdrive,43948,43948, Black , Black , All-wheel Drive ,18–25,Gasoline ,sport automatic,8 Cylinder Engine
+203,6,2021 Porsche Macan GTS,86996,86996, Dolomite Silver Metallic , Black , All-wheel Drive ,17–22,Gasoline ,7-Speed Automatic with Auto-Shift,2.9L V6 24V GDI DOHC Twin Turbo
+204,7,2020 Tesla Model Y Long Range,66900,66900, Black , White / Black , All-wheel Drive ,127–114,Electric ,1-Speed Automatic,Electric
+205,8,2020 Lexus IS 350 Base,27999,27999, White , Red , All-wheel Drive ,19–26,Gasoline ,6-Speed Automatic,3.5L V6 24V PDI DOHC
+206,9,2016 Acura ILX 2.4L,17000,17000, Graphite Luster Metallic , Graystone , Front-wheel Drive ,25–36,Gasoline ,8-Speed Automatic with Auto-Shift,2.4L I4 16V GDI DOHC
+207,10,2017 Ford Escape Titanium,22977,22977, Gray , Medium Light Stone , Four-wheel Drive ,22–28,Gasoline ,6-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+208,11,2017 Lexus GX 460 Base,37672,37672, – , – , Four-wheel Drive ,15–18,Gasoline ,6-Speed Automatic,4.6L V8 32V MPFI DOHC
+209,12,2019 Mazda CX-5 Touring,29998,29998, Machine Gray Metallic , Black , All-wheel Drive ,24–30,Gasoline ,6-Speed Automatic,2.5L I4 16V GDI DOHC
+210,13,2019 Mercedes-Benz C-Class C 300 4MATIC,35992,35992, Black , – , All-wheel Drive ,22–33,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+211,14,2017 Ford Explorer XLT,26998,26998, Tan , Black , Front-wheel Drive ,17–24,E85 Flex Fuel ,6-Speed Automatic,3.5L V6 24V MPFI DOHC Flexible Fuel
+212,15,2019 Mercedes-Benz AMG GLC 43 Base 4MATIC,51477,51477, Gray Metallic , – , All-wheel Drive ,19–25,Gasoline ,9-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo
+213,16,2020 Lexus RX 450hL Base,56500,56500, Matador Red Mica , Parchment , All-wheel Drive ,29–28,Hybrid ,Automatic CVT,3.5L V6 24V PDI DOHC Hybrid
+214,17,2020 Jeep Grand Cherokee Limited,43645,43645, Diamond Black , Black , Four-wheel Drive ,18–25,Gasoline ,8-Speed Automatic,3.6L V6 24V MPFI DOHC
+215,18,2016 Chevrolet Corvette Stingray Z51,58500,58500, Shark Gray Metallic , Jet Black , Rear-wheel Drive ,17–29,Gasoline ,8-Speed Automatic,6.2L V8 16V GDI OHV
+216,19,2017 Mercedes-Benz E-Class E 300 4MATIC,31862,31862, White , Beige , All-wheel Drive ,22–29,Gasoline ,9g tronic automatic,4 Cylinder Engine
+217,0,2019 Lexus RX 350 350,45998,45998, Obsidian Black , Parchment , Front-wheel Drive ,20–28,Gasoline ,8-Speed Automatic,3.5L V6 24V PDI DOHC
+218,1,2022 Toyota Highlander Platinum,51988,51988, Magnetic Gray Metallic , Gray , Front-wheel Drive ,21–29,Gasoline ,8-Speed Automatic,3.5L V6 24V PDI DOHC
+219,2,2016 Toyota Sienna Limited Premium,38000,38000, White , Brown , Front-wheel Drive ,18–25,Gasoline Fuel ,A/T,266.0HP 3.5L V6 Cylinder Engine Gasoline Fuel
+220,3,2019 Land Rover Range Rover Velar P250 S,49620,49620, Fuji White , Light Oyster / Ebony / Ebony , Four-wheel Drive ,21–27,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+221,4,2020 Jaguar E-PACE SE,47994,47994, Santorini Black , Ebony / Ebony , All-wheel Drive ,21–28,Gasoline ,Automatic,I4
+222,5,2020 Subaru Forester Premium,32252,32252, Magnetite Gray Metallic , Black , All-wheel Drive ,26–33,Gasoline ,Automatic CVT,2.5L H4 16V GDI DOHC
+223,6,2018 Jeep Wrangler Unlimited Sport,,, Black Clearcoat , Black , Four-wheel Drive ,17–23,Gasoline ,8-Speed Automatic,3.6L V6 24V MPFI DOHC
+224,7,2021 Acura ILX Premium Package,31000,31000, Platinum White Pearl , Ebony , Front-wheel Drive ,24–34,Gasoline ,8-Speed Automatic with Auto-Shift,2.4L I4 16V GDI DOHC
+225,8,2020 Jaguar E-PACE SE,46494,46494, Fuji White , Ebony / Ebony , All-wheel Drive ,21–28,Gasoline ,Automatic,I4
+226,9,2021 BMW X5 xDrive40i,60227,60227, Black Sapphire Metallic , Black , All-wheel Drive ,21–25,Gasoline ,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+227,10,2021 Toyota 4Runner SR5 Premium,40899,40899, White , Black / Graphite , Rear-wheel Drive ,16–19,Gasoline ,5-Speed Automatic,4.0L V6 24V MPFI DOHC
+228,11,2022 Kia Telluride SX,61995,61995, Gravity Gray , Black , Front-wheel Drive ,20–26,Gasoline ,8-Speed Automatic,3.8L V6 24V GDI DOHC
+229,12,2020 INFINITI QX80 Luxe,58993,58993, Black Obsidian , Graphite , Rear-wheel Drive ,14–20,Gasoline ,7-Speed Automatic,5.6L V8 32V GDI DOHC
+230,13,2021 Tesla Model Y Long Range,69995,69995, White , – , All-wheel Drive ,131–117,Electric ,1-Speed Automatic,Electric
+231,14,2019 Land Rover Range Rover Velar P250 S,48540,48540, Santorini Black , Ebony / Ebony , Four-wheel Drive ,21–27,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+232,15,2021 Mercedes-Benz C-Class C 300,51251,51251, Black , Black , Rear-wheel Drive ,24–33,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+233,16,2002 Lexus SC 430 Base,24900,24900, Gold , Beige , Rear-wheel Drive ,18–23,Gasoline Fuel ,A/T,300.0HP 4.3L 8 Cylinder Engine Gasoline Fuel
+234,17,2019 BMW X7 xDrive50i,69995,69995, Gray Metallic , Cognac , All-wheel Drive ,15–21,Gasoline ,8-Speed Automatic,4.4L V8 32V GDI DOHC Twin Turbo
+235,18,2020 Cadillac XT5 Sport,58829,58829, Stellar Black Metallic , Black , All-wheel Drive ,18–25,Gasoline ,9-Speed Automatic,3.6L V6 24V GDI DOHC
+236,0,2018 Nissan Frontier S,21987,21987, Brilliant Silver , Steel , Rear-wheel Drive ,17–22,Gasoline ,5-Speed Automatic,2.5L I4 16V MPFI DOHC
+237,1,2019 Toyota RAV4 LE,31687,31687, Silver Sky Metallic , Black , Front-wheel Drive ,26–35,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+238,2,2017 Hyundai Elantra SE,12995,12995, Galactic Gray , Gray , Front-wheel Drive ,29–38,Gasoline ,6-Speed Automatic,2.0L I4 16V GDI DOHC
+239,3,2019 Honda CR-V EX-L,34475,34475, Gunmetal Metallic , Gray , Front-wheel Drive ,28–34,Gasoline ,Automatic CVT,1.5L I4 16V GDI DOHC Turbo
+240,4,2019 Subaru Outback 2.5i Limited,28798,28798, Cinnamon Brown Pearl , Ivory , All-wheel Drive ,25–32,Gasoline ,Automatic CVT,2.5L H4 16V MPFI DOHC
+241,5,2022 Chevrolet Tahoe Z71,82977,82977, Black , Black , Four-wheel Drive ,15–20,Gasoline ,10-Speed Automatic,6.2L V8 16V GDI OHV
+242,6,2021 Mercedes-Benz S-Class S 580 4MATIC,109990,109990, Anthracite Blue , Macchiato , All-wheel Drive ,None,Gasoline ,9-Speed Automatic,4.0L V8 32V GDI DOHC Twin Turbo
+243,7,2017 Lexus RX 350 ,37998,37998, Gray , Black , Front-wheel Drive ,20–27,Gasoline ,8-Speed Automatic,3.5L V6 24V GDI DOHC
+244,8,2020 Subaru Forester Premium,31998,31998, Crystal Black Silica , Gray , All-wheel Drive ,26–33,Gasoline ,Automatic CVT,2.5L H4 16V GDI DOHC
+245,9,2021 Toyota RAV4 XLE,36769,36769, Blueprint , Black , All-wheel Drive ,27–33,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+246,10,2019 Toyota Tundra SR5,35588,35588, Barcelona Red , Black , Four-wheel Drive ,13–17,Gasoline ,6-Speed Automatic,5.7L V8 32V MPFI DOHC
+247,11,2017 Cadillac XT5 Luxury,25500,25500, Charcoal , Black , All-wheel Drive ,18–26,Gasoline ,8-Speed Automatic,3.6L V6 24V GDI DOHC
+248,12,2017 Acura MDX 3.5L w/Advance Package,24950,24950, Gray , Graystone , All-wheel Drive ,19–26,Gasoline ,9-Speed Automatic,3.5L V6 24V GDI SOHC
+249,13,2020 Cadillac XT5 Premium Luxury,43147,43147, Stellar Black Metallic , Cirrus , Front-wheel Drive ,21–28,Gasoline ,9-Speed Automatic,3.6L V6 24V GDI DOHC
+250,14,2018 Chevrolet Camaro ZL1,90000,90000, Gray , Black , Rear-wheel Drive ,13–21,Gasoline Fuel ,10-Speed A/T,650.0HP 6.2L 8 Cylinder Engine Gasoline Fuel
+251,15,2014 Mercedes-Benz E-Class E 350 4MATIC,15990,15990, White , White , All-wheel Drive ,21–29,Gasoline Fuel ,7-Speed A/T,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel
+252,16,2018 RAM 1500 Laramie,42000,42000, Brilliant Black Crystal Pearlcoat , Black , Four-wheel Drive ,16–23,Diesel ,8-Speed Automatic,3.0L V6 24V DDI DOHC Turbo Diesel
+253,17,2018 Honda Odyssey EX-L,26900,26900, Black , Gray , Front-wheel Drive ,19–28,Gasoline ,9-Speed Automatic,3.5L V6 24V GDI SOHC
+254,18,2019 Toyota 4Runner Limited,45999,45999, Blizzard Pearl , Redwood , Four-wheel Drive ,17–20,Gasoline ,5-Speed Automatic,4.0L V6 24V MPFI DOHC
+255,19,2021 Acura RDX Technology Package,44491,44491, Majestic Black Pearl , Espresso , All-wheel Drive ,21–27,Gasoline ,10-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+256,0,2010 Lexus LS 460 Base,19990,19990, Black Metallic , Beige , Rear-wheel Drive ,16–24,Gasoline ,8-Speed Automatic,4.6L V8 32V PDI DOHC
+257,1,2016 BMW 528 i xDrive,19995,19995, White , – , All-wheel Drive ,22–34,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+258,2,2020 Jaguar E-PACE SE,49117,49117, Santorini Black , Ebony / Ebony , All-wheel Drive ,21–28,Gasoline ,Automatic,I4
+259,3,2020 Honda Accord Sport 1.5T,29469,29469, – , – , Front-wheel Drive ,29–35,Gasoline ,Automatic CVT,1.5L I4 16V GDI DOHC Turbo
+260,4,2018 Toyota RAV4 Limited,32727,32727, Black Currant Metallic , Black , Front-wheel Drive ,23–29,Gasoline ,6-Speed Automatic,2.5L I4 16V MPFI DOHC
+261,5,2019 Mazda CX-5 Touring,29553,29553, Sonic Silver Metallic , Black , All-wheel Drive ,24–30,Gasoline ,6-Speed Automatic,2.5L I4 16V GDI DOHC
+262,6,2020 Nissan Maxima 3.5 SV,26995,26995, Gun Metallic , Charcoal , Front-wheel Drive ,20–30,Gasoline ,Automatic CVT,3.5L V6 24V GDI DOHC
+263,7,2019 Honda CR-V EX-L,32863,32863, Crystal Black Pearl , Black , All-wheel Drive ,27–33,Gasoline ,Automatic CVT,1.5L I4 16V GDI DOHC Turbo
+264,8,2017 Subaru Forester 2.5i,15491,15491, Jasmine Green Metallic , Gray , All-wheel Drive ,26–32,Gasoline ,Automatic CVT,2.5L H4 16V MPFI DOHC
+265,9,2021 BMW X3 M AWD,71980,71980, Alpine White , Black , All-wheel Drive ,14–19,Gasoline ,8-Speed Automatic,3.0L I6 24V GDI DOHC Twin Turbo
+266,10,2021 Volvo XC40 Recharge Pure Electric P8,60500,60500, Crystal White Metallic , Charcoal , All-wheel Drive ,85–72,Electric ,1-Speed Automatic,Electric
+267,11,2019 Volvo XC60 T5 Inscription,42968,42968, Onyx Black , Blond , Front-wheel Drive ,22–29,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+268,12,2017 Lexus GX 460 Base,38699,38699, Nebula Gray Pearl , Black , Four-wheel Drive ,15–18,Gasoline ,6-Speed Automatic,4.6L V8 32V MPFI DOHC
+269,13,2021 Acura TLX Type S,57988,57988, Majestic Black Pearl , Red , All-wheel Drive ,19–24,Gasoline ,10-Speed Automatic,3.0L V6 24V GDI SOHC Turbo
+270,14,2017 Lincoln MKC Select,25796,25796, Black Velvet , Ebony , All-wheel Drive ,19–25,Gasoline ,6-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+271,15,2021 Aston Martin DBX Base,199500,199500, Midnight Blue , Sahara Tan , All-wheel Drive ,14–18,Gasoline ,9-Speed Automatic,4.0L V8 32V GDI DOHC Twin Turbo
+272,16,2019 Ford Mustang GT Premium,40991,40991, Shadow Black , – , Rear-wheel Drive ,15–24,Gasoline ,10-Speed Automatic,5.0L V8 32V PDI DOHC
+273,17,2021 Chevrolet Silverado 1500 LTZ,46490,46490, Satin Steel Metallic , Jet Black , Rear-wheel Drive ,15–22,Gasoline ,8-Speed Automatic,5.3L V8 16V GDI OHV
+274,18,2007 Lexus GS 350 ,13995,13995, Obsidian , Black , All-wheel Drive ,20–27,Gasoline ,Automatic,3.5L DOHC 24-valve direct injection V6 engine w/dual continuousl
+275,19,2021 Chrysler 300 S,30000,30000, Gloss Black , Black , Rear-wheel Drive ,19–30,Gasoline ,8-Speed Automatic,3.6L V6 24V MPFI DOHC
+276,0,2020 Lexus NX 300 ,38935,38935, Caviar , Black , Front-wheel Drive ,22–28,Gasoline ,6-Speed Automatic,2.0L I4 16V PDI DOHC Turbo
+277,1,2019 Mazda CX-5 Grand Touring,29895,29895, Jet Black Mica , Black , Front-wheel Drive ,25–31,Gasoline ,6-Speed Automatic,2.5L I4 16V GDI DOHC
+278,2,2020 Cadillac XT6 Premium Luxury FWD,47000,47000, Black , Black , Front-wheel Drive ,18–25,Gasoline Fuel ,9-Speed A/T,310.0HP 3.6L V6 Cylinder Engine Gasoline Fuel
+279,3,2020 Jeep Grand Cherokee Overland,39590,39590, Gray , Black , Rear-wheel Drive ,19–26,Gasoline ,8-Speed Automatic,3.6L V6 24V MPFI DOHC
+280,4,2019 Jeep Grand Cherokee Limited,36095,36095, Diamond Black , Black , Four-wheel Drive ,18–25,Gasoline ,8-Speed Automatic,3.6L V6 24V MPFI DOHC
+281,5,2021 Toyota 4Runner Nightshade,54983,54983, Blizzard Pearl , Black / Graphite , Four-wheel Drive ,16–19,Gasoline ,5-Speed Automatic,4.0L V6 24V MPFI DOHC
+282,6,2019 BMW 330 i xDrive,39206,39206, Jet Black , Black , All-wheel Drive ,25–34,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+283,7,2019 Volvo S60 T5 Momentum,35967,35967, Black Stone , Blond , Front-wheel Drive ,24–36,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+284,8,2013 Cadillac CTS Performance,18500,18500, Black , Black , Rear-wheel Drive ,18–27,Gasoline Fuel ,6-Speed A/T,318.0HP 3.6L V6 Cylinder Engine Gasoline Fuel
+285,9,2018 Toyota RAV4 Limited,30300,30300, Galactic Aqua , Ash , All-wheel Drive ,22–28,Gasoline ,6-Speed Automatic,2.5L I4 16V MPFI DOHC
+286,10,2018 Ford Escape SE,24000,24000, Oxford White , Medium Light Stone , Front-wheel Drive ,23–30,Gasoline ,6-Speed Automatic,1.5L I4 16V GDI DOHC Turbo
+287,11,2012 Lexus ES 350 Base,18992,18992, Starfire Pearl , Light Gray , Front-wheel Drive ,19–28,Gasoline ,6-Speed Automatic,3.5L V6 24V MPFI DOHC
+288,12,2021 Toyota Tundra SR5,46326,46326, Cement , – , Rear-wheel Drive ,13–17,Gasoline ,6-Speed Automatic,5.7L V8 32V MPFI DOHC
+289,13,2019 Honda CR-V EX-L,33125,33125, Black , Black , Front-wheel Drive ,28–34,Gasoline ,Automatic CVT,1.5L I4 16V GDI DOHC Turbo
+290,14,2016 BMW X5 xDrive50i,26600,26600, White , Black , All-wheel Drive ,15–21,Gasoline Fuel ,Transmission w/Dual Shift Mode,445.0HP 4.4L 8 Cylinder Engine Gasoline Fuel
+291,15,2021 Acura RDX A-Spec,44684,44684, Modern Steel Metallic , Red , Front-wheel Drive ,22–27,Gasoline ,10-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+292,16,2016 Toyota Prius Two,21999,21999, Blizzard Pearl , Beige , Front-wheel Drive ,54–50,Hybrid ,Automatic CVT,1.8L I4 16V MPFI DOHC Hybrid
+293,17,2019 Honda CR-V EX-L,31499,31499, Gunmetal Metallic , Gray , Front-wheel Drive ,28–34,Gasoline ,Automatic CVT,1.5L I4 16V GDI DOHC Turbo
+294,18,2020 Toyota Camry SE,28998,28998, Gray , Black , Front-wheel Drive ,28–39,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+295,19,2018 Jeep Grand Cherokee Limited,35368,35368, Billet Silver Metallic Clearcoat , Black , Four-wheel Drive ,18–25,Gasoline ,8-Speed Automatic,3.6L V6 24V MPFI DOHC
+296,0,2016 Mercedes-Benz C-Class C 300,25745,25745, Steel Gray Metallic , White , All-wheel Drive ,24–31,Gasoline ,7-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+297,1,2020 Volvo V60 T5 Momentum,31988,31988, Black Stone , – , Front-wheel Drive ,23–34,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+298,2,2020 RAM 1500 Big Horn,46998,46998, Granite Crystal Clearcoat Metallic , Black , Four-wheel Drive ,19–24,Diesel ,8-Speed Automatic,3.0L V6 24V DDI DOHC Turbo Diesel
+299,3,2021 Mazda CX-5 Grand Touring,29034,29034, Jet Black Mica , Black , All-wheel Drive ,24–30,Gasoline ,6-Speed Automatic,2.5L I4 16V GDI DOHC
+300,4,2012 Mercedes-Benz S-Class S 550 4MATIC,25695,25695, Metallic , Ash / Grey , All-wheel Drive ,15–24,Gasoline ,7-Speed Automatic,4.7L V8 32V GDI DOHC Twin Turbo
+301,5,2021 GMC Yukon Denali,75900,75900, White Frost Tri-Coat , Jet Black , Four-wheel Drive ,14–19,Gasoline ,10-Speed Automatic,6.2L V8 16V GDI OHV
+302,6,2003 Chevrolet Express 3500 ,18993,18993, White , – , Rear-wheel Drive ,None,Gasoline ,4-Speed Automatic,6.0L V8 16V MPFI OHV
+303,7,2017 INFINITI Q70L 3.7,34606,34606, Graphite Shadow , Graphite , Rear-wheel Drive ,18–25,Gasoline ,7-Speed Automatic,3.7L V6 24V MPFI DOHC
+304,8,2021 Toyota RAV4 XLE,34845,34845, Magnetic Gray Metallic , Ash , All-wheel Drive ,27–33,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+305,9,2021 Honda Passport EX-L,38666,38666, Crystal Black Pearl , Black , All-wheel Drive ,19–24,Gasoline ,9-Speed Automatic,3.5L V6 24V GDI SOHC
+306,10,2019 BMW X5 xDrive40i,42777,42777, Jet Black , Amarone , All-wheel Drive ,20–26,Gasoline ,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+307,11,2020 Tesla Model Y Long Range,67997,67997, Pearl White Multi , Black , All-wheel Drive ,127–114,Electric ,1-Speed Automatic,Electric
+308,12,2018 BMW 530e xDrive iPerformance,35998,35998, Black , Black , All-wheel Drive ,None,Hybrid ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo Hybrid
+309,13,2019 Honda CR-V EX-L,25999,25999, White , Beige , Front-wheel Drive ,28–34,Gasoline ,Automatic CVT,1.5L I4 16V GDI DOHC Turbo
+310,14,2017 Lexus RX 350 350,36799,36799, Autumn Shimmer , Parchment , All-wheel Drive ,19–26,Gasoline ,8-Speed Automatic,3.5L V6 24V GDI DOHC
+311,15,2021 Mercedes-Benz S-Class S 580 4MATIC,126883,126883, Cirrus Silver Metallic , Black , All-wheel Drive ,None,Gasoline ,9-Speed Automatic,4.0L V8 32V GDI DOHC Twin Turbo
+312,16,2019 Honda CR-V EX-L,32997,32997, Black , Black , All-wheel Drive ,27–33,Gasoline ,Automatic CVT,1.5L I4 16V GDI DOHC Turbo
+313,17,2017 Subaru Forester 2.5i,14991,14991, Ice Silver Metallic , Gray , All-wheel Drive ,26–32,Gasoline ,Automatic CVT,2.5L H4 16V MPFI DOHC
+314,18,2021 Mercedes-Benz C-Class C 300 4MATIC,43625,43625, Lunar Blue Metallic , Silk Beige , All-wheel Drive ,23–33,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+315,19,2017 Honda Accord LX,21998,21998, Red , Tan , Front-wheel Drive ,27–36,Gasoline ,Automatic CVT,2.4L I4 16V GDI DOHC
+316,0,2019 BMW X5 xDrive40i,58242,58242, Phytonic Blue Metallic , Amarone , All-wheel Drive ,20–26,Gasoline ,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+317,1,2019 Ford F-150 Lariat,51999,51999, Agate Black Metallic , Black , Four-wheel Drive ,None,Diesel ,10-Speed Automatic,3.0L V6 24V DI DOHC Turbo Diesel
+318,2,2020 Hyundai Palisade Limited,51498,51498, Becketts Black , Black , All-wheel Drive ,19–24,Gasoline ,Automatic,V6 Cylinder Engine
+319,3,2019 Tesla Model 3 Long Range,47495,47495, White , White / Black , All-wheel Drive ,120–112,Electric ,1-Speed Automatic,Electric
+320,4,2020 Alfa Romeo Giulia Ti,38480,38480, Rosso , Black , Rear-wheel Drive ,24–33,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI SOHC Turbo
+321,5,2021 Acura RDX A-Spec,45500,45500, Black , – , Front-wheel Drive ,22–27,Gasoline ,10-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+322,6,2021 Tesla Model Y Long Range,70995,70995, Red Multi , – , All-wheel Drive ,131–117,Electric ,1-Speed Automatic,Electric
+323,7,2019 Kia Forte LXS,15691,15691, Silky Silver , Black , Front-wheel Drive ,None,Gasoline ,4-Speed Automatic,2.0L I4 16V MPFI DOHC
+324,8,2020 Acura MDX 3.5L w/Technology Package,42888,42888, Majestic Black Pearl , Ebony , Front-wheel Drive ,20–27,Gasoline ,9-Speed Automatic,3.5L V6 24V GDI SOHC
+325,9,2020 Acura TLX ,36495,36495, FATHOM BLUE PEARL , – , Front-wheel Drive ,23–33,Gasoline ,Automatic,Premium Unleaded I-4 2.4 L/144
+326,10,2021 Ford F-150 Lariat,123995,123995, Agate Black Metallic , Black , Four-wheel Drive ,19–24,Gasoline ,10-Speed Automatic,5.0L V8 32V PDI DOHC
+327,11,2021 Audi A4 40 Premium,43340,43340, Navarra Blue Metallic , Rock Gray , All-wheel Drive ,24–31,Gasoline ,7-Speed Automatic,2.0L
+328,12,2022 Toyota Highlander Platinum,54227,54227, Midnight Black Metallic , – , All-wheel Drive ,20–27,Gasoline ,8-Speed Automatic,3.5L V6 24V PDI DOHC
+329,13,2018 Toyota RAV4 LE,17990,17990, Black , Gray , Front-wheel Drive ,23–30,Gasoline ,6-Speed Automatic,2.5L I4 16V MPFI DOHC
+330,14,2020 Lexus ES 350 Base,40745,40745, Obsidian Black , Chateau , Front-wheel Drive ,22–32,Gasoline ,8-Speed Automatic,3.5L V6 24V PDI DOHC
+331,15,2019 Mazda CX-5 Grand Touring,30995,30995, Jet Black Mica , Black , All-wheel Drive ,24–30,Gasoline ,6-Speed Automatic,2.5L I4 16V GDI DOHC
+332,16,2018 BMW 330 i xDrive,20617,20617, Black , Black , All-wheel Drive ,23–33,Gasoline ,sport automatic,4 Cylinder Engine
+333,17,2020 Nissan Rogue S,25808,25808, Caspian Blue , Charcoal , Front-wheel Drive ,26–33,Gasoline ,Automatic CVT,2.5L I4 16V MPFI DOHC
+334,18,2019 Maserati Ghibli S Q4 GranSport,57895,57895, Nero , Nero , All-wheel Drive ,16–24,Gasoline ,8-Speed Automatic,3.0L V6
+335,19,2019 Acura RDX Technology Package,36997,36997, Fathom Blue Pearl , Graystone , Front-wheel Drive ,22–28,Gasoline ,10-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+336,0,2018 Chevrolet Tahoe LT,39950,39950, Silver Ice Metallic , Jet Black , Four-wheel Drive ,16–22,Gasoline ,6-Speed Automatic,5.3L V8 16V GDI OHV
+337,1,2017 Jeep Grand Cherokee Limited,24499,24499, Granite Crystal Clearcoat Metallic , Black , Four-wheel Drive ,18–25,Gasoline ,8-Speed Automatic,3.6L V6 24V MPFI DOHC
+338,2,2000 Lincoln Town Car Executive,5495,5495, White , Gray , Rear-wheel Drive ,18–23,Gasoline ,Automatic 4-Speed,8 Cylinder Engine
+339,3,2020 Acura TLX FWD,23999,23999, Gray , Ebony , Front-wheel Drive ,23–33,Gasoline ,8-Speed Automatic with Auto-Shift,2.4L I4 16V GDI DOHC
+340,4,2018 Mercedes-Benz S-Class S 560 4MATIC,72995,72995, designo Diamond White Metallic , Silk Beige / Espresso Brown , All-wheel Drive ,17–27,Gasoline ,9-Speed Automatic,4.0L V8 32V GDI DOHC Twin Turbo
+341,5,2021 Tesla Model Y Long Range,71643,71643, White , – , All-wheel Drive ,131–117,Electric ,1-Speed Automatic,Electric
+342,6,2019 Tesla Model X Long Range,99995,99995, Pearl White Multi , Black , All-wheel Drive ,99–93,Electric ,1-Speed Automatic,Electric
+343,7,2019 BMW M240 i xDrive,47400,47400, Black Sapphire Metallic , Oyster , All-wheel Drive ,21–30,Gasoline ,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+344,8,2021 Mercedes-Benz GLA 250 Base,43295,43295, Polar White , – , Front-wheel Drive ,25–34,Gasoline ,8-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo
+345,9,2017 Audi Q7 3.0T Premium Plus,43991,43991, Ink Blue Metallic , Nougat Brown , All-wheel Drive ,19–25,Gasoline ,8-Speed Automatic,3.0L V6 24V GDI DOHC Supercharged
+346,10,2019 Audi Q8 3.0T Premium,63925,63925, Orca Black Metallic , Black , All-wheel Drive ,17–22,Hybrid ,8-Speed Automatic,3.0L V6 24V GDI DOHC Turbo Hybrid
+347,11,2020 Mercedes-Benz CLA 250 Base,37584,37584, Cosmos Black Metallic , – , Front-wheel Drive ,25–35,Gasoline ,7-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo
+348,12,2020 Volvo XC60 T5 Inscription,43950,43950, Black , Charcoal , All-wheel Drive ,20–27,Gasoline ,Automatic,Intercooled Turbo Premium Unleaded I-4 2.0 L/120
+349,13,2020 Volkswagen Tiguan 2.0T SE,25277,25277, Pyrite Silver Metallic , Black , Front-wheel Drive ,22–29,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+350,14,2022 BMW M3 Competition xDrive,99605,99605, Gray , Red , All-wheel Drive ,16–22,Gasoline Fuel ,8-Speed A/T,503.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel
+351,15,2019 INFINITI QX50 ESSENTIAL,32995,32995, Eclipse Black , Graphite , All-wheel Drive ,24–30,Gasoline ,Automatic CVT,2.0L I4 16V PDI DOHC Turbo
+352,16,2016 Dodge Charger SXT,26998,26998, Gray , Black , All-wheel Drive ,18–27,Gasoline ,8-Speed Automatic,3.6L V6 24V MPFI DOHC
+353,17,2019 Mercedes-Benz AMG GLE 43 4MATIC Coupe,67399,67399, Obsidian Black Metallic , – , All-wheel Drive ,17–22,Gasoline ,9-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo
+354,18,2020 Honda Civic Sport,25099,25099, Gray , Black , Front-wheel Drive ,29–37,Gasoline ,Automatic CVT,2.0L I4 16V MPFI DOHC
+355,19,2020 Mercedes-Benz GLC 300 Base,47771,47771, Black , Black , Rear-wheel Drive ,22–29,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+356,0,2020 Ford F-150 Lariat,42897,42897, Iconic Silver Metallic , Black , Rear-wheel Drive ,20–26,Gasoline ,10-Speed Automatic,5.0L V8 32V PDI DOHC
+357,1,2022 Ford F-250 Platinum,97000,97000, Agate Black Metallic , Black Onyx , Four-wheel Drive ,None,Diesel ,10-Speed Automatic,6.7L V8 32V DDI OHV Turbo Diesel
+358,2,2019 Ford Expedition Limited,54755,54755, White Platinum , Ebony , Four-wheel Drive ,17–22,Gasoline ,10-Speed Automatic,3.5L V6 24V GDI DOHC Twin Turbo
+359,3,2019 Volvo XC60 T6 Inscription,41499,41499, Pine Gray Metallic , Amber , All-wheel Drive ,19–27,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC
+360,4,2020 Tesla Model Y Long Range,68888,68888, White , Black , All-wheel Drive ,127–114,Electric ,1-Speed Automatic,Electric
+361,5,2005 Lexus SC 430 Base,23997,23997, White Gold Crystal , Beige , Rear-wheel Drive ,18–23,Gasoline ,Automatic,8 Cylinder Engine
+362,6,2020 GMC Acadia SLE,33200,33200, Summit White , Jet Black , Front-wheel Drive ,19–27,Gasoline ,9-SPEED A/T,V6 Cylinder Engine
+363,7,2020 Tesla Model X Long Range,97374,97374, Pearl White Multi , Black , All-wheel Drive ,99–93,Electric ,1-Speed Automatic,Electric
+364,8,2021 Audi A6 45 Sport Premium,51999,51999, Mythos Black Metallic , Black , All-wheel Drive ,23–31,Gasoline ,7-Speed Automatic,I4
+365,9,2019 Volvo XC60 T6 Inscription,43222,43222, Pine Gray Metallic , Charcoal , All-wheel Drive ,19–27,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC
+366,10,2020 Ford F-150 Lariat,49980,49980, Black , Black , Four-wheel Drive ,18–23,Gasoline ,10-Speed Automatic,2.7L V6 24V PDI DOHC Twin Turbo
+367,11,2014 Audi S7 4.0T Prestige quattro,32990,32990, White , – , All-wheel Drive ,17–27,Gasoline ,7-Speed Automatic with Auto-Shift,4.0L V8 32V GDI DOHC Twin Turbo
+368,12,2011 Ford F-150 Lariat,18973,18973, Red , Black , Four-wheel Drive ,14–19,E85 Flex Fuel ,6-Speed Automatic,5.0L V8 32V MPFI DOHC Flexible Fuel
+369,13,2019 Maserati Ghibli Base,46480,46480, Black , Cuoio , Rear-wheel Drive ,17–24,Gasoline ,8-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo
+370,14,2021 Tesla Model Y Long Range,73788,73788, Pearl White Multi , Black , All-wheel Drive ,131–117,Electric ,1-Speed Automatic,Electric
+371,15,2016 Honda Accord EX-L,23995,23995, Gray , Black , Front-wheel Drive ,21–32,Gasoline ,6-Speed Automatic,3.5L V6 24V MPFI SOHC
+372,16,2020 Honda Passport EX-L,38750,38750, Crystal Black Pearl , Black , All-wheel Drive ,19–24,Gasoline ,9-Speed Automatic,3.5L V6 24V GDI SOHC
+373,17,2021 Toyota RAV4 Hybrid XLE Premium,41459,41459, Lunar Rock , – , All-wheel Drive ,41–38,Hybrid ,Automatic CVT,2.5L I4 16V PDI DOHC Hybrid
+374,18,2019 Lexus RX 350 350,45888,45888, Eminent White Pearl , Black , Front-wheel Drive ,20–28,Gasoline ,8-Speed Automatic,3.5L V6 24V PDI DOHC
+375,19,2021 Chevrolet Trax LT,23988,23988, Shadow Gray Metallic , Jet Black , Front-wheel Drive ,24–32,Gasoline ,6-Speed Automatic,1.4L I4 16V MPFI DOHC Turbo
+376,0,2021 Dodge Challenger GT,34490,34490, Smoke Show , – , Rear-wheel Drive ,19–30,Gasoline ,8-Speed Automatic,3.6L V6 24V MPFI DOHC
+377,1,2017 Kia Forte LX,14995,14995, Clear White , Gray , Front-wheel Drive ,25–34,Gasoline ,6-Speed Manual,2.0L I4 16V MPFI DOHC
+378,2,2003 Lexus GX 470 Base,10900,10900, Gray , Beige , Four-wheel Drive ,15–18,Gasoline Fuel ,A/T,235.0HP 4.7L 8 Cylinder Engine Gasoline Fuel
+379,3,2019 BMW X5 xDrive40i,55780,55780, Black Sapphire Metallic , Ivory White , All-wheel Drive ,20–26,Gasoline ,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+380,4,2007 Ford F-150 XLT SuperCrew,8995,8995, Blue , Silver , Four-wheel Drive ,15–19,Gasoline ,4-Speed Automatic,5.4L V8 24V MPFI SOHC
+381,5,2020 Lincoln Aviator Reserve AWD,60499,60499, Magnetic Gray , – , All-wheel Drive ,17–24,Gasoline ,10-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo
+382,6,2019 Mercedes-Benz GLS 450 Base 4MATIC,46229,46229, Selenite Gray Metallic , Black , All-wheel Drive ,16–22,Gasoline ,9-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo
+383,7,2019 Mercedes-Benz C-Class C 300,31431,31431, Black , Black , Rear-wheel Drive ,23–34,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+384,8,2020 Acura RDX A-Spec,40771,40771, Majestic Black Pearl , Red , All-wheel Drive ,21–26,Gasoline ,10-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+385,9,2015 BMW X5 xDrive50i,27693,27693, Glacier Silver Metallic , Black , All-wheel Drive ,15–22,Gasoline ,8-Speed Automatic,4.4L V8 32V GDI DOHC Twin Turbo
+386,10,2021 BMW 228 Gran Coupe 228i sDrive Gran Coupe,42295,42295, Alpine White , – , Front-wheel Drive ,24–33,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+387,11,2021 Tesla Model Y Long Range,71988,71988, – , – , All-wheel Drive ,131–117,Electric ,1-Speed Automatic,Electric
+388,12,2019 Alfa Romeo Stelvio Ti,37888,37888, Vulcano Black Metallic , Black , All-wheel Drive ,22–28,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI SOHC Turbo
+389,13,2020 RAM 1500 Laramie,56998,56998, Burgundy , Black , Four-wheel Drive ,19–24,Gasoline ,8-Speed Automatic,5.7L V8 16V MPFI OHV
+390,14,2019 Mercedes-Benz GLA 250 4MATIC,33845,33845, Midnight Black , Black , All-wheel Drive ,23–31,E85 Flex Fuel ,7-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo Flexible Fuel
+391,15,2021 Toyota 4Runner Limited,47000,47000, Blizzard Pearl , Redwood , Rear-wheel Drive ,16–19,Gasoline ,5-Speed Automatic,4.0L V6 24V MPFI DOHC
+392,16,2021 RAM 1500 Laramie,55421,55421, Diamond Black , Black , Four-wheel Drive ,19–24,Diesel ,8-Speed Automatic,3.0L V6 24V DDI DOHC Turbo Diesel
+393,17,2004 Nissan Pathfinder LE Platinum,3988,3988, Canteen Metallic , Tan , Four-wheel Drive ,15–19,Gasoline ,4-Speed Automatic,3.5L V6 24V MPFI DOHC
+394,18,2021 Hyundai Palisade Limited,44422,44422, Becketts Black , Beige , Front-wheel Drive ,19–26,Gasoline ,8-Speed Automatic,3.8L V6 24V GDI DOHC
+395,19,2017 Volvo XC60 T6 Dynamic,26799,26799, Crystal White Pearl Metallic , Off Black , All-wheel Drive ,19–27,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC
+396,0,2019 BMW 330 i xDrive,36999,36999, Black Sapphire Metallic , Black , All-wheel Drive ,25–34,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+397,1,2017 Audi Q7 3.0T Premium Plus,36998,36998, Florett Silver Metallic , Nougat Brown , All-wheel Drive ,19–25,Gasoline ,8-Speed Automatic,3.0L V6 24V GDI DOHC Supercharged
+398,2,2021 BMW X1 sDrive28i,38488,38488, Black Sapphire Metallic , Black , Front-wheel Drive ,24–33,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+399,3,2021 Tesla Model Y Long Range,71400,71400, Midnight Silver Metallic , White / Black , All-wheel Drive ,131–117,Electric ,1-Speed Automatic,Electric
+400,4,2020 Ford Edge Sport,41500,41500, Star White Metallic Tri-Coat , Ebony , All-wheel Drive ,19–26,Gasoline ,Automatic,Twin Turbo Premium Unleaded V-6 2.7 L/166
+401,5,2021 Lexus GX 460 Base,54795,54795, Black Onyx , Red , Four-wheel Drive ,15–19,Gasoline ,6-Speed Automatic,4.6L V8 32V MPFI DOHC
+402,6,2020 Mercedes-Benz S-Class S 560,84893,84893, designo Diamond White , Porcelain , Rear-wheel Drive ,17–27,Gasoline ,9-Speed Automatic,4.0L V8 32V GDI DOHC Twin Turbo
+403,7,2021 Jeep Wrangler Unlimited Sahara,61500,61500, Tuscadero Pearlcoat , Black , Four-wheel Drive ,0–0,Hybrid ,8-SPEED A/T,4 Cylinder Engine
+404,8,2018 Jeep Grand Cherokee Limited,35908,35908, Diamond Black , Black , Four-wheel Drive ,18–25,Gasoline ,8-Speed Automatic,3.6L V6 24V MPFI DOHC
+405,9,2019 BMW 740 i,50990,50990, Imperial Blue Metallic , Beige , Rear-wheel Drive ,21–29,Gasoline ,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+406,10,2020 Lexus RX 350 Base,50020,50020, Caviar , Parchment , Front-wheel Drive ,20–27,Gasoline ,8-Speed Automatic,3.5L V6 24V PDI DOHC
+407,11,2020 Cadillac XT5 Sport,49492,49492, Radiant Silver Metallic , Black , All-wheel Drive ,18–25,Gasoline ,9-Speed Automatic,3.6L V6 24V GDI DOHC
+408,12,2019 BMW 430 Gran Coupe i xDrive,35980,35980, Carbon Black Metallic , Ivory White , All-wheel Drive ,23–33,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+409,13,2017 Honda Accord EX-L,26998,26998, Blue , Gray , Front-wheel Drive ,21–33,Gasoline ,6-Speed Automatic,3.5L V6 24V MPFI SOHC
+410,14,2019 Mazda CX-5 Grand Touring,29998,29998, Jet Black Mica , Black , Front-wheel Drive ,25–31,Gasoline ,6-Speed Automatic,2.5L I4 16V GDI DOHC
+411,15,2017 GMC Acadia Limited Limited,24997,24997, Ebony Twilight Metallic , Dark Cashmere , All-wheel Drive ,15–22,Gasoline ,Automatic 6-Speed,V6 Cylinder Engine
+412,16,2019 Honda HR-V EX,23850,23850, Modern Steel Metallic , Gray , Front-wheel Drive ,28–34,Gasoline ,Automatic CVT,1.8L I4 16V MPFI SOHC
+413,17,2021 RAM 1500 Longhorn,63000,63000, Diamond Black , Black / Saddle , Four-wheel Drive ,19–24,Gasoline ,8-Speed Automatic,5.7L V8 16V MPFI OHV
+414,18,2019 Dodge Charger R/T,27400,27400, White Knuckle Clearcoat , Black , Rear-wheel Drive ,16–25,Gasoline ,8-Speed Automatic,5.7L V8 16V MPFI OHV
+415,19,2019 Mercedes-Benz C-Class C 300,34333,34333, Black , Black , Rear-wheel Drive ,23–34,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+416,0,2020 Jeep Grand Cherokee Limited,39890,39890, Granite Crystal Clearcoat Metallic , Black , Four-wheel Drive ,18–25,Gasoline ,8-Speed Automatic,3.6L V6 24V MPFI DOHC
+417,1,2021 Hyundai Venue SE,18000,18000, Ceramic White , Black , Front-wheel Drive ,30–33,Gasoline ,Automatic CVT,1.6L I4 16V MPFI DOHC
+418,2,2019 Honda Passport Touring,40000,40000, Black , – , Front-wheel Drive ,20–25,Gasoline ,9-Speed Automatic,3.5L V6 24V GDI SOHC
+419,3,2021 Toyota Highlander Platinum,53598,53598, White , Brown , All-wheel Drive ,20–27,Gasoline ,Automatic,Regular Unleaded V-6 3.5 L/211
+420,4,2021 Mercedes-Benz GLA 250 Base,40496,40496, White , – , Front-wheel Drive ,25–34,Gasoline ,8-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo
+421,5,2020 Acura MDX 3.5L Technology & A-Spec Pkgs,46588,46588, Apex Blue Pearl , Ebony , All-wheel Drive ,19–25,Gasoline ,9-Speed Automatic,3.5L V6 24V GDI SOHC
+422,6,2019 BMW 330 i,39988,39988, Jet Black , Black , Rear-wheel Drive ,26–36,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+423,7,2018 BMW 330 i xDrive,29000,29000, Platinum Silver Metallic , Venetian Beige , All-wheel Drive ,23–33,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+424,8,2018 Cadillac XT5 Luxury,31037,31037, Stellar Black Metallic , Jet Black , Front-wheel Drive ,19–26,Gasoline ,8-Speed Automatic,3.6L V6 24V GDI DOHC
+425,9,2019 Land Rover Range Rover Velar P250 S,47520,47520, Fuji White , Acorn / Ebony , Four-wheel Drive ,21–27,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+426,10,2021 Porsche Macan S,73498,73498, Black , – , All-wheel Drive ,18–24,Gasoline ,7-Speed Automatic with Auto-Shift,3.0L V6 24V GDI DOHC Turbo
+427,11,2021 GMC Yukon Denali,84994,84994, Onyx Black , Jet Black , Four-wheel Drive ,14–19,Gasoline ,10-Speed Automatic,6.2L V8 16V GDI OHV
+428,12,2020 Mercedes-Benz CLA 250 Base 4MATIC,38500,38500, Gray , Black , All-wheel Drive ,23–33,Gasoline ,7-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo
+429,13,2017 Dodge Challenger R/T,35899,35899, Granite Pearlcoat , Black , Rear-wheel Drive ,15–23,Gasoline ,8-Speed Automatic,5.7L V8 16V MPFI OHV
+430,14,2018 BMW X1 xDrive28i,21991,21991, Black , Black , All-wheel Drive ,22–31,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+431,15,2020 Tesla Model Y Long Range,72445,72445, Midnight Silver Metallic , Black , All-wheel Drive ,127–114,Electric ,1-Speed Automatic,Electric
+432,16,2015 Chevrolet Corvette Stingray Z51,56990,56990, Silver , Black , Rear-wheel Drive ,17–29,Gasoline ,8-Speed Automatic,6.2L V8 16V GDI OHV
+433,17,2019 Volvo XC60 T5 Momentum,44962,44962, Onyx Black Metallic , Charcoal , Front-wheel Drive ,22–29,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+434,18,2019 BMW 740 i,52996,52996, Black Sapphire Metallic , Black , Rear-wheel Drive ,21–29,Gasoline ,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+435,19,2021 Kia Seltos SX,34980,34980, Neptune Blue , Black , All-wheel Drive ,25–30,Gasoline ,7-SPEED A/T,4 Cylinder Engine
+436,0,2021 Chevrolet Silverado 1500 LTZ,45990,45990, Satin Steel Metallic , Jet Black , Rear-wheel Drive ,15–22,Gasoline ,8-Speed Automatic,5.3L V8 16V GDI OHV
+437,1,2016 Porsche Cayenne GTS,55952,55952, Meteor Gray Metallic , – , All-wheel Drive ,16–23,Gasoline ,8-Speed Automatic,3.6L V6 24V GDI DOHC Twin Turbo
+438,2,2019 Jeep Grand Cherokee Altitude,43000,43000, Diamond Black , Black , Rear-wheel Drive ,19–26,Gasoline ,8-Speed Automatic,3.6L V6 24V MPFI DOHC
+439,3,2020 Honda Pilot EX-L,41356,41356, White , – , Front-wheel Drive ,19–27,Gasoline ,6-Speed Automatic,3.5L V6 24V GDI SOHC
+440,4,2019 Lincoln Navigator Reserve,65962,65962, Infinite Black Metallic , Ebony , Four-wheel Drive ,16–21,Gasoline ,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo
+441,5,2018 Honda Civic LX,24980,24980, Silver , – , Front-wheel Drive ,31–40,Gasoline ,Automatic CVT,2.0L I4 16V MPFI DOHC
+442,6,2021 Dodge Charger Scat Pack,62500,62500, Frostbite , Black , Rear-wheel Drive ,15–24,Gasoline ,8-Speed Automatic,6.4L V8 16V MPFI OHV
+443,7,2010 BMW 328 i xDrive,9900,9900, Black , White , All-wheel Drive ,17–25,Gasoline Fuel ,6-Speed A/T,230.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel
+444,8,2015 Toyota 4Runner Limited,29817,29817, Attitude Black Metallic , Black , Four-wheel Drive ,17–21,Gasoline ,5-Speed Automatic,4.0L V6 24V MPFI DOHC
+445,9,2021 Lexus GX 460 Base,51600,51600, Starfire Pearl , Red , Four-wheel Drive ,15–19,Gasoline ,6-Speed Automatic,4.6L V8 32V MPFI DOHC
+446,10,2020 BMW X5 xDrive40i,61672,61672, Jet Black , Black , All-wheel Drive ,20–26,Gasoline ,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+447,11,2019 Volvo XC60 T5 Momentum,46968,46968, Osmium Gray Metallic , Charcoal , All-wheel Drive ,20–27,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+448,12,2017 Toyota Tundra Platinum,41999,41999, Red , Black , Four-wheel Drive ,13–17,Gasoline ,6-Speed Automatic,5.7L V8 32V MPFI DOHC
+449,13,2018 Volvo V90 Cross Country T5,52962,52962, Onyx Black Metallic , Charcoal , All-wheel Drive ,23–31,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+450,14,2022 Mercedes-Benz GLB 250 Base 4MATIC,44980,44980, Polar White , – , All-wheel Drive ,23–31,Gasoline ,8-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo
+451,15,2021 Honda Accord Touring 2.0T,39000,39000, Lunar Silver Metallic , Black , Front-wheel Drive ,22–32,Gasoline ,10-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+452,16,2020 Lincoln Aviator Reserve AWD,59998,59998, Black , Gray , All-wheel Drive ,17–24,Gasoline ,Automatic,Twin Turbo Premium Unleaded V-6 3.0 L/183
+453,17,2021 Aston Martin DBX Base,167900,167900, Onyx Black , Obsidian Black , All-wheel Drive ,14–18,Gasoline ,9-Speed Automatic,4.0L V8 32V GDI DOHC Twin Turbo
+454,18,2020 Tesla Model Y Long Range,71912,71912, Black , White / Black , All-wheel Drive ,127–114,Electric ,1-Speed Automatic,Electric
+455,19,2017 Land Rover Range Rover Sport 3.0L Supercharged HSE,32500,32500, Santorini Black , Ebony / Ebony , Four-wheel Drive ,17–23,Gasoline ,8-Speed Automatic,3.0L V6 24V GDI DOHC Supercharged
+456,0,2017 Mitsubishi Outlander SE,22998,22998, White , Black , Front-wheel Drive ,25–30,Gasoline ,Automatic CVT,2.4L I4 16V MPFI SOHC
+457,1,2021 Subaru Outback Limited,33950,33950, Crystal Black Silica , Black , All-wheel Drive ,26–33,Gasoline ,Automatic CVT,2.5L H4 16V GDI DOHC
+458,2,2019 Jeep Grand Cherokee Limited,36937,36937, Diamond Black , Black , Four-wheel Drive ,18–25,Gasoline ,8-Speed Automatic,3.6L V6 24V MPFI DOHC
+459,3,2019 Volkswagen Atlas 3.6L SEL,33995,33995, Pure White , Titan Black , All-wheel Drive ,17–23,Gasoline ,8-Speed Automatic,3.6L V6 24V GDI DOHC
+460,4,2019 Nissan Rogue SL,33995,33995, Gun Metallic , Charcoal , All-wheel Drive ,None,– ,Automatic CVT,2.5L I4 16V MPFI DOHC
+461,5,2019 Cadillac XT5 Luxury,37979,37979, Stellar Black Metallic , Kona Brown , Front-wheel Drive ,19–26,Gasoline ,8-Speed Automatic,3.6L V6 24V GDI DOHC
+462,6,2018 Cadillac XT5 Luxury,32991,32991, Crystal White Tri-Coat , Black , Front-wheel Drive ,19–26,Gasoline ,8-Speed Automatic,3.6L V6 24V GDI DOHC
+463,7,2020 Chevrolet Tahoe LT,41000,41000, Summit White , Black , Four-wheel Drive ,15–21,Gasoline ,6-Speed Automatic,5.3L V8 16V GDI OHV
+464,8,2021 Honda CR-V Touring,39685,39685, Black , Black , All-wheel Drive ,27–32,Gasoline ,Automatic CVT,1.5L I4 16V GDI DOHC Turbo
+465,9,2020 Nissan Rogue SV,26295,26295, White , Beige , All-wheel Drive ,25–32,Gasoline ,Automatic CVT,2.5L I4 16V MPFI DOHC
+466,10,2019 Mazda CX-5 Grand Touring,26691,26691, Jet Black Mica , Parchment , Front-wheel Drive ,25–31,Gasoline ,6-Speed Automatic,2.5L I4 16V GDI DOHC
+467,11,2021 Volkswagen Atlas 3.6 V6 SE w/ Technology R-Line,45488,45488, Pure White , Beige , All-wheel Drive ,16–22,Gasoline ,8-Speed Automatic,3.6L V6 24V GDI DOHC
+468,12,2021 Acura TLX A-Spec,44999,44999, Super Black , – , All-wheel Drive ,21–29,Gasoline ,10-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+469,13,2021 Mazda CX-5 Grand Touring,33416,33416, Machine Gray Metallic , Black , All-wheel Drive ,24–30,Gasoline ,Automatic,Regular Unleaded I-4 2.5 L/152
+470,14,2017 Honda CR-V Touring,31996,31996, White Diamond Pearl , – , All-wheel Drive ,27–33,Gasoline ,Automatic CVT,1.5L I4 16V GDI DOHC Turbo
+471,15,2017 INFINITI QX60 Base,25000,25000, White , Beige , Front-wheel Drive ,20–27,Gasoline Fuel ,A/T,295.0HP 3.5L V6 Cylinder Engine Gasoline Fuel
+472,16,2020 Land Rover Range Rover Evoque S,43998,43998, Seoul Pearl Silver , Ebony / Ebony , All-wheel Drive ,20–27,Gasoline ,Automatic,I4
+473,17,2017 Toyota Tundra Platinum,46999,46999, White , Black , Four-wheel Drive ,13–17,Gasoline ,6-Speed Automatic,5.7L V8 32V MPFI DOHC
+474,18,2020 Dodge Durango R/T,44995,44995, Black , Black , All-wheel Drive ,14–22,Gasoline ,8-Speed Automatic,5.7L V8 16V MPFI OHV
+475,19,2018 BMW X5 M Base,54950,54950, Gray , Silverstone , All-wheel Drive ,14–19,Gasoline ,8-Speed Automatic,4.4L V8 32V GDI DOHC Twin Turbo
+476,0,2019 Mercedes-Benz GLS 450 Base 4MATIC,56490,56490, Gray Metallic , – , All-wheel Drive ,16–22,Gasoline ,9-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo
+477,1,2021 Tesla Model Y Performance,73250,73250, Gray , White / Black , All-wheel Drive ,115–106,Electric ,1-Speed Automatic,Electric
+478,2,2019 Honda Civic LX,26093,26093, Molten Lava Pearl , Black , Front-wheel Drive ,30–38,Gasoline ,Automatic CVT,2.0L I4 16V MPFI DOHC
+479,3,2020 Mercedes-Benz C-Class C 300,39987,39987, Black , Silk Beige , Rear-wheel Drive ,24–35,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+480,4,2020 Lincoln Nautilus Reserve,47952,47952, Ceramic Pearl , Coffee , All-wheel Drive ,20–25,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+481,5,2019 Nissan Murano Platinum,35997,35997, Mocha Almond Pearl , Beige , Front-wheel Drive ,20–28,Gasoline ,Automatic CVT,3.5L V6 24V MPFI DOHC
+482,6,2020 Mercedes-Benz GLC 300 Base 4MATIC,44177,44177, Graphite Gray Metallic , – , All-wheel Drive ,21–28,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+483,7,2019 BMW 330 i xDrive,35880,35880, Mineral Gray Metallic , Black , All-wheel Drive ,25–34,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+484,8,2019 Alfa Romeo Stelvio Ti,38490,38490, Brown , Black , All-wheel Drive ,22–28,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI SOHC Turbo
+485,9,2021 GMC Yukon Denali,78395,78395, Onyx Black , Jet Black , Four-wheel Drive ,14–19,Gasoline ,10-Speed Automatic,6.2L V8 16V GDI OHV
+486,10,2021 Mazda CX-5 Grand Touring,32289,32289, Machine Gray Metallic , Black , All-wheel Drive ,24–30,Gasoline ,6-Speed Automatic,2.5L I4 16V GDI DOHC
+487,11,2020 Mercedes-Benz GLC 300 Base 4MATIC,37496,37496, Graphite Gray Metallic , Black , All-wheel Drive ,21–28,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+488,12,2020 Porsche Macan S,67180,67180, Black , Black , All-wheel Drive ,18–23,Gasoline ,7-Speed Automatic with Auto-Shift,3.0L V6 24V GDI DOHC Turbo
+489,13,2015 Audi S4 3.0T Premium Plus,25999,25999, Black , Black / Red , All-wheel Drive ,17–26,Gasoline ,6-Speed Manual,3.0L V6 24V GDI DOHC Supercharged
+490,14,2003 Toyota Highlander ,7000,7000, Millennium Silver Metallic , Charcoal , All-wheel Drive ,18–22,Gasoline ,4-Speed Automatic,3.0L V6 24V MPFI DOHC
+491,15,2018 Toyota 4Runner Limited,39599,39599, Blizzard Pearl , Black Graphite , Rear-wheel Drive ,17–21,Gasoline ,5-Speed Automatic,4.0L V6 24V MPFI DOHC
+492,16,2020 Acura TLX V6 w/Technology Package,35888,35888, Majestic Black Pearl , Ebony , Front-wheel Drive ,20–31,Gasoline ,9-Speed Automatic,3.5L V6 24V GDI SOHC
+493,17,2019 Lexus IS 300 ,38998,38998, Obsidian Black , Red , Rear-wheel Drive ,21–30,Gasoline ,8-Speed Automatic,2.0L I4 16V PDI DOHC Turbo
+494,18,2019 Mercedes-Benz GLA 250 Base 4MATIC,36000,36000, Polar White , Black , All-wheel Drive ,23–31,E85 Flex Fuel ,7-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo Flexible Fuel
+495,19,2020 Ford F-150 Lariat,53997,53997, Agate Black Metallic , Medium Light Camel , Four-wheel Drive ,18–23,Gasoline ,10-Speed Automatic,2.7L V6 24V PDI DOHC Twin Turbo
+496,0,2019 Jeep Grand Cherokee Limited,39591,39591, Diamond Black , Black , Four-wheel Drive ,18–25,Gasoline ,8-Speed Automatic,3.6L V6 24V MPFI DOHC
+497,1,2019 Jeep Grand Cherokee Limited,31996,31996, Diamond Black , Black , Rear-wheel Drive ,19–26,Gasoline ,8-Speed Automatic,3.6L V6 24V MPFI DOHC
+498,2,2012 Ford Focus SEL,5499,5499, Race Red , Charcoal Black , Front-wheel Drive ,28–38,Gasoline ,Automatic,2.0L GDI I4 flex fuel engine
+499,3,2021 Toyota Avalon TRD,43800,43800, White , Black , Front-wheel Drive ,21–30,Gasoline Fuel ,8-Speed A/T,301.0HP 3.5L V6 Cylinder Engine Gasoline Fuel
+500,4,2019 Ford F-450 Platinum,95977,95977, Agate Black Metallic , Black , Four-wheel Drive ,None,Diesel ,6-Speed Automatic,6.7L V8 32V DDI OHV Turbo Diesel
+501,5,2020 Acura MDX 3.5L,37994,37994, Majestic Black Pearl , Ebony , Front-wheel Drive ,20–27,Gasoline ,9-Speed Automatic,3.5L V6 24V GDI SOHC
+502,6,2017 Mercedes-Benz C-Class C 300,30999,30999, Gray Metallic , – , All-wheel Drive ,24–31,Gasoline ,7-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+503,7,2017 Dodge Durango R/T,37995,37995, White , Red , All-wheel Drive ,17–22,Gasoline ,8 speed torqueflite automatic,8 Cylinder Engine
+504,8,2018 Porsche Panamera Turbo,109995,109995, Jet Black Metallic , – , All-wheel Drive ,18–25,Gasoline ,8-Speed Automatic with Auto-Shift,4.0L V8 32V GDI DOHC Twin Turbo
+505,9,2018 Jeep Grand Cherokee Limited,34541,34541, Diamond Black , Black , Four-wheel Drive ,18–25,Gasoline ,8-Speed Automatic,3.6L V6 24V MPFI DOHC
+506,10,2019 BMW 330 i xDrive,35995,35995, Mineral Gray Metallic , Black , All-wheel Drive ,25–34,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+507,11,2020 Acura MDX 3.5L w/Technology Package,44995,44995, Majestic Black Pearl , Ebony , Front-wheel Drive ,20–27,Gasoline ,Automatic,Premium Unleaded V-6 3.5 L/212
+508,12,2021 Mercedes-Benz GLE 350 Base 4MATIC,63878,63878, Polar White , – , All-wheel Drive ,19–26,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+509,13,2017 Audi Q7 3.0T Premium Plus,33895,33895, Graphite Gray Metallic , Black , All-wheel Drive ,19–25,Gasoline ,8-Speed Automatic,3.0L V6 24V GDI DOHC Supercharged
+510,14,2019 Volvo XC60 T5 Momentum,44968,44968, Osmium Gray Metallic , Charcoal , All-wheel Drive ,20–27,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+511,15,2021 BMW M340 i xDrive,56990,56990, Alpine White , Black , All-wheel Drive ,22–31,Gasoline ,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+512,16,2020 Tesla Model Y Long Range,65995,65995, Blue , – , All-wheel Drive ,127–114,Electric ,1-Speed Automatic,Electric
+513,17,2019 Volvo XC60 T5 Momentum,43962,43962, Pine Gray Metallic , Maroon Brown , All-wheel Drive ,20–27,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+514,18,2015 Land Rover Range Rover 3.0L Supercharged HSE,45995,45995, Santorini Black , Ivory / Ebony , Four-wheel Drive ,17–23,Gasoline ,8-Speed Automatic,3.0L V6 24V GDI DOHC Supercharged
+515,19,2017 Audi Q7 3.0T Premium Plus,41595,41595, Graphite Gray Metallic , Black , All-wheel Drive ,19–25,Gasoline ,8-Speed Automatic,3.0L V6 24V GDI DOHC Supercharged
+516,0,2020 Tesla Model Y Long Range,65781,65781, Midnight Silver Metallic , Black , All-wheel Drive ,127–114,Electric ,1-Speed Automatic,Electric
+517,1,2019 BMW M5 Competition,64950,64950, Gray , Silverstone , All-wheel Drive ,15–21,Gasoline ,8-Speed Automatic,4.4L V8 32V GDI DOHC Twin Turbo
+518,2,2020 Nissan Rogue SL,32988,32988, Scarlet Ember , Beige , All-wheel Drive ,None,– ,Automatic CVT,2.5L I4 16V MPFI DOHC
+519,3,2014 Volvo S60 T5,17590,17590, Crystal White Pearl , Off Black , Front-wheel Drive ,21–30,Gasoline ,6-Speed Automatic,2.5L I5 20V MPFI DOHC Turbo
+520,4,2019 Honda CR-V EX-L,28499,28499, Maroon , Tan , All-wheel Drive ,27–33,Gasoline ,Automatic CVT,1.5L I4 16V GDI DOHC Turbo
+521,5,2018 Cadillac XT5 Luxury,34293,34293, Stellar Black Metallic , Black , All-wheel Drive ,18–25,Gasoline ,8-Speed Automatic,3.6L V6 24V GDI DOHC
+522,6,2019 BMW X5 xDrive40i,54995,54995, Black Sapphire Metallic , Black , All-wheel Drive ,20–26,Gasoline ,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+523,7,2019 Acura RDX Technology Package,37959,37959, Majestic Black Pearl , Parchment , All-wheel Drive ,21–27,Gasoline ,10-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+524,8,2020 Ford Edge Titanium,35292,35292, Magnetic , Ceramic , Front-wheel Drive ,21–29,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+525,9,2021 Ford Expedition Limited,69495,69495, Black , Medium Stone , Four-wheel Drive ,17–22,Gasoline ,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo
+526,10,2020 GMC Acadia SLE,30990,30990, Smokey Quartz Metallic , Jet Black , All-wheel Drive ,21–27,Gasoline ,9-Speed Automatic,3.6L V6 24V GDI DOHC
+527,11,2019 Volkswagen Golf GTI 2.0T Rabbit Edition 4-Door,31999,31999, Gray , Black , Front-wheel Drive ,25–31,Gasoline Fuel ,A/T,228.0HP 2.0L 4 Cylinder Engine Gasoline Fuel
+528,12,2021 BMW 530 i xDrive,53995,53995, Alpine White , Black , All-wheel Drive ,23–32,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+529,13,2020 Nissan Murano SL,34000,34000, Black , Graphite , Front-wheel Drive ,20–28,Gasoline ,Automatic CVT,3.5L V6 24V MPFI DOHC
+530,14,2020 Honda Accord EX-L,27995,27995, Platinum White Pearl , Ivory , Front-wheel Drive ,30–38,Gasoline ,Automatic CVT,1.5L I4 16V GDI DOHC Turbo
+531,15,2019 BMW 530 i xDrive,32750,32750, White , Red , All-wheel Drive ,23–33,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+532,16,2018 GMC Sierra 2500 Denali,63997,63997, Onyx Black , Jet Black , Four-wheel Drive ,0–0,Diesel ,Allison 1000 6-Speed Automatic,8 Cylinder Engine
+533,17,2021 Toyota Highlander Platinum,48741,48741, Midnight Black , Beige , All-wheel Drive ,20–27,Gasoline ,8-Speed Automatic,3.5L V6 24V PDI DOHC
+534,18,2019 Honda CR-V EX-L,32470,32470, Black , Black , All-wheel Drive ,27–33,Gasoline ,Automatic CVT,1.5L I4 16V GDI DOHC Turbo
+535,19,2020 Kia Sorento LX,28500,28500, Gray , Black , Front-wheel Drive ,22–29,Gasoline ,6-Speed Automatic,2.4L I4 16V GDI DOHC
+536,0,2020 Dodge Charger Scat Pack,41000,41000, Octane Red Pearlcoat , Black , Rear-wheel Drive ,15–24,Gasoline ,8-Speed Automatic,6.4L V8 16V MPFI OHV
+537,1,2021 Subaru Ascent Limited 7-Passenger,43998,43998, Crystal White Pearl , Black , All-wheel Drive ,20–26,Gasoline ,Automatic CVT,2.4L H4 16V GDI DOHC Turbo
+538,2,2019 Ford F-150 Lariat,49668,49668, Agate Black Metallic , Black , Four-wheel Drive ,None,Gasoline ,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo
+539,3,2020 Jaguar E-PACE SE,46129,46129, Fuji White , Ebony / Ebony , All-wheel Drive ,21–28,Gasoline ,Automatic,I4
+540,4,2015 Porsche Panamera ,38105,38105, Black , Carrera Red , – ,18,Gasoline ,7-Speed Automatic with Auto-Shift,3.6L V6 24V GDI DOHC
+541,5,2019 Ford Escape SEL,25741,25741, Ruby Red Metallic Tinted Clearcoat , Charcoal Black , Front-wheel Drive ,23–30,Gasoline ,6-Speed Automatic,1.5L I4 16V GDI DOHC Turbo
+542,6,2020 Subaru Ascent Limited 7-Passenger,34690,34690, Crystal White Pearl , Black , All-wheel Drive ,20–26,Gasoline ,Automatic CVT,2.4L H4 16V GDI DOHC Turbo
+543,7,2019 Volvo XC90 T6 Inscription,48000,48000, Osmium Gray Metallic , Charcoal , All-wheel Drive ,19–26,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC
+544,8,2021 Chevrolet Tahoe Z71,74000,74000, Black , Gideon , Four-wheel Drive ,16–20,Gasoline ,10-Speed Automatic,5.3L V8 16V GDI OHV
+545,9,2013 BMW X5 xDrive35i,11499,11499, Blue , Black , All-wheel Drive ,16–23,Gasoline ,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+546,10,2018 Ford Mustang EcoBoost Premium,21000,21000, White , – , Rear-wheel Drive ,20–28,Gasoline ,10-Speed Automatic,2.3L I4 16V GDI DOHC Turbo
+547,11,2018 BMW 320 320i xDrive,24960,24960, Mineral White Metallic , Black , All-wheel Drive ,23–34,Gasoline ,Automatic,Engine: 2.0L TwinPower Turbo 4-Cylinder 16V DOHC
+548,12,2021 Ford Edge ST,45990,45990, Lithium Gray , Ebony , All-wheel Drive ,19–25,Gasoline ,7-Speed Automatic,2.7L V6 24V GDI DOHC Twin Turbo
+549,13,2020 Toyota Avalon Hybrid XLE,36999,36999, Midnight Black Metallic , Black , Front-wheel Drive ,43–44,Hybrid ,Automatic CVT,2.5L I4 16V PDI DOHC Hybrid
+550,14,2020 Acura MDX 3.5L w/Technology Package,45765,45765, Apex Blue Pearl , Graystone , Front-wheel Drive ,20–27,Gasoline ,9-Speed Automatic,3.5L V6 24V GDI SOHC
+551,15,2021 Ford F-150 Lariat,67999,67999, Agate Black Metallic , Black , Four-wheel Drive ,None,Hybrid ,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo Hybrid
+552,16,2019 Subaru Outback 2.5i Limited,33000,33000, Crimson Red Pearl , Ivy , All-wheel Drive ,25–32,Gasoline ,Automatic CVT,2.5L H4 16V MPFI DOHC
+553,17,2020 Lexus NX 300 Base,33894,33894, Caviar , Black , All-wheel Drive ,22–28,Gasoline ,6-Speed Automatic,2.0L I4 16V PDI DOHC Turbo
+554,18,2021 Volvo XC90 T6 Inscription 7 Passenger,69991,69991, Birch , Maroon Brown , All-wheel Drive ,19–28,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC
+555,19,2020 Honda CR-V EX,31640,31640, Modern Steel Metallic , Black , All-wheel Drive ,27–32,Gasoline ,Automatic CVT,1.5L I4 16V GDI DOHC Turbo
+556,0,2020 Nissan Rogue Sport S,22894,22894, Scarlet Ember , – , Front-wheel Drive ,25–32,Gasoline ,Automatic CVT,2.0L I4 16V GDI DOHC
+557,1,2019 INFINITI Q50 3.0t Sport,33895,33895, Black Obsidian , Graphite , All-wheel Drive ,19–27,Gasoline ,7-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo
+558,2,2018 Acura TLX V6,26798,26798, Fathom Blue Pearl , Black , All-wheel Drive ,21–30,Gasoline ,9-Speed Automatic,3.5L V6 24V GDI SOHC
+559,3,2021 Toyota Highlander Hybrid Platinum,58995,58995, Magnetic Gray Metallic , Graphite , All-wheel Drive ,35–34,Hybrid ,Automatic CVT,2.5L I4 16V PDI DOHC Hybrid
+560,4,2021 Toyota Highlander XLE,41992,41992, Blizzard Pearl , Graphite , Front-wheel Drive ,21–29,Gasoline ,8-Speed Automatic,3.5L V6 24V PDI DOHC
+561,5,2019 Volvo XC40 T5 R-Design,38980,38980, Crystal White , Charcoal , All-wheel Drive ,23–31,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+562,6,2019 Buick Enclave Essence,34000,34000, Dark Slate Metallic , Dark Galvanized , All-wheel Drive ,17–25,Gasoline ,9-Speed Automatic,3.6L V6 24V GDI DOHC
+563,7,2014 Porsche 911 Turbo S,139995,139995, Basalt Black Metallic , Carrera Red , All-wheel Drive ,17–24,Gasoline ,7-Speed Automatic with Auto-Shift,3.8L H6 24V GDI DOHC Twin Turbo
+564,8,2021 GMC Yukon Denali,81955,81955, Satin Steel Metallic , – , Rear-wheel Drive ,15–20,Gasoline ,10-Speed Automatic,6.2L V8 16V GDI OHV
+565,9,2017 Mercedes-Benz GLS 450 Base 4MATIC,43995,43995, Gray , – , All-wheel Drive ,19–22,Gasoline ,9-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo
+566,10,2018 INFINITI QX30 Premium,29995,29995, Ink Blue , Graphite , All-wheel Drive ,21–0,Gasoline ,7-SPEED A/T,4 Cylinder Engine
+567,11,2020 Lexus GX 460 Base,56888,56888, Black , Black , Four-wheel Drive ,15–19,Gasoline ,6-Speed Automatic,4.6L V8 32V MPFI DOHC
+568,12,2021 GMC Yukon XL Denali,88788,88788, White Frost Tri-Coat , Dark Walnut , Four-wheel Drive ,14–19,Gasoline ,10-Speed Automatic,6.2L V8 16V GDI OHV
+569,13,2021 Acura RDX Technology Package,45998,45998, Black , Ebony , All-wheel Drive ,21–27,Gasoline ,10-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+570,14,2021 Mazda CX-5 Grand Touring,33291,33291, Machine Gray Metallic , Parchment , All-wheel Drive ,24–30,Gasoline ,6-Speed Automatic,2.5L I4 16V GDI DOHC
+571,15,2022 Hyundai Tucson Hybrid Limited,44269,44269, Quartz White , Black , All-wheel Drive ,37–36,Hybrid ,6-Speed Automatic,1.6L I4 16V GDI DOHC Turbo Hybrid
+572,16,2016 Ford F-150 Lariat,30994,30994, White Platinum Tri-Coat Metallic , Black , Rear-wheel Drive ,None,E85 Flex Fuel ,6-Speed Automatic,5.0L V8 Flexible Fuel
+573,17,2020 Toyota Camry SE,25723,25723, Midnight Black Metallic , Ash , Front-wheel Drive ,28–39,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+574,18,2021 BMW X7 xDrive40i,76500,76500, Mineral White Metallic , Coffee , All-wheel Drive ,19–24,Gasoline ,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+575,19,2020 Land Rover Range Rover Evoque SE,41316,41316, Eiger Grey , Ebony / Ebony , All-wheel Drive ,20–27,Gasoline ,Automatic,I4
+576,0,2019 Jeep Grand Cherokee Limited,33488,33488, Diamond Black , Black , Rear-wheel Drive ,19–26,Gasoline ,8-Speed Automatic,3.6L V6 24V MPFI DOHC
+577,1,2019 BMW X5 xDrive40i,58442,58442, Phytonic Blue Metallic , Ivory White , All-wheel Drive ,20–26,Gasoline ,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+578,2,2020 BMW X7 xDrive40i,73000,73000, Black Sapphire Metallic , Black , All-wheel Drive ,20–25,Gasoline ,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+579,3,2014 Mercedes-Benz G-Class G 550,77992,77992, Black , – , All-wheel Drive ,12–15,Gasoline ,7-Speed Automatic,5.5L V8 32V MPFI DOHC
+580,4,2014 Mercedes-Benz E-Class E 350 4MATIC,20985,20985, Black , Black , All-wheel Drive ,21–29,Gasoline ,7-Speed Automatic,3.5L V6 24V GDI DOHC
+581,5,2018 Ford Escape SE,18995,18995, White , Gray , Four-wheel Drive ,22–28,Gasoline ,6-Speed Automatic,1.5L I4 16V GDI DOHC Turbo
+582,6,2019 Nissan Rogue SV,22997,22997, Magnetic Black , Charcoal , All-wheel Drive ,25–32,Gasoline ,Automatic CVT,2.5L I4 16V MPFI DOHC
+583,7,2008 Honda Accord EX,4999,4999, Gray , Graphite , Front-wheel Drive ,19–29,Gasoline ,5-Speed Automatic,3.5L V6 24V MPFI SOHC
+584,8,2010 Lexus ES 350 Base (A6),11981,11981, Black Sapphire Pearl , Black , Front-wheel Drive ,19–27,Gasoline ,6-Speed Automatic,3.5L V6 24V MPFI DOHC
+585,9,2021 Honda Pilot Special Edition,41987,41987, Black , – , All-wheel Drive ,19–26,Gasoline ,9-Speed Automatic,3.5L V6 24V GDI SOHC
+586,10,2019 Honda CR-V EX-L,32992,32992, Platinum White Pearl , Ivory , All-wheel Drive ,27–33,Gasoline ,Automatic CVT,1.5L I4 16V GDI DOHC Turbo
+587,11,2020 Acura TLX FWD,32990,32990, Majestic Black Pearl , Ebony , Front-wheel Drive ,23–33,Gasoline ,8-Speed Automatic with Auto-Shift,2.4L I4 16V GDI DOHC
+588,12,2020 Mercedes-Benz S-Class S 560,76990,76990, Black , – , Rear-wheel Drive ,17–27,Gasoline ,9-Speed Automatic,4.0L V8 32V GDI DOHC Twin Turbo
+589,13,2018 BMW X3 xDrive30i,39995,39995, Carbon Black Metallic , Black , All-wheel Drive ,22–29,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+590,14,2014 Lexus IS 250 Base,22444,22444, Nebula Gray Pearl , Black , All-wheel Drive ,20–27,Gasoline ,6-Speed Automatic,2.5L V6 24V PDI DOHC
+591,15,2017 Tesla Model X 100D,67888,67888, Blue , – , All-wheel Drive ,86–89,Electric ,1-Speed Automatic,Electric
+592,16,2021 Lexus RX 350 Base,50488,50488, Nightfall Mica , Parchment , All-wheel Drive ,19–26,Gasoline ,8-Speed Automatic,3.5L V6 24V PDI DOHC
+593,17,2019 Honda CR-V EX-L,32405,32405, Crystal Black Pearl , Black , All-wheel Drive ,27–33,Gasoline ,Automatic CVT,1.5L I4 16V GDI DOHC Turbo
+594,18,2020 Mercedes-Benz CLA 250 Base 4MATIC,44658,44658, Midnight Black , – , All-wheel Drive ,23–33,Gasoline ,7-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo
+595,19,2021 Volvo XC60 T5 Inscription,51900,51900, Onyx Black Metallic , Amber , All-wheel Drive ,21–28,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+596,0,2017 Ford F-250 Lariat,60990,60990, Shadow Black , Black , Four-wheel Drive ,None,Diesel ,6-Speed Automatic,6.7L V8 32V DDI OHV Turbo Diesel
+597,1,2013 BMW M6 Base,36891,36891, White , Red , Rear-wheel Drive ,14–20,Gasoline Fuel ,7-Speed A/T,560.0HP 4.4L 8 Cylinder Engine Gasoline Fuel
+598,2,2020 Mercedes-Benz GLA 250 Base,33995,33995, Polar White , – , Front-wheel Drive ,24–34,Gasoline ,7-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo
+599,3,2017 Chevrolet Malibu 1LT,14995,14995, Gray , Black , Front-wheel Drive ,27–36,Gasoline ,6-Speed Automatic,1.5L I4 16V GDI DOHC Turbo
+600,4,2020 Ford Mustang EcoBoost Premium,33014,33014, Shadow Black , Ceramic , Rear-wheel Drive ,20–28,Gasoline ,Manual,2.3L I4 16V GDI DOHC Turbo
+601,5,2019 Jaguar F-PACE 30t Prestige,40880,40880, Santorini Black , Ebony / Ebony , All-wheel Drive ,22–27,Gasoline ,Automatic,I4
+602,6,2017 Toyota Camry SE,23025,23025, Black , Black , Front-wheel Drive ,24–33,Gasoline ,6-Speed Automatic,2.5L I4 16V MPFI DOHC
+603,7,2021 Mazda CX-9 Carbon Edition,41990,41990, Polymetal Gray Metallic , Red , All-wheel Drive ,20–26,Gasoline ,6-Speed Automatic,2.5L I4 16V GDI DOHC Turbo
+604,8,2008 Mercedes-Benz GL-Class GL 450 4MATIC,9500,9500, Blue , Beige , Four-wheel Drive ,13–18,Gasoline Fuel ,Transmission w/Dual Shift Mode,335.0HP 4.7L 8 Cylinder Engine Gasoline Fuel
+605,9,2019 Ford Fiesta S,17330,17330, Ingot Silver Metallic , – , FWD ,27–35,Gasoline ,6-Speed Automatic with Auto-Shift,1.6L I4 16V MPFI DOHC
+606,10,2016 Mercedes-Benz AMG GT AMG GT S,99999,99999, Designo , – , Rear-wheel Drive ,16–22,Gasoline ,7-Speed Automatic with Auto-Shift,4.0L V8 32V MPFI DOHC Twin Turbo
+607,11,2018 Chevrolet Suburban LT,46998,46998, Black , Cocoa , Rear-wheel Drive ,16–23,Gasoline ,6-Speed Automatic,5.3L V8 16V GDI OHV
+608,12,2018 Chevrolet Cruze LT,13995,13995, Blue , Gray , Front-wheel Drive ,29–40,Gasoline ,6-Speed Automatic,1.4L I4 16V GDI DOHC Turbo
+609,13,2019 Toyota Highlander XLE,38998,38998, Gray , – , All-wheel Drive ,20–26,Gasoline ,Automatic,Regular Unleaded V-6 3.5 L/211
+610,14,2019 INFINITI QX50 ESSENTIAL,35000,35000, Black Obsidian , Beige / Brown , All-wheel Drive ,24–30,Gasoline ,Automatic CVT,2.0L I4 16V PDI DOHC Turbo
+611,15,2014 Ford Taurus SHO,19799,19799, Dark Side Metallic , Charcoal Black / Mayan Gray , All-wheel Drive ,17–25,Gasoline ,6-Speed Automatic,3.5L V6 24V GDI DOHC Twin Turbo
+612,16,2021 Acura RDX A-Spec,44497,44497, Majestic Black Pearl , – , Front-wheel Drive ,22–27,Gasoline ,10-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+613,17,2020 Land Rover Range Rover Velar S R-Dynamic,63885,63885, Indus Silver , Black , Four-wheel Drive ,18–24,Gasoline ,Automatic,V6
+614,18,2019 BMW 330 i xDrive,35950,35950, Vermont Bronze Metallic , Black , All-wheel Drive ,25–34,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+615,19,2018 Jeep Grand Cherokee Limited,32884,32884, Bright White Clearcoat , Light Frost , Four-wheel Drive ,18–25,Gasoline ,8-Speed Automatic,3.6L V6 24V MPFI DOHC
+616,0,2018 BMW X3 M40i,42843,42843, Black Sapphire Metallic , Black , All-wheel Drive ,20–27,Gasoline ,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+617,1,2020 Acura TLX V6 w/Technology Package,39500,39500, Black , Ebony , Front-wheel Drive ,20–31,Gasoline ,9-Speed Automatic,3.5L V6 24V GDI SOHC
+618,2,2019 Dodge Charger R/T,35942,35942, White Knuckle Clearcoat , Black , Rear-wheel Drive ,16–25,Gasoline ,8-Speed Automatic,5.7L V8 16V MPFI OHV
+619,3,2018 Ford Explorer XLT,29990,29990, Magnetic , Ebony Black , Four-wheel Drive ,16–22,Gasoline ,6-Speed Automatic,3.5L V6 24V MPFI DOHC
+620,4,2020 Lexus GX 460 Base,59744,59744, Black , – , Four-wheel Drive ,15–19,Gasoline ,6-Speed Automatic,4.6L V8 32V MPFI DOHC
+621,5,2019 Lexus RX 350 F Sport,47495,47495, Obsidian Black , Black , All-wheel Drive ,19–26,Gasoline ,8-Speed Automatic,3.5L V6 24V PDI DOHC
+622,6,2019 Mercedes-Benz GLC 300 Base,36500,36500, Blue , – , Rear-wheel Drive ,22–27,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+623,7,2022 Subaru Outback Touring,40000,40000, Abyss Blue Pearl , Java Brown , All-wheel Drive ,26–33,Gasoline ,Automatic CVT,2.5L H4 16V GDI DOHC
+624,8,2002 Cadillac Eldorado ECS Collectors Series,7000,7000, White , Beige , Front-wheel Drive ,18–27,Gasoline Fuel ,A/T,300.0HP 4.6L 8 Cylinder Engine Gasoline Fuel
+625,9,2018 Tesla Model S P100D,84991,84991, Gray , Black , All-wheel Drive ,92–105,Electric ,1-Speed Automatic,Electric
+626,10,2018 Mazda CX-3 Grand Touring,22900,22900, Snowflake White Pearl Mica , Black , All-wheel Drive ,27–32,Gasoline ,6-Speed Automatic,2.0L I4 16V GDI DOHC
+627,11,2021 Audi Q5 45 Premium,48388,48388, Brilliant Black , Black , All-wheel Drive ,23–28,Gasoline ,7-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo
+628,12,2021 Mazda CX-5 Grand Touring,32222,32222, Deep Crystal Blue Mica , Black , All-wheel Drive ,24–30,Gasoline ,6-Speed Automatic,2.5L I4 16V GDI DOHC
+629,13,2020 BMW 330 i xDrive,38580,38580, Alpine White , Canberra Beige , All-wheel Drive ,25–34,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+630,14,2019 Audi Q5 2.0T Premium Plus,40993,40993, Brilliant Black , Black , All-wheel Drive ,22–27,Gasoline ,7-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo
+631,15,2019 BMW X5 xDrive40i,56699,56699, Arctic Gray Metallic , Black , All-wheel Drive ,20–26,Gasoline ,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+632,16,2020 Subaru Ascent Touring 7-Passenger,40990,40990, Crystal White Pearl , Java Brown , All-wheel Drive ,20–26,Gasoline ,Automatic CVT,2.4L H4 16V GDI DOHC Turbo
+633,17,2019 Mercedes-Benz G-Class G 550 4MATIC,149999,149999, White , – , All-wheel Drive ,13–17,Gasoline ,9-Speed Automatic,4.0L V8 32V GDI DOHC Twin Turbo
+634,18,2019 Nissan Rogue SL,29200,29200, White , Beige , All-wheel Drive ,25–32,Gasoline ,Automatic CVT,2.5L I4 16V MPFI DOHC
+635,19,2021 GMC Acadia SLE,35900,35900, Red Mahogany Metallic , Jet Black , Front-wheel Drive ,21–27,Gasoline ,9-Speed Automatic,3.6L V6 24V GDI DOHC
+636,0,2021 Chevrolet Trailblazer LS,24983,24983, Satin Steel Metallic , Black , Front-wheel Drive ,28–31,Gasoline ,Automatic CVT,1.2L I3 12V GDI DOHC Turbo
+637,1,2021 Tesla Model Y Long Range,72994,72994, Pearl White Multi , White / Black , All-wheel Drive ,131–117,Electric ,1-Speed Automatic,Electric
+638,2,2019 Honda CR-V EX-L,33591,33591, Molten Lava Pearl , Ivory , All-wheel Drive ,27–33,Gasoline ,Automatic CVT,1.5L I4 16V GDI DOHC Turbo
+639,3,2013 BMW 535 i,15995,15995, GREY , Venetian Beige , Rear-wheel Drive ,20–30,Gasoline ,8-SPEED A/T,Straight 6 Cylinder Engine
+640,4,2020 Acura TLX FWD,29964,29964, Majestic Black Pearl , Parchment , Front-wheel Drive ,23–33,Gasoline ,8-Speed Automatic with Auto-Shift,2.4L I4 16V GDI DOHC
+641,5,2021 Mercedes-Benz S-Class S 580 4MATIC,115995,115995, Black , Black , All-wheel Drive ,None,Gasoline ,9-Speed Automatic,4.0L V8 32V GDI DOHC Twin Turbo
+642,6,2021 Honda CR-V EX-L,35830,35830, Platinum White Pearl , Black , All-wheel Drive ,27–32,Gasoline ,Automatic CVT,1.5L I4 16V GDI DOHC Turbo
+643,7,2020 Lincoln Corsair Reserve,40936,40936, Black , Sandstone , All-wheel Drive ,21–29,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+644,8,2019 Mercedes-Benz C-Class C 300,32498,32498, Black , Gray , Rear-wheel Drive ,23–34,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+645,9,2020 Land Rover Range Rover Evoque First Edition,53464,53464, Nolita Grey , White , All-wheel Drive ,20–27,Gasoline ,Automatic,I4
+646,10,2017 Ford Escape Titanium,22500,22500, Magnetic , Charcoal Black , Four-wheel Drive ,22–28,Gasoline ,6-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+647,11,2018 BMW 330 i xDrive,23450,23450, Gray , Black , All-wheel Drive ,23–33,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+648,12,2019 Toyota Tundra SR5,48953,48953, Magnetic Gray Metallic , Graphite , Four-wheel Drive ,13–17,Gasoline ,6-Speed Automatic,5.7L V8 32V MPFI DOHC
+649,13,2020 Tesla Model Y Long Range,71888,71888, White , White / Black , All-wheel Drive ,127–114,Electric ,1-Speed Automatic,Electric
+650,14,2019 Mercedes-Benz G-Class G 550 4MATIC,154900,154900, Black , Black , All-wheel Drive ,13–17,Gasoline ,9-Speed Automatic,4.0L V8 32V GDI DOHC Twin Turbo
+651,15,2020 Honda Civic LX,18999,18999, White , Black , Front-wheel Drive ,30–38,Gasoline ,Automatic CVT,2.0L I4 16V MPFI DOHC
+652,16,2018 Land Rover Range Rover Supercharged,79995,79995, Santorini Black , Ebony / Ivory , Four-wheel Drive ,16–21,Gasoline ,Automatic,V8
+653,17,2019 BMW 540 i xDrive,46988,46988, Dark Graphite Metallic , Black , All-wheel Drive ,21–29,Gasoline ,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+654,18,2019 Porsche Macan S,63210,63210, White , Black , All-wheel Drive ,18–23,Gasoline ,7-Speed Automatic with Auto-Shift,3.0L V6 24V GDI DOHC Turbo
+655,19,2021 Toyota RAV4 Limited,44380,44380, Silver Sky , Ash , Front-wheel Drive ,27–35,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+656,0,2017 Subaru Outback 2.5i Limited,21699,21699, Crystal White Pearl , Black , All-wheel Drive ,25–32,Gasoline ,Automatic CVT,2.5L H4 16V MPFI DOHC
+657,1,2019 Audi Q5 2.0T Premium Plus,42548,42548, Florett Silver Metallic , Black , All-wheel Drive ,22–27,Gasoline ,7-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo
+658,2,2019 BMW 330 i xDrive,40980,40980, Black Sapphire Metallic , Black , All-wheel Drive ,25–34,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+659,3,2019 BMW X5 xDrive40i,56995,56995, Phytonic Blue Metallic , Amarone , All-wheel Drive ,20–26,Gasoline ,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+660,4,2015 Mercedes-Benz M-Class ML 350,23489,23489, – , – , Rear-wheel Drive ,18–24,Gasoline ,7-Speed Automatic,3.5L V6 24V GDI DOHC
+661,5,2015 Mercedes-Benz S-Class S 550 4MATIC,42995,42995, Iridium Silver Metallic , Black , All-wheel Drive ,16–26,Gasoline ,7-Speed Automatic,4.7L V8 32V GDI DOHC Twin Turbo
+662,6,2019 BMW X7 xDrive40i,66597,66597, Jet Black , Beige , All-wheel Drive ,20–25,Gasoline ,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+663,7,2021 Tesla Model Y Long Range,72881,72881, Pearl White Multi , Black , All-wheel Drive ,131–117,Electric ,1-Speed Automatic,Electric
+664,8,2017 Cadillac XT5 Luxury,22900,22900, White , Beige , Front-wheel Drive ,19–27,Gasoline ,8-Speed Automatic,3.6L V6 24V GDI DOHC
+665,9,2021 Toyota Sienna Platinum 7 Passenger,62995,62995, White , Brown , All-wheel Drive ,35–36,Hybrid ,Automatic CVT,2.5L I4 16V PDI DOHC Hybrid
+666,10,2016 Lexus LS 460 Base,35966,35966, White , Black , All-wheel Drive ,16–23,Gasoline ,8-Speed Automatic,4.6L V8 32V PDI DOHC
+667,11,2020 INFINITI QX60 Pure,29119,29119, Liquid Platinum , Graphite , Front-wheel Drive ,20–27,Gasoline ,Automatic CVT,3.5L V6 24V GDI DOHC
+668,12,2021 Toyota Tundra SR5,51997,51997, Cement , Black , Four-wheel Drive ,13–17,Gasoline ,6-Speed Automatic,5.7L V8 32V MPFI DOHC
+669,13,2012 Toyota RAV4 Base,12631,12631, Classic Silver Metallic , – , Front-wheel Drive ,22–28,Gasoline ,4-Speed Automatic,2.5L I4 16V MPFI DOHC
+670,14,2021 GMC Acadia SLE,41125,41125, Satin Steel Metallic , Jet Black , Front-wheel Drive ,21–27,Gasoline ,Automatic,Gas I4 2.5L/150
+671,15,2018 Chevrolet Volt LT,31999,31999, Mosaic Black Metallic , Jet Black , Front-wheel Drive ,None,Hybrid ,1-Speed Automatic,1.5L I4 16V GDI DOHC Hybrid
+672,16,2019 Volvo S60 T6 R-Design,40550,40550, Black Stone , Charcoal , All-wheel Drive ,21–32,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC
+673,17,2020 Honda CR-V EX-L,33988,33988, Black , Gray , Front-wheel Drive ,28–34,Gasoline ,Automatic CVT,1.5L I4 16V GDI DOHC Turbo
+674,18,2019 BMW M850 i xDrive,86995,86995, Carbon Black Metallic , Fiona Red , All-wheel Drive ,17–26,Gasoline ,8-Speed Automatic,4.4L V8 32V GDI DOHC Twin Turbo
+675,19,2019 Honda CR-V EX-L,29984,29984, Gray , – , Front-wheel Drive ,28–34,Gasoline ,Automatic CVT,1.5L I4 16V GDI DOHC Turbo
+676,0,2014 Mercedes-Benz G-Class G 63 AMG,82890,82890, Black , – , All-wheel Drive ,12–14,Gasoline ,7-Speed Automatic,5.5L V8 32V GDI DOHC Twin Turbo
+677,1,2018 INFINITI QX30 Premium,27135,27135, Malbec Black , Wheat , All-wheel Drive ,21–30,Gasoline ,7-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo
+678,2,2018 Lexus ES 350 Base,35342,35342, Obsidian Black , Flaxen , Front-wheel Drive ,21–30,Gasoline ,6-Speed Automatic,3.5L V6 24V MPFI DOHC
+679,3,2020 Ford Edge ST,40388,40388, Black , Ebony , All-wheel Drive ,19–26,Gasoline ,8-Speed Automatic,2.7L V6 24V GDI DOHC Twin Turbo
+680,4,2021 Mazda CX-5 Grand Touring,33292,33292, Snowflake White Pearl , Black , All-wheel Drive ,24–30,Gasoline ,6-Speed Automatic,2.5L I4 16V GDI DOHC
+681,5,2018 Toyota RAV4 LE,25497,25497, Silver Sky Metallic , Black , Front-wheel Drive ,23–30,Gasoline ,6-Speed Automatic,2.5L I4 16V MPFI DOHC
+682,6,2021 RAM 1500 Laramie,52739,52739, Delmonico Red Pearlcoat , Black , Four-wheel Drive ,19–24,Gasoline ,8-Speed Automatic,5.7L V8 16V MPFI OHV
+683,7,2016 Toyota 4Runner Trail Premium,36995,36995, – , – , 4WD ,17–21,Gasoline ,5-Speed Automatic,4.0L V6 24V MPFI DOHC
+684,8,2020 Land Rover Range Rover Velar S R-Dynamic,65921,65921, Santorini Black , Ebony / Ebony , Four-wheel Drive ,21–27,Gasoline ,Automatic,I4
+685,9,2020 Toyota Sienna SE,47587,47587, Black , – , All-wheel Drive ,18–24,Gasoline ,8-Speed Automatic,3.5L V6 24V PDI DOHC
+686,10,2019 Honda CR-V EX-L,32791,32791, Crystal Black Pearl , Black , All-wheel Drive ,27–33,Gasoline ,Automatic CVT,1.5L I4 16V GDI DOHC Turbo
+687,11,2018 Ford F-150 XLT,38855,38855, Ingot Silver Metallic , Medium Earth Gray , Four-wheel Drive ,18–23,Gasoline ,10-Speed Automatic,5.0L V8 32V PDI DOHC
+688,12,2019 Lincoln MKZ Standard,31925,31925, White Platinum , Ebony , Front-wheel Drive ,20–31,Gasoline ,6-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+689,13,2015 Subaru Outback 2.5i Limited,19877,19877, Ice Silver Metallic , Black , All-wheel Drive ,25–33,Gasoline ,Automatic CVT,2.5L H4 16V MPFI DOHC
+690,14,2020 BMW X3 sDrive30i,41050,41050, Phytonic Blue Metallic , Cognac , Rear-wheel Drive ,25–29,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+691,15,2020 Lexus RX 350 Base,49998,49998, Caviar , Parchment , All-wheel Drive ,19–26,Gasoline ,8-Speed Automatic,3.5L V6 24V PDI DOHC
+692,16,2019 Volvo XC90 T6 Momentum,41998,41998, Black , Green , All-wheel Drive ,19–26,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC
+693,17,2021 Ford Expedition Max Limited,65685,65685, Agate Black Metallic , Ebony , Four-wheel Drive ,16–21,Gasoline ,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo
+694,18,2018 Chevrolet Cruze LS,13995,13995, Silver , Gray , Front-wheel Drive ,29–40,Gasoline ,6-Speed Automatic,1.4L I4 16V GDI DOHC Turbo
+695,0,2021 Kia Telluride EX,47500,47500, White , White , Front-wheel Drive ,20–26,Gasoline Fuel ,Transmission w/Dual Shift Mode,291.0HP 3.8L V6 Cylinder Engine Gasoline Fuel
+696,1,2021 Honda Accord Touring 2.0T,39700,39700, Crystal Black Pearl , Black , Front-wheel Drive ,22–32,Gasoline ,10-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+697,2,2021 Toyota Highlander XSE,49900,49900, Blizzard Pearl , Red , Front-wheel Drive ,21–29,Gasoline ,8-Speed Automatic,3.5L V6 24V PDI DOHC
+698,3,2021 BMW X5 xDrive40i,63750,63750, Alpine White , Black , All-wheel Drive ,21–25,Gasoline ,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+699,4,2019 BMW M850 i xDrive,77597,77597, Carbon Black Metallic , Cognac , All-wheel Drive ,18–25,Gasoline ,8-Speed Automatic,4.4L V8 32V GDI DOHC Twin Turbo
+700,5,2020 BMW X5 xDrive40i,55994,55994, Dark Graphite Metallic , Canberra Beige , All-wheel Drive ,20–26,Gasoline ,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+701,6,2019 Mercedes-Benz GLC 300 Base,29898,29898, Black , Black , Rear-wheel Drive ,22–27,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+702,7,2019 Honda CR-V EX-L,35081,35081, Modern Steel Metallic , Black , Front-wheel Drive ,28–34,Gasoline ,Automatic CVT,1.5L I4 16V GDI DOHC Turbo
+703,8,2019 Porsche Cayenne Base,69990,69990, White , Black , All-wheel Drive ,19–23,Gasoline ,8-Speed Automatic,3.0L V6 24V GDI DOHC Turbo
+704,9,2020 Volkswagen Tiguan 2.0T SE,28311,28311, Deep Black Pearl Effect , Black , All-wheel Drive ,20–27,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+705,10,2017 Audi A4 2.0T Premium Plus,28989,28989, Scuba Blue Metallic , Black , All-wheel Drive ,24–31,Gasoline ,7-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo
+706,11,2021 Toyota Tacoma TRD Pro,47990,47990, Gray , – , Four-wheel Drive ,None,Gasoline ,6-Speed,3.5L V6 24V PDI DOHC
+707,12,2020 Acura TLX FWD,30998,30998, Majestic Black Pearl , Parchment , Front-wheel Drive ,23–33,Gasoline ,8-Speed Automatic with Auto-Shift,2.4L I4 16V GDI DOHC
+708,13,2021 Audi Q5 45 Premium,48000,48000, Navarra Blue Metallic , Atlas Beige , All-wheel Drive ,23–28,Gasoline ,7-Speed Automatic,2.0L
+709,14,2019 Alfa Romeo Stelvio Base,31495,31495, Rosso , Red , Rear-wheel Drive ,22–29,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI SOHC Turbo
+710,15,2017 Toyota 4Runner Limited,38724,38724, Midnight Black Metallic , Redwood , Four-wheel Drive ,17–20,Gasoline ,5-Speed Automatic,4.0L V6 24V MPFI DOHC
+711,16,2018 Honda Accord LX,25995,25995, Burgundy , Gray , Front-wheel Drive ,30–38,Gasoline ,Automatic CVT,1.5L I4 16V GDI DOHC Turbo
+712,17,2018 Ford EcoSport SE,22066,22066, Smoke , Ebony Black , Four-wheel Drive ,23–29,Gasoline ,6-Speed Automatic,2.0L I4 16V GDI DOHC
+713,18,2019 Land Rover Discovery HSE LUXURY,56950,56950, Byron Blue , Light Oyster / Ebony , Four-wheel Drive ,16–21,Gasoline ,Automatic,V6
+714,19,2019 BMW 540 i xDrive,41378,41378, Black Sapphire Metallic , Black , All-wheel Drive ,21–29,Gasoline ,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+715,0,2019 Lexus GX 460 Base,46988,46988, Starfire Pearl , Ecru , Four-wheel Drive ,15–18,Gasoline ,6-Speed Automatic,4.6L V8 32V MPFI DOHC
+716,1,2020 Land Rover Defender 110 HSE,75900,75900, Santorini Black , Ebony / Ebony , Four-wheel Drive ,17–22,Gasoline ,Automatic,V6
+717,2,2021 Ford F-150 Lariat,60290,60290, Agate Black Metallic , Black , Four-wheel Drive ,19–24,Gasoline ,10-Speed Automatic,2.7L V6 24V PDI DOHC Twin Turbo
+718,3,2019 BMW X4 M40i,54150,54150, Black Sapphire Metallic , Tacora Red , All-wheel Drive ,20–27,Gasoline ,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+719,4,2019 Dodge Durango GT,37590,37590, Granite Clearcoat Metallic , Black , All-wheel Drive ,18–25,Gasoline ,8-Speed Automatic,3.6L V6 24V MPFI DOHC
+720,5,2021 RAM 1500 Big Horn,47954,47954, Patriot Blue Pearlcoat , Black , Four-wheel Drive ,19–24,Gasoline ,8-Speed Automatic,5.7L V8 16V MPFI OHV
+721,6,2017 Honda CR-V EX-L,33500,33500, Crystal Black Pearl , Ivory , All-wheel Drive ,27–33,Gasoline ,Automatic CVT,1.5L I4 16V GDI DOHC Turbo
+722,7,2021 Land Rover Discovery Sport S,41499,41499, Eiger Grey , Ebony , Four-wheel Drive ,19–23,Gasoline ,Automatic,I4
+723,8,2021 BMW 330 i,42554,42554, Jet Black , Beige , Rear-wheel Drive ,26–36,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+724,9,2016 Toyota 4Runner Limited,36101,36101, Blue , Redwood , Four-wheel Drive ,17–21,Gasoline ,5-Speed Automatic,4.0L V6 24V MPFI DOHC
+725,10,2019 Honda CR-V EX-L,30359,30359, Modern Steel Metallic , Ivory , All-wheel Drive ,27–33,Gasoline ,Automatic CVT,1.5L I4 16V GDI DOHC Turbo
+726,11,2020 Volvo XC40 T5 R-Design,39750,39750, Thunder Gray Metallic , Charcoal , All-wheel Drive ,22–30,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+727,12,2020 BMW X3 M40i,54961,54961, Phytonic Blue Metallic , Black , All-wheel Drive ,21–27,Gasoline ,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+728,13,2021 Jaguar E-PACE P250 SE,47333,47333, Fuji White , Light Oyster , All-wheel Drive ,20–26,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+729,14,2019 Audi Q5 2.0T Premium Plus,39997,39997, Moonlight Blue Metallic , Black , All-wheel Drive ,22–27,Gasoline ,7-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo
+730,15,2020 Volvo S90 T6 R-Design,51968,51968, Black Stone , Charcoal , All-wheel Drive ,21–31,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC
+731,16,2020 Tesla Model Y Long Range,70470,70470, Pearl White Multi , White / Black , All-wheel Drive ,127–114,Electric ,1-Speed Automatic,Electric
+732,17,2016 Tesla Model X 70D,70959,70959, Black , – , All-wheel Drive ,101–102,Electric ,1-Speed Automatic,Electric
+733,18,2018 BMW X3 xDrive30i,34487,34487, Jet Black , Black , All-wheel Drive ,22–29,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+734,19,2019 Rolls-Royce Cullinan Base,429996,429996, Gray , Black , All-wheel Drive ,12–20,Gasoline ,8-Speed Automatic,6.8L V12 48V GDI DOHC Twin Turbo
+735,0,2019 Nissan Rogue SV,26990,26990, Magnetic Black , – , All-wheel Drive ,25–32,Gasoline ,Automatic CVT,2.5L I4 16V MPFI DOHC
+736,1,2020 Mercedes-Benz GLE 350 Base 4MATIC,52992,52992, Polar White , – , All-wheel Drive ,19–26,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+737,2,2017 Jaguar F-TYPE S British Design Edition,54788,54788, Glacier White , Jet /J et , Rear-wheel Drive ,19–27,Gasoline ,8-Speed Automatic,3.0L V6 24V GDI DOHC Supercharged
+738,3,2019 Audi SQ5 3.0T Premium,48000,48000, Daytona Gray Pearl Effect , Black , All-wheel Drive ,19–24,Gasoline ,8-Speed Automatic,3.0L V6 24V GDI DOHC Turbo
+739,4,2020 Land Rover Discovery SE,51842,51842, Santorini Black , Ebony / Ebony , Four-wheel Drive ,16–21,Gasoline ,Automatic,V6
+740,5,2019 Honda CR-V EX-L,33412,33412, Gunmetal Metallic , Gray , All-wheel Drive ,27–33,Gasoline ,Automatic CVT,1.5L I4 16V GDI DOHC Turbo
+741,6,2019 BMW 540 i xDrive,38752,38752, Black , Cognac , All-wheel Drive ,21–29,Gasoline ,sport automatic,Straight 6 Cylinder Engine
+742,7,2021 Volkswagen Tiguan 2.0T SEL,33674,33674, Pure White , Black , All-wheel Drive ,21–27,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+743,8,2015 Toyota RAV4 Limited,26995,26995, Blizzard Pearl , Terracotta , All-wheel Drive ,22–29,Gasoline ,Automatic,Engine: 2.5L DOHC 4-Cylinder w/Dual VVT-i
+744,9,2019 BMW X5 xDrive40i,55995,55995, Gray Metallic , Beige , All-wheel Drive ,20–26,Gasoline ,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+745,10,2019 Mercedes-Benz AMG E 53 Base 4MATIC,67221,67221, Black , – , All-wheel Drive ,21–28,Gasoline ,9-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+746,11,2021 RAM 1500 Laramie,55482,55482, Patriot Blue Pearlcoat , Black , Four-wheel Drive ,19–24,Gasoline ,8-Speed Automatic,5.7L V8 16V MPFI OHV
+747,12,2017 Subaru Forester 2.0XT Touring,27500,27500, Crystal Black Silica , Saddle Brown , All-wheel Drive ,23–27,Gasoline ,Automatic CVT,2.0L H4 16V GDI DOHC Turbo
+748,13,2021 Ford Explorer XLT,33300,33300, Gray , Sandstone , Rear-wheel Drive ,21–28,Gasoline ,10-Speed Automatic,2.3L I4 16V GDI DOHC Turbo
+749,14,2020 Cadillac Escalade Luxury,64834,64834, Shadow Metallic , Black , Four-wheel Drive ,14–21,Gasoline ,10-Speed Automatic,6.2L V8 16V GDI OHV
+750,15,2018 Mercedes-Benz S-Class S 560 4MATIC,81687,81687, designo Allanite Gray Magno , designo Bengal Red , All-wheel Drive ,17–27,Gasoline ,9-Speed Automatic,4.0L V8 32V GDI DOHC Twin Turbo
+751,16,2018 Lexus GX 460 Base,38999,38999, Starfire Pearl , Black , Four-wheel Drive ,15–18,Gasoline ,6-Speed Automatic,4.6L V8 32V MPFI DOHC
+752,17,2021 Audi SQ5 3.0T Premium,64680,64680, Glacier White Metallic , Black , All-wheel Drive ,18–24,Gasoline ,8-Speed Automatic,3.0L V6 24V GDI DOHC Turbo
+753,18,2021 BMW X3 xDrive30i,46769,46769, Jet Black , Canberra Beige , All-wheel Drive ,23–29,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+754,19,2020 Mercedes-Benz GLB 250 Base 4MATIC,41000,41000, Denim Blue Metallic , Macchiato Beige , All-wheel Drive ,23–31,Gasoline ,8-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo
+755,0,2020 Jeep Grand Cherokee Limited,37891,37891, Sangria Metallic , Black , Four-wheel Drive ,18–25,Gasoline ,8-Speed Automatic,3.6L V6 24V MPFI DOHC
+756,1,2011 Mercedes-Benz CLS-Class CLS 550,23450,23450, Black , – , Rear-wheel Drive ,14–21,Gasoline ,7-Speed Automatic,5.5L V8 32V MPFI DOHC
+757,2,2020 Chevrolet Traverse LT Cloth,33688,33688, Black Cherry Metallic , Jet Black , All-wheel Drive ,17–25,Gasoline ,9-Speed Automatic,3.6L V6 24V GDI DOHC
+758,3,2021 Mercedes-Benz GLC 300 4MATIC Coupe,57592,57592, designo Diamond White Metallic , AMG Saddle Brown , All-wheel Drive ,22–28,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+759,4,2019 Volvo XC60 T5 Inscription,41909,41909, Pine Gray Metallic , Blond , Front-wheel Drive ,22–29,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+760,5,2019 BMW X5 xDrive40i,55998,55998, Carbon Black Metallic , Black , All-wheel Drive ,20–26,Gasoline ,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+761,6,2020 BMW X7 xDrive40i,74940,74940, Jet Black , Black , All-wheel Drive ,20–25,Gasoline ,8-SPEED A/T,Straight 6 Cylinder Engine
+762,7,2019 Mercedes-Benz GLA 250 Base 4MATIC,33500,33500, Midnight Black , Black , All-wheel Drive ,23–31,E85 Flex Fuel ,7-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo Flexible Fuel
+763,8,2020 Mercedes-Benz GLB 250 Base 4MATIC,40975,40975, Polar White , Macchiato Beige , All-wheel Drive ,23–31,Gasoline ,8-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo
+764,9,2012 Kia Soul Base,5995,5995, Alien Pearl Metallic , Black seat trim , Front-wheel Drive ,25–30,Gasoline ,Automatic,1.6L DOHC GDI dual-CVVT 16-valve I4 engine -inc: variable intake
+765,10,2021 Mercedes-Benz GLA 250 Base,45488,45488, Polar White , Macchiato Beige , Front-wheel Drive ,25–34,Gasoline ,8-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo
+766,11,2018 BMW X2 sDrive28i,32000,32000, Black Sapphire Metallic , Oyster / Black , Front-wheel Drive ,23–32,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+767,12,2019 Honda Odyssey EX-L,28995,28995, Silver , Lunar Silver , FWD ,19–28,Gasoline ,9-Speed Automatic,3.5L V6 24V GDI SOHC
+768,13,2019 BMW 330 i xDrive,37481,37481, Alpine White , Mocha , All-wheel Drive ,25–34,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+769,14,2020 INFINITI QX60 Pure,28401,28401, Platinum , Black , Front-wheel Drive ,20–27,Gasoline ,Automatic CVT,3.5L V6 24V GDI DOHC
+770,15,2020 Lexus RX 350 F Sport Performance,54000,54000, Obsidian Black , Red , All-wheel Drive ,19–26,Gasoline ,8-Speed Automatic,3.5L V6 24V PDI DOHC
+771,16,2001 Chevrolet Corvette ,20500,20500, Mystic Teal Metallic , Black , Rear-wheel Drive ,18–26,Gasoline ,4-Speed Automatic,5.7L V8 16V MPFI OHV
+772,17,2019 Mercedes-Benz GLC 300 Base 4MATIC,41783,41783, Black , – , All-wheel Drive ,22–27,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+773,18,2018 Tesla Model S 100D,66500,66500, Silver , – , All-wheel Drive ,101–102,Electric ,1-Speed Automatic,Electric
+774,19,2020 BMW M550 i xDrive,66458,66458, Alpine White , Mocha , All-wheel Drive ,18–25,Gasoline ,8-Speed Automatic,4.4L V8 32V GDI DOHC Twin Turbo
+775,0,2019 Honda Civic LX,24291,24291, Molten Lava Pearl , Black , Front-wheel Drive ,30–38,Gasoline ,Automatic CVT,2.0L I4 16V MPFI DOHC
+776,1,2018 Jeep Grand Cherokee Limited,35977,35977, Granite Crystal Clearcoat Metallic , Black , Four-wheel Drive ,18–25,Gasoline ,8-Speed Automatic,3.6L V6 24V MPFI DOHC
+777,2,2019 Cadillac Escalade Luxury,49595,49595, Shadow Metallic , Black , Rear-wheel Drive ,14–23,Gasoline ,10-Speed Automatic,6.2L V8 16V GDI OHV
+778,3,2015 Porsche Macan Turbo,44991,44991, Black , Agate Gray , All-wheel Drive ,17–23,Gasoline ,7-Speed Automatic with Auto-Shift,3.6L V6 24V GDI DOHC Twin Turbo
+779,4,2021 BMW X3 M40i,59995,59995, Dark Graphite , Black , All-wheel Drive ,21–27,Gasoline ,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+780,5,2020 Lincoln Nautilus Reserve,48916,48916, Radiance , Jet Black , All-wheel Drive ,20–25,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+781,6,2020 Kia Sportage LX,26000,26000, Steel Gray , Black , All-wheel Drive ,22–26,Gasoline ,6-Speed Automatic,2.4L I4 16V GDI DOHC
+782,7,2021 Mercedes-Benz GLE 350 Base 4MATIC,68999,68999, Lunar , Beige / Black , All-wheel Drive ,19–26,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+783,8,2019 Honda CR-V EX-L,29685,29685, Modern Steel Metallic , Black , Front-wheel Drive ,28–34,Gasoline ,Automatic CVT,1.5L I4 16V GDI DOHC Turbo
+784,9,2021 Mercedes-Benz GLE 350 Base 4MATIC,68999,68999, Lunar Blue Metallic , Macchiato Beige , All-wheel Drive ,19–26,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+785,10,2018 Mercedes-Benz GLS 450 Base 4MATIC,50906,50906, Selenite Gray Metallic , Black , All-wheel Drive ,17–22,Gasoline ,9-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo
+786,11,2019 BMW X5 xDrive40i,52999,52999, Black Sapphire Metallic , Ivory White , All-wheel Drive ,20–26,Gasoline ,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+787,12,2021 BMW 330 i xDrive,43758,43758, Mineral Gray Metallic , Black , All-wheel Drive ,25–34,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+788,13,2021 Subaru Forester Limited,37604,37604, Crimson Red Pearl , Gray , All-wheel Drive ,26–33,Gasoline ,Automatic CVT,2.5L H4 16V GDI DOHC
+789,14,2021 Porsche Macan GTS,89998,89998, Volcano Grey Metallic , Black , All-wheel Drive ,17–22,Gasoline ,7-Speed Automatic with Auto-Shift,2.9L V6 24V GDI DOHC Twin Turbo
+790,15,2021 Lexus ES 350 Base,45998,45998, White , Tan , Front-wheel Drive ,22–32,Gasoline ,8-Speed Automatic,3.5L V6 24V PDI DOHC
+791,16,2019 Jeep Grand Cherokee Limited,39998,39998, Black , Black , Four-wheel Drive ,18–25,Gasoline ,8-Speed Automatic,3.6L V6 24V MPFI DOHC
+792,17,2019 Lexus RX 350 RX 350,43488,43488, Nebula Gray Pearl , Brown , All-wheel Drive ,19–26,Gasoline ,8-Speed Automatic,3.5L V6 24V PDI DOHC
+793,18,2020 Toyota Corolla LE,18980,18980, Super White , Black , Front-wheel Drive ,30–38,Gasoline ,Automatic CVT,1.8L I4 16V MPFI DOHC
+794,19,2013 Porsche Panamera S,39995,39995, Black , – , Rear-wheel Drive ,16–24,Gasoline ,7-Speed Automatic with Auto-Shift,4.8L V8 32V GDI DOHC
+795,0,2021 Tesla Model 3 Long Range,61395,61395, Black , Black , All-wheel Drive ,141–127,– ,1-Speed Automatic,0 0.0
+796,1,2018 Ford Escape SE,22730,22730, Shadow Black , Charcoal Black , Four-wheel Drive ,22–28,Gasoline ,6-Speed Automatic,1.5L I4 16V GDI DOHC Turbo
+797,2,2021 Audi Q7 55 Premium,63895,63895, Florett Silver Metallic , Black , All-wheel Drive ,18–23,Gasoline ,7-Speed Automatic,V6
+798,3,2018 Nissan Maxima 3.5 SL,29884,29884, Black , Cashmere , Front-wheel Drive ,21–30,Gasoline ,Automatic CVT,3.5L V6 24V MPFI DOHC
+799,4,2022 BMW X3 sDrive30i,45990,45990, Jet Black , Black , Rear-wheel Drive ,23–29,Gasoline ,Automatic,Intercooled Turbo Premium Unleaded I-4 2.0 L/122
+800,5,2020 Kia Telluride EX,44108,44108, Snow White Pearl , Black , All-wheel Drive ,19–24,Gasoline ,8-Speed Automatic,3.8L V6 24V GDI DOHC
+801,6,2018 Land Rover Range Rover Velar P250 SE R-Dynamic,54995,54995, Firenze Red , Light Oyster / Ebony , Four-wheel Drive ,21–27,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+802,7,2020 Nissan Rogue S,25495,25495, Gun Metallic , Charcoal , All-wheel Drive ,25–32,Gasoline ,Automatic CVT,2.5L I4 16V MPFI DOHC
+803,8,2020 Lincoln Corsair Standard,10795,10795, Pristine White , Sandstone , Front-wheel Drive ,22–29,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+804,9,2014 Mercedes-Benz E-Class E 350 4MATIC,17990,17990, Black , Chestnut Brown / Black , All-wheel Drive ,21–29,Gasoline ,7-Speed Automatic,3.5L V6 24V GDI DOHC
+805,10,2020 Ford Escape SEL,28961,28961, Desert Gold Metallic , Ebony , All-wheel Drive ,26–31,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+806,11,2018 Cadillac XT5 Luxury,35494,35494, Harbor Blue Metallic , Cirrus , All-wheel Drive ,18–25,Gasoline ,8-Speed Automatic,3.6L V6 24V GDI DOHC
+807,12,2019 Volvo XC60 T6 Momentum,41985,41985, Blue , – , All-wheel Drive ,19–27,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC
+808,13,2015 Lexus NX 200t Base,25999,25999, White , Cream , All-wheel Drive ,22,Gasoline ,6-Speed Automatic,2.0L I4 16V PDI DOHC Turbo
+809,14,2021 BMW X5 xDrive40i,66988,66988, Alpine White , Black , All-wheel Drive ,21–25,Gasoline ,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+810,15,2022 Tesla Model Y Performance,75387,75387, Midnight Silver Metallic , White / Black , All-wheel Drive ,None,Electric ,1-Speed Automatic,Electric
+811,16,2011 MINI Cooper Countryman Base,9373,9373, Absolute Black Metallic , Polar Beige , Front-wheel Drive ,26–32,Gasoline ,6-SPEED M/T,4 Cylinder Engine
+812,17,2021 Ford F-150 Lariat,64990,64990, Space White Metallic , Black , Four-wheel Drive ,19–24,Gasoline ,10-Speed Automatic,2.7L V6 24V PDI DOHC Twin Turbo
+813,18,2021 GMC Yukon Denali,83495,83495, Dark Sky Metallic , Teak , Rear-wheel Drive ,15–20,Gasoline ,10-Speed Automatic,6.2L V8 16V GDI OHV
+814,19,2019 Audi Q8 3.0T Premium Plus,72560,72560, Night Black , Black , All-wheel Drive ,17–22,Gasoline ,8-Speed Automatic,3.0L V6 24V GDI DOHC Turbo
+815,0,2020 Lexus RX 350 F Sport,51995,51995, Gray , – , All-wheel Drive ,19–26,Gasoline ,8-Speed Automatic,3.5L V6 24V PDI DOHC
+816,1,2020 BMW 750 i xDrive,76900,76900, Black Sapphire Metallic , Black , All-wheel Drive ,17–25,Gasoline ,8-Speed Automatic,4.4L V8 32V GDI DOHC Twin Turbo
+817,2,2018 BMW X2 sDrive28i,27198,27198, Alpine White , Black , Front-wheel Drive ,23–32,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+818,3,2020 Nissan Pathfinder SL,29000,29000, Gun Metallic , Charcoal , Four-wheel Drive ,20–27,Gasoline ,Automatic CVT,3.5L V6 24V GDI DOHC
+819,4,2018 Audi Q7 2.0T Premium Plus,42991,42991, Carrara White , Nougat Brown , All-wheel Drive ,19–25,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+820,5,2021 Toyota Camry XSE,36800,36800, Wind Chill Pearl / Midnight Black Metallic , Black / Red , Front-wheel Drive ,27–38,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+821,6,2021 Toyota Camry XSE,37300,37300, Wind Chill Pearl / Midnight Black Metallic , Red , Front-wheel Drive ,27–38,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+822,7,2019 Honda CR-V EX-L,29995,29995, Platinum White Pearl , Ivory , All-wheel Drive ,27–33,Gasoline ,Automatic CVT,1.5L I4 16V GDI DOHC Turbo
+823,8,2020 Nissan Murano SL,36874,36874, Gun Metallic , Graphite , Front-wheel Drive ,20–28,Gasoline ,Automatic CVT,3.5L V6 24V MPFI DOHC
+824,9,2019 Honda CR-V EX-L,34209,34209, Crystal Black Pearl , Black , All-wheel Drive ,27–33,Gasoline ,Automatic CVT,1.5L I4 16V GDI DOHC Turbo
+825,10,2019 Audi RS 5 2.9T,77895,77895, Glacier White Metallic , Black / Crescendo Red , All-wheel Drive ,18–27,Gasoline ,8-Speed Automatic,2.9L V6 24V GDI DOHC Twin Turbo
+826,11,2019 GMC Acadia SLT-1,31000,31000, Quicksilver Metallic , Jet Black , All-wheel Drive ,17–25,Gasoline ,6-Speed Automatic,3.6L V6 24V GDI DOHC
+827,12,2019 Honda CR-V EX-L,29974,29974, Crystal Black Pearl , – , Front-wheel Drive ,28–34,Gasoline ,Automatic CVT,1.5L I4 16V GDI DOHC Turbo
+828,13,2019 RAM 1500 Laramie,59998,59998, Black , Black , Four-wheel Drive ,19–24,Gasoline ,8-Speed Automatic,5.7L V8 16V MPFI OHV
+829,14,2016 Porsche Macan S,43900,43900, Black , Black , All-wheel Drive ,17–23,Gasoline ,7-Speed Automatic with Auto-Shift,3.0L V6 24V GDI DOHC Twin Turbo
+830,15,2019 Audi Q8 3.0T Premium,64271,64271, Carrara White , Black , All-wheel Drive ,17–22,Gasoline ,8-Speed Automatic,3.0L V6 24V GDI DOHC Turbo
+831,16,2016 GMC Yukon Denali,38999,38999, Black , Black , Four-wheel Drive ,15–21,Gasoline ,8-Speed Automatic,6.2L V8 16V GDI OHV
+832,17,2021 BMW X3 xDrive30i,42238,42238, Dark Graphite Metallic , Canberra Beige , All-wheel Drive ,23–29,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+833,18,2019 Volvo XC60 T5 Momentum,38500,38500, Onyx Black Metallic , Charcoal , All-wheel Drive ,20–27,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+834,19,2019 Honda Pilot EX-L,38645,38645, Crystal Black Pearl , Black , All-wheel Drive ,18–26,Gasoline ,6-Speed Automatic,3.5L V6 24V GDI SOHC
+835,0,2019 INFINITI QX80 Luxe,61990,61990, Liquid Platinum , Graphite , Rear-wheel Drive ,14–20,Gasoline ,7-Speed Automatic,5.6L V8 32V GDI DOHC
+836,1,2019 Cadillac XT5 Luxury,35540,35540, Stellar Black Metallic , Jet Black , Front-wheel Drive ,19–26,Gasoline ,8-Speed Automatic,3.6L V6 24V GDI DOHC
+837,2,2021 Lamborghini Urus ,310999,310999, White , Rosso Rea , All-wheel Drive ,12–17,Gasoline ,8-Speed Automatic,4.0L V8 32V GDI DOHC Twin Turbo
+838,3,2019 Mercedes-Benz E-Class E 300,38999,38999, Gray Metallic , Black , All-wheel Drive ,21–29,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+839,4,2021 Honda Pilot EX-L,38588,38588, Crystal Black Pearl , – , Front-wheel Drive ,20–27,Gasoline ,9-Speed Automatic,3.5L V6 24V GDI SOHC
+840,5,2021 BMW X1 sDrive28i,37742,37742, Glacier Silver Metallic , Black , Front-wheel Drive ,24–33,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+841,6,2019 Ford Explorer XLT,34799,34799, Agate Black Metallic , Ebony Black , Four-wheel Drive ,16–22,Gasoline ,6-Speed Automatic,3.5L V6 24V MPFI DOHC
+842,7,2019 Mercedes-Benz AMG GLE 43 4MATIC Coupe,62488,62488, Black , Black , All-wheel Drive ,17–22,Gasoline ,9-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo
+843,8,2018 Lexus RX 350 ,43997,43997, Atomic Silver , Parchment , Front-wheel Drive ,20–27,Gasoline ,8-Speed Automatic,3.5L V6 24V GDI DOHC
+844,9,2020 Acura TLX Technology,31690,31690, Modern Steel Metallic , Ebony , Front-wheel Drive ,23–33,Gasoline ,8-Speed Automatic with Auto-Shift,2.4L I4 16V GDI DOHC
+845,10,2019 BMW X5 xDrive40i,58278,58278, Arctic Gray Metallic , Amarone , All-wheel Drive ,20–26,Gasoline ,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+846,11,2020 Mercedes-Benz GLE 450 AWD 4MATIC,61760,61760, Emerald Green Metallic , – , All-wheel Drive ,19–24,Gasoline ,9-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+847,12,2021 Acura RDX Technology Package,44789,44789, White , Ebony , All-wheel Drive ,21–27,Gasoline ,10-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+848,13,2020 Nissan Rogue Sport S,24590,24590, Caspian Blue , Charcoal , Front-wheel Drive ,25–32,Gasoline ,Automatic CVT,2.0L I4 16V GDI DOHC
+849,14,2020 Porsche Cayenne Base,78300,78300, Mahogany Metallic , Black , All-wheel Drive ,19–23,Gasoline ,8-Speed Automatic,3.0L V6 24V GDI DOHC Turbo
+850,15,2020 BMW X3 M Competition,66399,66399, Black Sapphire Metallic , Sakhir Orange , All-wheel Drive ,14–19,Gasoline ,8-Speed Automatic,3.0L I6 24V GDI DOHC Twin Turbo
+851,16,2021 Hyundai Tucson SEL,31221,31221, Dusk Blue , Beige , Front-wheel Drive ,22–28,Gasoline ,6-Speed Automatic,2.4L I4 16V GDI DOHC
+852,17,2016 BMW 535 i xDrive,19000,19000, Dark Graphite Metallic , Black , All-wheel Drive ,20–29,Gasoline ,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+853,18,2017 Audi Q7 3.0T Premium Plus,32000,32000, Orca Black Metallic , Black , All-wheel Drive ,19–25,Gasoline ,8-Speed Automatic,3.0L V6 24V GDI DOHC Supercharged
+854,19,2020 Mercedes-Benz C-Class C 300 4MATIC,40992,40992, Black , – , All-wheel Drive ,23–33,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+855,0,2020 Honda Passport EX-L,37998,37998, Crystal Black Pearl , Black , All-wheel Drive ,19–24,Gasoline ,9-Speed Automatic,3.5L V6 24V GDI SOHC
+856,1,2021 Honda Accord Touring 2.0T,37750,37750, Crystal Black Pearl , Black , Front-wheel Drive ,22–32,Gasoline ,10-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+857,2,2020 Honda Accord LX 1.5T,29999,29999, Crystal Black Pearl , Black , Front-wheel Drive ,30–38,Gasoline ,Automatic CVT,1.5L I4 16V GDI DOHC Turbo
+858,3,2019 Audi A5 2.0T Premium Plus,40000,40000, Manhattan Gray Metallic , Black , All-wheel Drive ,23–34,Gasoline ,7-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo
+859,4,2019 BMW 750 i xDrive,56946,56946, Azurite Black Metallic , Brown , All-wheel Drive ,17–25,Gasoline ,8-Speed Automatic,4.4L V8 32V GDI DOHC Twin Turbo
+860,5,2018 Chevrolet Tahoe Premier,42191,42191, Black , Cocoa / Dune , Four-wheel Drive ,16–22,Gasoline ,Automatic,5.3L V8 16V GDI OHV
+861,6,2019 Mercedes-Benz GLS 450 Base 4MATIC,59999,59999, Black , Black , All-wheel Drive ,16–22,Gasoline ,9-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo
+862,7,2019 Land Rover Range Rover Velar P250 SE R-Dynamic,52884,52884, Yulong White , Ebony / Ebony , Four-wheel Drive ,21–27,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+863,8,2020 Acura RDX Base,41060,41060, Majestic Black Pearl , Ebony , All-wheel Drive ,21–27,Gasoline ,10-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+864,9,2021 RAM 3500 Longhorn,86991,86991, Diamond Black , Mountain Brown , Four-wheel Drive ,None,Diesel ,6-Speed Automatic,6.7L I6 24V DDI OHV Turbo Diesel
+865,10,2019 Toyota Sequoia Platinum,58995,58995, Midnight Black Metallic , – , Rear-wheel Drive ,13–17,Gasoline ,6-Speed Automatic,5.7L V8 32V MPFI DOHC
+866,11,2019 Audi Q5 2.0T Premium Plus,38993,38993, Manhattan Gray Metallic , Atlas Beige / Gray , All-wheel Drive ,22–27,Gasoline ,7-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo
+867,12,2020 Cadillac XT5 Premium Luxury,41037,41037, Manhattan Noir Metallic , Cirrus , Front-wheel Drive ,21–28,Gasoline ,9-Speed Automatic,3.6L V6 24V GDI DOHC
+868,13,2020 Nissan Murano SL,31000,31000, Black , Graphite , All-wheel Drive ,20–28,Gasoline ,Automatic CVT,3.5L V6 24V MPFI DOHC
+869,14,2021 Porsche 911 Turbo S,274981,274981, Agate Grey , Bordeaux Red , All-wheel Drive ,15–20,Gasoline ,8-Speed Automatic with Auto-Shift,3.8L H6 24V GDI DOHC Twin Turbo
+870,15,2020 Mercedes-Benz C-Class C 300,41998,41998, Black , Red , Rear-wheel Drive ,24–35,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+871,16,2019 Honda CR-V EX-L,31995,31995, Crystal Black Pearl , Black , All-wheel Drive ,27–33,Gasoline ,Automatic CVT,1.5L I4 16V GDI DOHC Turbo
+872,17,2016 Ford Explorer Sport,25692,25692, Shadow Black , Ebony Black , Four-wheel Drive ,16–22,Gasoline ,6-Speed Automatic,3.5L V6 24V GDI DOHC Twin Turbo
+873,18,2020 Acura TLX A-Spec,28200,28200, Gray , Red , Front-wheel Drive ,23–32,Gasoline ,8-Speed Automatic with Auto-Shift,2.4L I4 16V GDI DOHC
+874,0,2009 Mitsubishi Outlander XLS,4919,4919, Labrador Black Pearl , Black , Four-wheel Drive ,17–23,Gasoline ,6-Speed Automatic,3.0L V6 24V MPFI SOHC
+875,1,2016 Cadillac SRX Performance Collection,28293,28293, Platinum Ice Tri-Coat , Ebony / Ebony Accents , Front-wheel Drive ,17–24,Gasoline ,6-Speed Automatic,3.6L V6 24V GDI DOHC
+876,2,2021 BMW X7 xDrive40i,81950,81950, Carbon Black Metallic , Black , All-wheel Drive ,19–24,Gasoline ,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+877,3,2016 Honda Accord Touring,28998,28998, Gray , Black , FWD ,21–32,Gasoline ,6-Speed Automatic,3.5L V6 24V MPFI SOHC
+878,4,2020 Nissan Pathfinder SV,29999,29999, Gun Metallic , Charcoal , Front-wheel Drive ,20–27,Gasoline ,Automatic CVT,3.5L V6 24V GDI DOHC
+879,5,2020 BMW X3 xDrive30i,41543,41543, Black Sapphire Metallic , Black , All-wheel Drive ,24–29,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+880,6,2014 INFINITI QX80 Base,26150,26150, Smoky Quartz , Wheat , Four-wheel Drive ,14–20,Gasoline ,7-Speed Automatic,5.6L V8 32V GDI DOHC
+881,7,2020 Mercedes-Benz E-Class E 350,44999,44999, Black , Black , Rear-wheel Drive ,23–32,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+882,8,2020 Chrysler Pacifica Limited,33999,33999, Brilliant Black Crystal Pearlcoat , Black , Front-wheel Drive ,19–28,Gasoline ,9-Speed Automatic,3.6L V6 24V MPFI DOHC
+883,9,2016 Toyota 4Runner Limited,38900,38900, Blizzard Pearl , Black , Four-wheel Drive ,17–21,Gasoline ,5-Speed Automatic,4.0L V6 24V MPFI DOHC
+884,10,2018 BMW X1 xDrive28i,31490,31490, Dark Olive Metallic , Oyster , All-wheel Drive ,22–31,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+885,11,2015 Dodge Durango R/T,29250,29250, Bright White Clearcoat , Red / Black , All-wheel Drive ,14–22,Gasoline ,8-Speed Automatic,5.7L V8 16V MPFI OHV
+886,12,2019 BMW M850 i xDrive,77480,77480, Carbon Black Metallic , Fiona Red , All-wheel Drive ,18–25,Gasoline ,8-Speed Automatic,4.4L V8 32V GDI DOHC Twin Turbo
+887,13,2019 Subaru Outback 2.5i Limited,32703,32703, Ice Silver Metallic , Black , All-wheel Drive ,25–32,Gasoline ,Automatic CVT,2.5L H4 16V MPFI DOHC
+888,14,2021 GMC Sierra 1500 Denali,64999,64999, Onyx Black , – , Four-wheel Drive ,16–22,Gasoline ,10-Speed Automatic,6.2L V8 16V GDI OHV
+889,15,2020 Nissan Rogue SL,32971,32971, Magnetic Black , Charcoal , Front-wheel Drive ,26–33,Gasoline ,Automatic CVT,2.5L I4 16V MPFI DOHC
+890,16,2018 GMC Yukon Denali,43500,43500, Onyx Black , Jet Black , Rear-wheel Drive ,14–23,Gasoline ,10-Speed Automatic,6.2L V8 16V GDI OHV
+891,17,2004 Volvo XC90 2.5T A SR AWD w/Premium Pkg.,3595,3595, Ice White , Graphite , All-wheel Drive ,18–24,Gasoline ,Automatic,2.5L turbocharged I5 engine w/intercooler
+892,18,2019 Honda CR-V EX-L,34804,34804, Gunmetal Metallic , Gray , All-wheel Drive ,27–33,Gasoline ,Automatic CVT,1.5L I4 16V GDI DOHC Turbo
+893,19,2019 BMW X3 xDrive30i,42998,42998, Black , Black , All-wheel Drive ,22–29,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+894,0,2021 Tesla Model Y Long Range,70994,70994, Pearl White Multi , Black , All-wheel Drive ,131–117,Electric ,1-Speed Automatic,Electric
+895,1,2020 Tesla Model 3 Performance,59700,59700, Black , Black , All-wheel Drive ,118–107,– ,1-Speed Automatic,0.0
+896,2,2011 Lexus LS 460 Base,17899,17899, Black , – , All-wheel Drive ,16–23,Gasoline ,8-Speed Automatic,4.6L V8 32V PDI DOHC
+897,3,2018 Porsche Macan ,43990,43990, White , Black , All-wheel Drive ,20–25,Gasoline ,7-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo
+898,4,2017 BMW X5 xDrive35i,38480,38480, Black Sapphire Metallic , Black , All-wheel Drive ,18–24,Gasoline ,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+899,5,2017 Mercedes-Benz E-Class E 300 4MATIC,38606,38606, Gray Metallic , Black , All-wheel Drive ,22–29,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+900,6,2019 Mercedes-Benz AMG GLE 43 4MATIC Coupe,72000,72000, Obsidian Black Metallic , Silk Beige / Espresso Brown , All-wheel Drive ,17–22,Gasoline ,9-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo
+901,7,2018 BMW X5 xDrive35i,40000,40000, Space Gray Metallic , Black , All-wheel Drive ,18–24,Gasoline ,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+902,8,2020 BMW X3 M40i,51998,51998, Carbon Black Metallic , Cognac , All-wheel Drive ,21–27,Gasoline ,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+903,9,2021 Toyota Corolla LE,24575,24575, Black Sand Pearl , – , Front-wheel Drive ,30–38,Gasoline ,Automatic CVT,1.8L I4 16V MPFI DOHC
+904,10,2020 Rolls-Royce Cullinan ,399995,399995, Black , Arctic White , All-wheel Drive ,12–20,Gasoline ,8-Speed Automatic,6.7L V12 48V GDI DOHC Twin Turbo
+905,11,2019 BMW 330 i,36995,36995, Jet Black , Oyster , Rear-wheel Drive ,26–36,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+906,12,2013 Kia Soul +,9999,9999, Green , Black , Front-wheel Drive ,23–28,Gasoline ,Automatic,2.0L DOHC MPI dual-CVVT 16-valve I4 engine -inc: variable intake
+907,13,2019 Nissan Altima 2.5 SR,27992,27992, Gun Metallic , Sport Interior , All-wheel Drive ,25–35,Gasoline ,Automatic CVT,2.5L I4 16V GDI DOHC
+908,14,2010 Ford Mustang GT,13999,13999, Gold , Black , Rear-wheel Drive ,16–24,Gasoline ,5-Speed Manual,4.6L V8 24V MPFI SOHC
+909,15,2019 Jeep Grand Cherokee Limited,34987,34987, Diamond Black , Black , Four-wheel Drive ,18–25,Gasoline ,8-Speed Automatic,3.6L V6 24V MPFI DOHC
+910,16,2019 Mercedes-Benz GLC 300 4MATIC,37787,37787, Black , Black , All-wheel Drive ,22–27,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+911,17,2019 Audi SQ5 3.0T Premium,46991,46991, Brilliant Black , Black , All-wheel Drive ,19–24,Gasoline ,8-Speed Automatic,3.0L V6 24V GDI DOHC Turbo
+912,18,2021 Mercedes-Benz GLS 450 4MATIC,79981,79981, Diamond White Metallic , Macchiato Beige , All-wheel Drive ,20–24,Gasoline ,9-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+913,19,2020 Mercedes-Benz AMG E 63 S 4MATIC,98999,98999, Designo , – , All-wheel Drive ,15–23,Gasoline ,9-Speed Automatic,4.0L V8 32V GDI DOHC Twin Turbo
+914,0,2019 BMW 330 i,33000,33000, Jet Black , Black , Rear-wheel Drive ,26–36,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+915,1,2021 Toyota Highlander XLE,42558,42558, Blizzard Pearl , Beige , Front-wheel Drive ,21–29,Gasoline ,8-Speed Automatic,3.5L V6 24V PDI DOHC
+916,2,2020 Nissan Pathfinder SL,37000,37000, Gun Metallic , Rock Creek , Four-wheel Drive ,20–27,Gasoline ,Automatic CVT,3.5L V6 24V GDI DOHC
+917,3,2019 Ford Escape Titanium,30788,30788, White Platinum , Medium Light Stone , Four-wheel Drive ,21–27,Gasoline ,6-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+918,4,2021 Lexus NX 300 Base,39581,39581, Obsidian Black , Black , Front-wheel Drive ,22–28,Gasoline ,6-Speed Automatic,2.0L I4 16V PDI DOHC Turbo
+919,5,2020 Lincoln Aviator Reserve AWD,58498,58498, Pristine White , – , All-wheel Drive ,17–24,Gasoline ,10-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo
+920,6,2018 Nissan Rogue SL,28789,28789, Magnetic Black , Charcoal , Front-wheel Drive ,26–33,Gasoline ,Automatic CVT,2.5L I4 16V MPFI DOHC
+921,7,2020 Jeep Grand Cherokee Limited,38888,38888, Granite Crystal Clearcoat Metallic , – , Four-wheel Drive ,18–25,Gasoline ,8-Speed Automatic,3.6L V6 24V MPFI DOHC
+922,8,2021 Lexus RX 350 RX 350,52000,52000, Eminent White Pearl , Caramel , All-wheel Drive ,19–26,Gasoline ,8-Speed Automatic,3.5L V6 24V PDI DOHC
+923,9,2020 Cadillac XT4 Premium Luxury,37492,37492, Stellar Black Metallic , Black , Front-wheel Drive ,24–30,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+924,10,2017 Lexus GS 350 F Sport,37877,37877, Silver , Black , All-wheel Drive ,19–27,Gasoline ,6-Speed Automatic,3.5L V6 24V PDI DOHC
+925,11,2018 BMW X2 sDrive28i,29571,29571, Alpine White , Oyster / Black , Front-wheel Drive ,23–32,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+926,12,2016 BMW X3 xDrive28i,22998,22998, Alpine White , Beige , All-wheel Drive ,21–28,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+927,13,2019 Cadillac XT4 Premium Luxury,34499,34499, Stellar Black Metallic , Black , Front-wheel Drive ,24–30,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+928,14,2019 BMW X3 xDrive30i,42998,42998, Black , Black , All-wheel Drive ,22–29,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+929,15,2021 GMC Acadia SLE,37377,37377, Summit White , Jet Black , All-wheel Drive ,22–27,Gasoline ,9-Speed Automatic,3.6L V6 24V GDI DOHC
+930,16,2018 Cadillac XT5 Luxury,35489,35489, Stellar Black Metallic , Jet Black , All-wheel Drive ,18–25,Gasoline ,8-Speed Automatic,3.6L V6 24V GDI DOHC
+931,17,2021 Bentley Continental GT V8,259995,259995, Black , Ebony , All-wheel Drive ,16–26,Gasoline ,8-Speed Automatic with Auto-Shift,4.0L V8 32V GDI DOHC Twin Turbo
+932,18,2019 Mercedes-Benz GLC 300 Base 4MATIC,39895,39895, Black , – , All-wheel Drive ,22–27,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+933,19,2020 Alfa Romeo Stelvio Ti Sport,39975,39975, White Tri-Coat , Red / Black , All-wheel Drive ,22–28,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI SOHC Turbo
+934,0,2019 Mercedes-Benz GLC 300 Base 4MATIC,40624,40624, Polar White , Black , All-wheel Drive ,22–27,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+935,1,2019 BMW X7 xDrive40i,68998,68998, Mineral White Metallic , Coffee , All-wheel Drive ,20–25,Gasoline ,Automatic,Intercooled Turbo Premium Unleaded I-6 3.0 L/183
+936,2,2020 Ford Mustang EcoBoost Premium,27500,27500, Red , – , Rear-wheel Drive ,20–28,Gasoline ,10-Speed Automatic,2.3L I4 16V GDI DOHC Turbo
+937,3,2019 Audi Q5 2.0T Premium Plus,37992,37992, Brilliant Black , Black , All-wheel Drive ,22–27,Gasoline ,7-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo
+938,4,2019 Buick Envision Essence,31500,31500, Ebony Twilight Metallic , Ebony , All-wheel Drive ,21–27,Gasoline ,6-Speed Automatic,2.5L I4 16V GDI DOHC
+939,5,2019 Honda CR-V EX-L,32250,32250, Basque Red Pearl II , Gray , Front-wheel Drive ,28–34,Gasoline ,Automatic CVT,1.5L I4 16V GDI DOHC Turbo
+940,6,2017 Hyundai Sonata Limited,24998,24998, Lakeside Blue , Gray , Front-wheel Drive ,25–35,Gasoline ,6-Speed Automatic,2.4L I4 16V GDI DOHC
+941,7,2020 Mercedes-Benz AMG G 63 Base,224998,224998, Black , – , All-wheel Drive ,13–15,Gasoline ,9-Speed Automatic,4.0L V8 32V GDI DOHC Twin Turbo
+942,8,2017 Mercedes-Benz GLS 450 Base 4MATIC,37998,37998, Palladium Silver Metallic , – , All-wheel Drive ,19–22,Gasoline ,9-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo
+943,9,2019 Mercedes-Benz GLC 300 Base,37998,37998, Gray , Tan , Rear-wheel Drive ,22–27,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+944,10,2020 Acura TLX FWD,31564,31564, Majestic Black Pearl , Ebony , Front-wheel Drive ,23–33,Gasoline ,8-Speed Automatic with Auto-Shift,2.4L I4 16V GDI DOHC
+945,11,2019 BMW X5 xDrive40i,51495,51495, Jet Black , Ivory White , All-wheel Drive ,20–26,Gasoline ,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+946,12,2020 Mercedes-Benz GLS 450 Base 4MATIC,81499,81499, Black , Espresso Brown , All-wheel Drive ,19–23,Gasoline ,9-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+947,13,2020 Kia Sorento LX,29500,29500, Passion Red , Stone Beige , Front-wheel Drive ,22–29,Gasoline ,6-Speed Automatic,2.4L I4 16V GDI DOHC
+948,14,2017 Lexus GS 350 F Sport,38977,38977, Liquid Platinum , Red , Rear-wheel Drive ,19–27,Gasoline ,8-Speed Automatic,3.5L V6 24V PDI DOHC
+949,15,2019 Mercedes-Benz GLC 300 Base,46055,46055, Black , Black , Rear-wheel Drive ,22–27,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+950,16,2018 BMW M5 ,80988,80988, Singapore Gray Metallic , Silverstone , All-wheel Drive ,15–21,Gasoline ,8-Speed Automatic,4.4L V8 32V GDI DOHC Twin Turbo
+951,17,2021 Jeep Wrangler Unlimited Sahara,49977,49977, Black Clearcoat , Dark Saddle / Black , Four-wheel Drive ,17–23,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+952,18,2016 Audi A7 3.0T Premium Plus,33995,33995, White , Black , All-wheel Drive ,20–30,Gasoline ,8-Speed Automatic,3.0L V6 24V GDI DOHC Supercharged
+953,19,2021 Nissan Rogue Sport SV,26690,26690, Magnetic Black , Charcoal , Front-wheel Drive ,25–32,Gasoline ,Automatic CVT,2.0L I4 16V GDI DOHC
+954,0,2019 Ford Escape Titanium,28495,28495, Agate Black , Charcoal Black , Four-wheel Drive ,21–27,Gasoline ,6-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+955,1,2021 Lincoln Corsair Standard,37800,37800, Pristine White , Ebony , Front-wheel Drive ,22–29,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+956,2,2019 BMW 330 i xDrive,33950,33950, Blue , White , All-wheel Drive ,25–34,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+957,3,2019 Ford Fusion Energi Titanium,30000,30000, Agate Black , Ebony , Front-wheel Drive ,None,Hybrid ,Automatic CVT,2.0L I4 16V MPFI DOHC Hybrid
+958,4,2020 Jeep Grand Cherokee Limited,37744,37744, Granite Crystal Clearcoat Metallic , Black , Four-wheel Drive ,18–25,Gasoline ,8-Speed Automatic,3.6L V6 24V MPFI DOHC
+959,5,2021 Toyota Camry SE,28689,28689, Celestial Silver Metallic , Black , Front-wheel Drive ,28–39,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+960,6,2019 Audi Q8 3.0T Premium,66490,66490, Orca Black Metallic , Okapi Brown , All-wheel Drive ,17–22,Gasoline ,8-Speed Automatic,3.0L V6 24V GDI DOHC Turbo
+961,7,2021 Kia Seltos S,27391,27391, Mars Orange , Black , All-wheel Drive ,27–31,Gasoline ,Automatic CVT,2.0L I4 16V MPFI DOHC
+962,8,2020 Volvo S60 T5 Momentum,33995,33995, Black Stone , Charcoal , Front-wheel Drive ,23–34,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+963,9,2022 Honda HR-V LX,27999,27999, Modern Steel Metallic , Black , Front-wheel Drive ,28–34,Gasoline ,Automatic CVT,1.8L I4 16V MPFI SOHC
+964,10,2020 Mercedes-Benz AMG GLC 43 Base 4MATIC,59602,59602, Brilliant Blue Metallic , designo Platinum White Pearl , All-wheel Drive ,18–24,Gasoline ,9-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo
+965,11,2019 Lexus RX 350 350,45888,45888, Nebula Gray Pearl , Gray , Front-wheel Drive ,20–28,Gasoline ,8-Speed Automatic,3.5L V6 24V PDI DOHC
+966,12,2021 Honda Odyssey Elite,47000,47000, Platinum White Pearl , Beige , Front-wheel Drive ,19–28,Gasoline ,10-Speed Automatic,3.5L V6 24V GDI SOHC
+967,13,2019 Mercedes-Benz AMG GLC 43 Base 4MATIC,50977,50977, Obsidian Black Metallic , – , All-wheel Drive ,19–25,Gasoline ,9-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo
+968,14,2020 Porsche Panamera RWD,84998,84998, Black , Black , Rear-wheel Drive ,19–27,Gasoline ,8-Speed Automatic with Auto-Shift,3.0L V6 24V GDI DOHC Turbo
+969,15,2021 Tesla Model Y Long Range,68950,68950, Blue , White / Black , All-wheel Drive ,131–117,Electric ,1-Speed Automatic,Electric
+970,16,2020 Mercedes-Benz GLE 350 Base 4MATIC,61785,61785, Black , Macchiato , All-wheel Drive ,19–26,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+971,17,2019 Jeep Grand Cherokee SRT,61887,61887, Diamond Black , Black , Four-wheel Drive ,13–19,Gasoline ,8-Speed Automatic,6.4L V8 16V MPFI OHV
+972,18,2020 Honda Pilot EX-L,37699,37699, Silver , – , All-wheel Drive ,18–26,Gasoline ,6-Speed Automatic,3.5L V6 24V GDI SOHC
+973,19,2012 Bentley Continental Flying Spur Speed,59995,59995, Black , – , All-wheel Drive ,10–17,E85 Flex Fuel ,6-Speed Automatic,6.0L W12 48V MPFI DOHC Twin Turbo Flexible Fuel
+974,0,2020 Mazda CX-9 Signature,41408,41408, Snowflake White Pearl , Deep Chestnut , All-wheel Drive ,20–26,Gasoline ,6-Speed Automatic,2.5L
+975,1,2020 Mercedes-Benz GLE 350 Base 4MATIC,53680,53680, Polar White , Macchiato Beige , All-wheel Drive ,19–26,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+976,2,2021 Tesla Model Y Long Range,69707,69707, Pearl White Multi , White / Black , All-wheel Drive ,131–117,Electric ,1-Speed Automatic,Electric
+977,3,2021 Toyota Prius L,25998,25998, Midnight Black Metallic , Black , Front-wheel Drive ,58–53,Hybrid ,continuously variable (ecvt),4 Cylinder Engine
+978,4,2017 Subaru Forester 2.5i Premium,13990,13990, Venetian Red Pearl , Gray , All-wheel Drive ,26–32,Gasoline ,Automatic CVT,2.5L H4 16V MPFI DOHC
+979,5,2021 BMW X3 xDrive30i,49998,49998, Blue , Cream , All-wheel Drive ,23–29,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+980,6,2019 Land Rover Range Rover Sport HSE MHEV,64750,64750, Santorini Black , Ebony/Ebony/Ebony/Ebony , Four-wheel Drive ,19–25,Gasoline ,8-Speed Automatic,3.0L I6 24V GDI DOHC
+981,7,2021 Acura TLX Technology,42252,42252, Steel Gray , Espresso , All-wheel Drive ,21–29,Gasoline ,10-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+982,8,2020 Toyota Camry SE,26223,26223, Celestial Silver Metallic , Black , Front-wheel Drive ,28–39,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+983,9,2020 Ford Edge SE,29500,29500, Oxford White , Ebony , Front-wheel Drive ,21–29,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+984,10,2018 Honda Accord LX,22499,22499, Black , Black , Front-wheel Drive ,30–38,Gasoline ,Automatic CVT,1.5L I4 16V GDI DOHC Turbo
+985,11,2022 Mercedes-Benz GLE 450 AWD 4MATIC,92999,92999, MANUFAKTUR Diamond White Metallic , Macchiato Beige , All-wheel Drive ,None,Gasoline ,9-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+986,12,2019 Volvo XC60 T5 Momentum,38253,38253, Onyx Black , Charcoal , All-wheel Drive ,20–27,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+987,13,2020 Mercedes-Benz GLE 350 Base 4MATIC,54992,54992, Gray Metallic , – , AWD ,19–26,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+988,14,2021 GMC Sierra 1500 Denali,61495,61495, Onyx Black , Jet Black , Four-wheel Drive ,16–22,Gasoline ,10-Speed Automatic,6.2L V8 16V GDI OHV
+989,15,2015 Mercedes-Benz M-Class ML 350 4MATIC,22998,22998, Palladium Silver Metallic , Black , All-wheel Drive ,17–22,E85 Flex Fuel ,7-Speed Automatic,3.5L V6 24V GDI DOHC Flexible Fuel
+990,16,2021 Ford F-150 Lariat,64999,64999, Agate Black Metallic , Black , Four-wheel Drive ,None,Hybrid ,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo Hybrid
+991,17,2019 BMW 330 i,34480,34480, Mineral Gray Metallic , Black , Rear-wheel Drive ,26–36,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+992,18,2019 Mercedes-Benz S-Class S 450 4MATIC,58622,58622, Selenite Grey , Black , All-wheel Drive ,18–28,Gasoline ,9g tronic automatic,V6 Cylinder Engine
+993,19,2019 BMW 330 i xDrive,39577,39577, Mineral Gray Metallic , Black , All-wheel Drive ,25–34,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+994,0,2020 Lincoln Corsair Standard,37995,37995, Black , Sandstone , All-wheel Drive ,21–29,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+995,1,2018 Honda Accord LX,23996,23996, Radiant Red Metallic , Ivory , Front-wheel Drive ,30–38,Gasoline ,Automatic CVT,1.5L I4 16V GDI DOHC Turbo
+996,2,2020 Ford Transit-250 Base,59567,59567, Oxford White , Dark Palazzo Gray , All-wheel Drive ,None,Gasoline ,10-Speed Automatic,3.5L V6 24V PDI DOHC
+997,3,2018 BMW X5 M Base,62295,62295, Gray Metallic , Black , All-wheel Drive ,14–19,Gasoline ,8-Speed Automatic,4.4L V8 32V GDI DOHC Twin Turbo
+998,4,2019 Buick Encore Essence,24210,24210, Satin Steel Gray Metallic , Ebony , Front-wheel Drive ,25–30,Gasoline ,6-Speed Automatic,1.4L I4 16V GDI DOHC Turbo
+999,5,2020 RAM 1500 Laramie,43914,43914, Granite Crystal Clearcoat Metallic , Black , Four-wheel Drive ,19–24,Gasoline ,8-Speed Automatic,5.7L V8 16V MPFI OHV
+1000,6,2019 Volvo XC60 T5 Inscription,41267,41267, Crystal White , Maroon Brown , Front-wheel Drive ,22–29,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+1001,7,2021 Honda Pilot Special Edition,39988,39988, Modern Steel Metallic , Black , Front-wheel Drive ,20–27,Gasoline ,9-Speed Automatic,3.5L V6 24V GDI SOHC
+1002,8,2019 Lincoln Nautilus Reserve,42999,42999, Ceramic Pearl Metallic , Ebony , All-wheel Drive ,20–25,Gasoline ,8-Speed Automatic,2.7L V6 24V GDI DOHC Twin Turbo
+1003,9,2019 Honda Odyssey EX-L,37279,37279, White Diamond Pearl , Beige , Front-wheel Drive ,19–28,Gasoline ,9-Speed Automatic,3.5L V6 24V GDI SOHC
+1004,10,2019 BMW 430 Gran Coupe i xDrive,29999,29999, Brown Metallic , Venetian Beige , All-wheel Drive ,23–33,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+1005,11,2020 Volkswagen Tiguan 2.0T SEL Premium R-Line,38900,38900, Pure White , Saffrano Orange / Black , All-wheel Drive ,20–27,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+1006,12,2019 Mazda CX-9 Touring,34285,34285, Machine Gray Metallic , Black , All-wheel Drive ,20–26,Gasoline ,6-Speed Automatic,2.5L V6 24V
+1007,13,2018 Mercedes-Benz GLE 350 Base 4MATIC,37744,37744, Gray , Black , All-wheel Drive ,18–22,Gasoline ,7-Speed Automatic,3.5L V6 24V GDI DOHC
+1008,14,2021 Ford Edge ST,44995,44995, Agate Black Metallic , Ebony , All-wheel Drive ,19–25,Gasoline ,7-Speed Automatic,2.7L V6 24V GDI DOHC Twin Turbo
+1009,15,2013 Mercedes-Benz S-Class S 550 4MATIC,24057,24057, Diamond Silver , Black , All-wheel Drive ,15–24,Gasoline ,7-Speed Automatic,4.7L V8 32V GDI DOHC Twin Turbo
+1010,16,2019 Land Rover Range Rover Sport 3.0L Supercharged HSE,74777,74777, Santorini Black , Ebony/Ebony/Ebony/Ebony , Four-wheel Drive ,17–23,Gasoline ,Automatic,V6
+1011,17,2020 Lamborghini Urus Base,284000,284000, Grigio , Nero Ade , All-wheel Drive ,12–17,Gasoline ,8-Speed Automatic,4.0L V8 32V GDI DOHC Twin Turbo
+1012,18,2019 Honda CR-V EX-L,32400,32400, Modern Steel Metallic , Gray , All-wheel Drive ,27–33,Gasoline ,Automatic CVT,1.5L I4 16V GDI DOHC Turbo
+1013,19,2015 Porsche Macan Turbo,40998,40998, Rhodium Silver , Black , All-wheel Drive ,17–23,Gasoline ,7-Speed Automatic with Auto-Shift,3.6L V6 24V GDI DOHC Twin Turbo
+1014,0,2018 Cadillac XT5 Luxury,31711,31711, Stellar Black Metallic , Jet Black , Front-wheel Drive ,19–26,Gasoline ,8-Speed Automatic,3.6L V6 24V GDI DOHC
+1015,1,2017 Mercedes-Benz AMG C 43 Base,52800,52800, Blue , Brown , All-wheel Drive ,19–26,Gasoline Fuel ,9-Speed A/T,362.0HP 3.0L V6 Cylinder Engine Gasoline Fuel
+1016,2,2019 Mercedes-Benz GLC 300 Base 4MATIC,39927,39927, Black , Silk Beige / Black , All-wheel Drive ,22–27,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+1017,3,2019 Chevrolet Equinox Premier w/1LZ,29500,29500, Sandy Ridge Metallic , Jet Black , Front-wheel Drive ,26–32,Gasoline ,6-Speed Automatic,1.5L I4 16V GDI DOHC Turbo
+1018,4,2020 Mercedes-Benz GLC 300 Base 4MATIC,42995,42995, Iridium Silver Metallic , – , All-wheel Drive ,21–28,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+1019,5,2018 Toyota Sienna XLE Premium,34000,34000, Super White , Ash , Front-wheel Drive ,19–27,Gasoline ,8-Speed Automatic,3.5L V6 24V GDI DOHC
+1020,6,2019 Jeep Grand Cherokee Limited,36247,36247, Diamond Black , Black , Four-wheel Drive ,18–25,Gasoline ,8-Speed Automatic,3.6L V6 24V MPFI DOHC
+1021,7,2020 Chevrolet Trax LS,21065,21065, Gray , – , Front-wheel Drive ,26–31,Gasoline ,6-Speed Automatic,1.4L I4 16V MPFI DOHC Turbo
+1022,8,2017 Tesla Model X P100D,82900,82900, Black , White , All-wheel Drive ,81–92,Electric ,1-Speed Automatic,Electric
+1023,9,2020 Ford Escape Titanium,33998,33998, Black , Ebony , All-wheel Drive ,23–31,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+1024,10,2020 Land Rover Range Rover Evoque S,45950,45950, Eiger Grey , Ebony / Ebony , All-wheel Drive ,20–27,Gasoline ,Automatic,I4
+1025,11,2019 Honda Pilot EX-L,36900,36900, Black , Black , Front-wheel Drive ,19–27,Gasoline ,6-Speed Automatic,3.5L V6 24V GDI SOHC
+1026,12,2020 Honda Passport EX-L,41699,41699, Black Forest Pearl , Gray , All-wheel Drive ,19–24,Gasoline ,9-Speed Automatic,3.5L V6 24V GDI SOHC
+1027,13,2013 Land Rover Range Rover Sport HSE,20991,20991, Fuji White , Ebony , Four-wheel Drive ,13–18,Gasoline ,6-Speed Automatic,5.0L V8 32V GDI DOHC
+1028,14,2008 Lexus LS 460 Base,8800,8800, Black , Black , Rear-wheel Drive ,16–24,Gasoline ,8-SPEED A/T,8 Cylinder Engine
+1029,15,2017 Ford Escape Titanium,20000,20000, Bronze , – , Four-wheel Drive ,22–28,Gasoline ,6-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+1030,16,2020 Lexus ES 350 F Sport,42963,42963, Silver Lining Metallic , Red , Front-wheel Drive ,22–31,Gasoline ,8-Speed Automatic,3.5L V6 24V PDI DOHC
+1031,17,2019 Honda CR-V EX-L,35573,35573, Gunmetal Metallic , Gray , All-wheel Drive ,27–33,Gasoline ,Automatic CVT,1.5L I4 16V GDI DOHC Turbo
+1032,18,2019 Honda CR-V EX-L,34499,34499, Modern Steel Metallic , Gray , All-wheel Drive ,27–33,Gasoline ,Automatic CVT,1.5L I4 16V GDI DOHC Turbo
+1033,19,2021 Toyota Corolla LE,26986,26986, Classic Silver , Black , Front-wheel Drive ,30–38,Gasoline ,Automatic CVT,1.8L I4 16V MPFI DOHC
+1034,0,2019 BMW X5 xDrive40i,49490,49490, Alpine White , Black , All-wheel Drive ,20–26,Gasoline ,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+1035,1,2018 BMW X2 xDrive28i,25742,25742, White , Black , All-wheel Drive ,21–31,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+1036,2,2020 Acura RDX Technology Package,39998,39998, White , Ebony , All-wheel Drive ,21–27,Gasoline ,10-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+1037,3,2018 Mercedes-Benz GLE 350 Base,41991,41991, Selenite Gray Metallic , Ginger , Rear-wheel Drive ,18–23,Gasoline ,7-Speed Automatic,3.5L V6 24V GDI DOHC
+1038,4,2020 Chevrolet Tahoe Premier,64992,64992, Black , Jet Black , Four-wheel Drive ,15–21,Gasoline ,10-Speed Automatic,6.2L V8 16V GDI OHV
+1039,5,2021 Tesla Model Y Long Range,72788,72788, Pearl White Multi , Black , All-wheel Drive ,131–117,Electric ,1-Speed Automatic,Electric
+1040,6,2019 Honda CR-V EX-L,31998,31998, Gray , Black , Front-wheel Drive ,28–34,Gasoline ,Automatic CVT,1.5L I4 16V GDI DOHC Turbo
+1041,7,2020 Jeep Grand Cherokee Limited,47998,47998, Burgundy , Black , Four-wheel Drive ,18–25,Gasoline ,8-Speed Automatic,5.7L V8 16V MPFI OHV
+1042,8,2020 Nissan Rogue Sport S,24900,24900, Nitro Lime Metallic , Charcoal , All-wheel Drive ,24–30,Gasoline ,Automatic CVT,2.0L I4 16V GDI DOHC
+1043,9,2020 Lamborghini Urus Base,299996,299996, White , Nero Ade , All-wheel Drive ,12–17,Gasoline ,8-Speed Automatic,4.0L V8 32V GDI DOHC Twin Turbo
+1044,10,2019 BMW X5 xDrive40i,48487,48487, Mineral White Metallic , Black , All-wheel Drive ,20–26,Gasoline ,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+1045,11,2020 Chevrolet Traverse Premier,43699,43699, Graphite Metallic , Jet Black , Front-wheel Drive ,18–27,Gasoline ,9-Speed Automatic,3.6L V6 24V GDI DOHC
+1046,12,2019 RAM 1500 Classic SLT,32818,32818, Granite Crystal Clearcoat Metallic , Diesel Gray / Black , Four-wheel Drive ,16–23,Gasoline ,8-Speed Automatic,5.7L V8 16V MPFI OHV
+1047,13,2016 Volvo XC90 T6 Momentum,19990,19990, White , – , All-wheel Drive ,20–25,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC
+1048,14,2019 Subaru Forester Premium,30988,30988, Jasper Green Metallic , Gray , All-wheel Drive ,26–33,Gasoline ,Automatic CVT,2.5L H4 16V GDI DOHC
+1049,15,2013 Mercedes-Benz S-Class S 550 4MATIC,25890,25890, Gray , Black , All-wheel Drive ,15–24,Gasoline ,7-Speed Automatic,4.7L V8 32V GDI DOHC Twin Turbo
+1050,16,2020 Lexus RX 350L Base,51498,51498, Atomic Silver , Black , Front-wheel Drive ,19–26,Gasoline ,8-Speed Automatic,3.5L V6 24V PDI DOHC
+1051,17,2019 Tesla Model 3 Long Range,55899,55899, Pearl White Multi , White / Black , All-wheel Drive ,120–112,Electric ,1-Speed Automatic,Electric
+1052,18,2020 Kia Stinger GT2,47000,47000, Snow White Pearl , Black , All-wheel Drive ,17–25,Gasoline ,8-Speed Automatic,3.3L V6 24V GDI DOHC Twin Turbo
+1053,19,2019 BMW 330 i xDrive,36989,36989, Black Sapphire Metallic , Cognac , All-wheel Drive ,25–34,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+1054,0,2019 Honda CR-V EX-L,33783,33783, Modern Steel Metallic , Black , All-wheel Drive ,27–33,Gasoline ,Variable,Intercooled Turbo Regular Unleaded I-4 1.5 L/91
+1055,1,2019 Audi A3 Premium,29250,29250, Brilliant Black , Black , Front-wheel Drive ,26–35,Gasoline ,Automatic,Intercooled Turbo Regular Unleaded I-4 2.0 L/121
+1056,2,2021 Kia Seltos S,28592,28592, Mars Orange , Black , Front-wheel Drive ,29–34,Gasoline ,Automatic CVT,2.0L I4 16V MPFI DOHC
+1057,3,2020 Cadillac XT4 Sport,39957,39957, Crystal White Tri-Coat , Light Wheat , All-wheel Drive ,22–29,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+1058,4,2021 Toyota Corolla LE,23997,23997, Barcelona Red Metallic , Black , Front-wheel Drive ,30–38,Gasoline ,Automatic CVT,1.8L I4 16V MPFI DOHC
+1059,5,2019 Cadillac Escalade ESV Platinum,59899,59899, Black Raven , Jet Black , Four-wheel Drive ,14–21,Gasoline ,10-Speed Automatic,6.2L V8 16V GDI OHV
+1060,6,2016 Jaguar F-TYPE R,60000,60000, White , Red , All-wheel Drive ,15–23,Gasoline Fuel ,8-Speed A/T,550.0HP 5.0L 8 Cylinder Engine Gasoline Fuel
+1061,7,2019 Jeep Grand Cherokee Limited,38189,38189, Granite Crystal Clearcoat Metallic , Black , Four-wheel Drive ,18–25,Gasoline ,8-Speed Automatic,3.6L V6 24V MPFI DOHC
+1062,8,2020 Chrysler Pacifica Limited,36997,36997, Silver , White , Front-wheel Drive ,19–28,Gasoline ,9-Speed Automatic,3.6L V6 24V MPFI DOHC
+1063,9,2021 Chevrolet Corvette Stingray w/2LT,107999,107999, Red Mist Metallic Tintcoat , Jet Black , Rear-wheel Drive ,15–27,Gasoline ,8-Speed Automatic with Auto-Shift,6.2L V8 16V GDI OHV
+1064,10,2021 Toyota 4Runner Limited,48000,48000, Super White , Sand Beige , Four-wheel Drive ,16–19,Gasoline ,5-Speed Automatic,4.0L V6 24V MPFI DOHC
+1065,11,2013 BMW X5 xDrive35i,18000,18000, Space Gray Metallic , Oyster , All-wheel Drive ,16–23,Gasoline ,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+1066,12,2020 BMW X3 xDrive30i,35117,35117, Alpine White , Black , All-wheel Drive ,24–29,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+1067,13,2019 Land Rover Range Rover Velar P250 S,52999,52999, Firenze Red , Ebony / Ebony , Four-wheel Drive ,21–27,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+1068,14,2020 Honda Accord Sport 1.5T,29294,29294, Crystal Black Pearl , Black , Front-wheel Drive ,29–35,Gasoline ,Automatic CVT,1.5L I4 16V GDI DOHC Turbo
+1069,15,2018 BMW M5 Base,81511,81511, Black Sapphire Metallic , Black , All-wheel Drive ,15–21,Gasoline ,8-Speed Automatic,4.4L V8 32V GDI DOHC Twin Turbo
+1070,16,2017 RAM 1500 Laramie,41998,41998, Black , Black , Four-wheel Drive ,16–23,Gasoline ,8-Speed Automatic,5.7L V8 16V MPFI OHV
+1071,17,2021 BMW M3 Competition,89816,89816, Brooklyn Gray Metallic , Black , Rear-wheel Drive ,16–23,Gasoline ,8-Speed Automatic,3.0L I6 24V GDI DOHC Twin Turbo
+1072,18,2020 Cadillac XT5 Premium Luxury,35793,35793, Shadow Metallic , Jet Black , All-wheel Drive ,21–26,Gasoline ,9-Speed Automatic,3.6L V6 24V GDI DOHC
+1073,19,2021 Tesla Model Y Long Range,71650,71650, Black , White / Black , All-wheel Drive ,131–117,Electric ,1-Speed Automatic,Electric
+1074,0,2018 BMW X3 M40i,42900,42900, Dark Graphite Metallic , Black , All-wheel Drive ,20–27,Gasoline ,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+1075,1,2015 Audi Q7 3.0T S line Prestige,25500,25500, Glacier White Metallic , Black , All-wheel Drive ,16–22,Gasoline ,8-Speed Automatic,3.0L V6 24V GDI DOHC Supercharged
+1076,2,2018 Audi Q5 2.0T Tech Premium,34999,34999, Moonlight Blue Metallic , Atlas Beige / Gray , All-wheel Drive ,23–27,Gasoline ,7-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo
+1077,3,2020 Jeep Grand Cherokee Limited,38640,38640, Diamond Black , Black , Four-wheel Drive ,18–25,Gasoline ,8-Speed Automatic,3.6L V6 24V MPFI DOHC
+1078,4,2019 BMW X3 xDrive30i,41900,41900, Dark Graphite Metallic , Cognac , All-wheel Drive ,22–29,Gasoline ,8-Speed Automatic w/OD,4 Cylinder Engine
+1079,5,2020 Nissan Rogue S,23972,23972, Caspian Blue Metallic , Charcoal , Front-wheel Drive ,26–33,Gasoline ,Variable,Regular Unleaded I-4 2.5 L/152
+1080,6,2021 Tesla Model Y Long Range,68712,68712, White , Black , All-wheel Drive ,131–117,Electric ,1-Speed Automatic,Electric
+1081,7,2017 Toyota RAV4 Hybrid Limited,28899,28899, Blizzard Pearl , Black , All-wheel Drive ,34–30,Hybrid ,Automatic CVT,2.5L I4 16V MPFI DOHC Hybrid
+1082,8,2020 Honda Pilot EX-L,37987,37987, Black , – , All-wheel Drive ,18–26,Gasoline ,6-Speed Automatic,3.5L V6 24V GDI SOHC
+1083,9,2020 Honda Pilot EX-L,38996,38996, Gray , Gray , Front-wheel Drive ,19–27,Gasoline ,6-Speed Automatic,3.5L V6 24V GDI SOHC
+1084,10,2020 Mercedes-Benz GLA 250 Base 4MATIC,35997,35997, White , Beige , All-wheel Drive ,22–30,Gasoline ,7-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo
+1085,11,2018 Chevrolet Tahoe Premier,38595,38595, Tungsten Metallic , Jet Black , Rear-wheel Drive ,16–23,Gasoline ,6-Speed Automatic,5.3L V8 16V GDI OHV
+1086,12,2019 Honda CR-V EX-L,30991,30991, Gunmetal Metallic , Black , Front-wheel Drive ,28–34,Gasoline ,Automatic CVT,1.5L I4 16V GDI DOHC Turbo
+1087,13,2021 Chevrolet Tahoe Z71,74492,74492, Shadow Gray Metallic , Black , Four-wheel Drive ,16–20,Gasoline ,10-Speed Automatic,5.3L V8 16V GDI OHV
+1088,14,2018 Ford Explorer Platinum,38000,38000, Shadow Black , Ebony , Four-wheel Drive ,16–22,Gasoline ,6-Speed Automatic,3.5L V6 24V GDI DOHC Twin Turbo
+1089,15,2013 BMW 528 i xDrive,14995,14995, Black , – , All-wheel Drive ,22–33,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+1090,16,2021 Toyota 4Runner Nightshade,57998,57998, Gray , – , Four-wheel Drive ,16–19,Gasoline ,5-Speed Automatic,4.0L V6 24V MPFI DOHC
+1091,17,2021 Tesla Model Y Performance,73605,73605, Red Multi , Black , All-wheel Drive ,115–106,Electric ,1-Speed Automatic,Electric
+1092,18,2020 Lexus ES 350 Base,39595,39595, Nebula Gray Pearl , Chateau , Front-wheel Drive ,22–32,Gasoline ,8-Speed Automatic,3.5L V6 24V PDI DOHC
+1093,0,2018 Mercedes-Benz GLC 300 Base 4MATIC,31992,31992, Selenite Gray Metallic , Black , All-wheel Drive ,21–28,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+1094,1,2019 Lincoln Navigator L Black Label,78391,78391, Infinite Black Metallic , Mahogany Red , Four-wheel Drive ,None,Gasoline ,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo
+1095,2,2021 Chevrolet Suburban LT,66656,66656, Iridescent Pearl Tricoat , Gideon , Rear-wheel Drive ,16–20,Gasoline ,10-Speed Automatic,5.3L V8 16V GDI OHV
+1096,3,2019 Chevrolet Blazer RS,42999,42999, Black , Jet Black , All-wheel Drive ,18–25,Gasoline ,9-Speed Automatic,3.6L V6 24V GDI DOHC
+1097,4,2019 BMW X5 xDrive40i,53500,53500, Tanzanite Blue II Metallic , Black , All-wheel Drive ,20–26,Gasoline ,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+1098,5,2018 BMW X1 sDrive28i,28862,28862, Mineral Gray Metallic , Black , Front-wheel Drive ,23–32,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+1099,6,2018 Jeep Grand Cherokee Limited,33663,33663, Diamond Black , Black , Four-wheel Drive ,18–25,Gasoline ,8-Speed Automatic,3.6L V6 24V MPFI DOHC
+1100,7,2019 Cadillac Escalade Luxury,60032,60032, Black Raven , Jet Black , Four-wheel Drive ,14–21,Gasoline ,10-Speed Automatic,6.2L V8 16V GDI OHV
+1101,8,2016 Ford F-350 Lariat Super Duty,62666,62666, Magnetic , Black , Four-wheel Drive ,None,Diesel ,6-Speed Automatic,6.7L V8 32V DDI OHV Turbo Diesel
+1102,9,2017 Porsche 718 Boxster S,69990,69990, Black , Black , Rear-wheel Drive ,20–26,Gasoline ,7-Speed Automatic with Auto-Shift,2.5L H4 16V GDI DOHC Turbo
+1103,10,2021 Chevrolet Equinox Premier,33595,33595, Midnight Blue Metallic , – , Front-wheel Drive ,26–31,Gasoline ,6-Speed Automatic,1.5L I4 16V GDI DOHC Turbo
+1104,11,2019 Mazda CX-9 Touring,32995,32995, Jet Black Mica , Black , Front-wheel Drive ,22–28,Gasoline ,6-Speed Automatic,2.5L I4 16V GDI DOHC Turbo
+1105,12,2020 Volvo XC40 T5 R-Design,39500,39500, Thunder Gray Metallic , Charcoal , All-wheel Drive ,22–30,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+1106,13,2016 Audi A7 3.0T Premium Plus,35994,35994, Tornado Gray Metallic , Black , All-wheel Drive ,20–30,Gasoline ,8-Speed Automatic,3.0L V6 24V GDI DOHC Supercharged
+1107,14,2021 Mercedes-Benz GLE 350 Base 4MATIC,65999,65999, Emerald Green Metallic , Macchiato Beige , All-wheel Drive ,19–26,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+1108,15,2018 BMW X2 xDrive28i,31812,31812, Blue Metallic , Oyster / Black , All-wheel Drive ,21–31,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+1109,16,2019 Ford F-150 XLT,42998,42998, Ingot Silver Metallic , Black , Four-wheel Drive ,None,Gasoline ,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo
+1110,17,2019 Honda Civic Sport,23593,23593, White , Black , Front-wheel Drive ,29–37,Gasoline ,Automatic CVT,2.0L I4 16V MPFI DOHC
+1111,18,2021 Buick Encore Preferred,26252,26252, Ebony Twilight Metallic , – , Front-wheel Drive ,24–32,Gasoline ,6-Speed Automatic,1.4L I4 16V GDI DOHC Turbo
+1112,19,2019 GMC Acadia SLE-1,28917,28917, Dark Sky Metallic , Jet Black , All-wheel Drive ,21–25,Gasoline ,6-Speed Automatic,2.5L I4 16V GDI DOHC
+1113,0,2019 Toyota 4Runner Limited,49622,49622, Black , Black Graphite , Four-wheel Drive ,17–20,Gasoline ,5-Speed Automatic,4.0L V6 24V MPFI DOHC
+1114,1,2020 Acura MDX 3.5L Technology & A-Spec Pkgs,41488,41488, Platinum White Pearl , Red , All-wheel Drive ,19–25,Gasoline ,9-Speed Automatic,3.5L V6 24V GDI SOHC
+1115,2,2022 Volkswagen Atlas Cross Sport 2.0T SE w/Technology,36998,36998, Platinum Gray Metallic , Titan Black , All-wheel Drive ,20–24,Gasoline ,8-Speed Automatic with Tiptronic,2.0L
+1116,3,2019 Jeep Grand Cherokee Overland,44998,44998, Black , Tan , Four-wheel Drive ,18–25,Gasoline ,8-Speed Automatic,3.6L V6 24V MPFI DOHC
+1117,4,2019 Mercedes-Benz CLS 450 Base 4MATIC,67992,67992, Obsidian Black Metallic , Black , All-wheel Drive ,23–30,Gasoline ,9-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+1118,5,2020 Mitsubishi Outlander SP,24980,24980, Charcoal , Black , Front-wheel Drive ,25–30,Gasoline ,Automatic CVT,2.4L I4 16V MPFI SOHC
+1119,6,2021 Toyota Camry SE,27989,27989, Super White , Black , Front-wheel Drive ,28–39,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+1120,7,2020 Cadillac XT6 Premium Luxury AWD,49987,49987, Crystal White Tri-Coat , Jet Black , All-wheel Drive ,17–24,Gasoline ,9-Speed Automatic,3.6L V6 24V GDI DOHC
+1121,8,2018 Subaru Outback 2.5i Premium,28990,28990, Magnetite Gray Metallic , Black , All-wheel Drive ,25–32,Gasoline ,Automatic CVT,2.5L H4 16V MPFI DOHC
+1122,9,2011 Toyota Sienna XLE,16295,16295, Silver , Tan , Front-wheel Drive ,18–24,Gasoline ,6-Speed Automatic,3.5L V6 24V MPFI DOHC
+1123,10,2021 Audi Q7 55 Premium,66000,66000, Glacier White Metallic , Black , All-wheel Drive ,18–23,Gasoline ,8-Speed Automatic,3.0L V6 24V GDI DOHC Turbo
+1124,11,2019 BMW X5 xDrive40i,58591,58591, Jet Black , Black , All-wheel Drive ,20–26,Gasoline ,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+1125,12,2019 Toyota 4Runner Limited Nightshade,47589,47589, Midnight Black Metallic , Black Graphite , Four-wheel Drive ,17–20,Gasoline ,5-Speed Automatic,4.0L V6 24V MPFI DOHC
+1126,13,2018 BMW X1 xDrive28i,20991,20991, White , Brown , All-wheel Drive ,22–31,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+1127,14,2019 Honda CR-V EX-L,35500,35500, Crystal Black Pearl , Black , All-wheel Drive ,27–33,Gasoline ,Automatic CVT,1.5L I4 16V GDI DOHC Turbo
+1128,15,2012 Volkswagen Golf R 2-Door,17995,17995, Rising Blue Metallic , Titan Black , All-wheel Drive ,19–27,Gasoline ,6-SPEED M/T,4 Cylinder Engine
+1129,16,2019 Acura RDX Technology Package,36991,36991, Gray , Ebony , Front-wheel Drive ,22–28,Gasoline ,10-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+1130,17,2019 Volvo XC90 T6 Momentum,48800,48800, Osmium Gray Metallic , Charcoal , All-wheel Drive ,19–26,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC
+1131,18,2020 Chevrolet Trax LS,21200,21200, Stone Gray Metallic , Black , All-wheel Drive ,24–29,Gasoline ,6-Speed Automatic,1.4L I4 16V MPFI DOHC Turbo
+1132,19,2021 Honda CR-V Touring,36955,36955, Super White , Gray , Front-wheel Drive ,28–34,Gasoline ,Automatic CVT,1.5L I4 16V GDI DOHC Turbo
+1133,0,2018 Honda CR-V EX-L,29706,29706, Molten Lava Pearl , Ivory , All-wheel Drive ,27–33,Gasoline ,Automatic CVT,1.5L I4 16V GDI DOHC Turbo
+1134,1,2019 Mercedes-Benz GLC 300 Base 4MATIC,37449,37449, Black , Black , All-wheel Drive ,22–27,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+1135,2,2019 Honda CR-V EX-L,35000,35000, Molten Lava Pearl , Ivory , All-wheel Drive ,27–33,Gasoline ,Automatic CVT,1.5L I4 16V GDI DOHC Turbo
+1136,3,2019 Land Rover Discovery HSE LUXURY,61950,61950, Fuji White , Tan / Ebony , Four-wheel Drive ,16–21,Gasoline ,Automatic,V6
+1137,4,2018 Jeep Grand Cherokee High Altitude,36957,36957, Diamond Black , Black , Four-wheel Drive ,18–25,Gasoline ,8-Speed Automatic,3.6L V6 24V MPFI DOHC
+1138,5,2019 Lexus RX 450h F Sport,53995,53995, Ultra White , Red , All-wheel Drive ,31–28,Hybrid ,Automatic CVT,3.5L V6 24V PDI DOHC Hybrid
+1139,6,2020 Nissan Rogue S,26877,26877, Magnetic Black , Charcoal , Front-wheel Drive ,26–33,Gasoline ,Automatic CVT,2.5L I4 16V MPFI DOHC
+1140,7,2019 Hyundai Kona EV Ultimate,39977,39977, Galactic Gray , Pebble Blue , Front-wheel Drive ,132–108,Electric ,1-Speed Automatic,Electric
+1141,8,2021 Chevrolet Trailblazer LS,24560,24560, Mosaic Black Metallic , Black , Front-wheel Drive ,28–31,Gasoline ,Automatic CVT,1.2L I3 12V GDI DOHC Turbo
+1142,9,2021 Audi e-tron Prestige,75992,75992, Brilliant Black , Pearl Beige , All-wheel Drive ,78–77,Electric ,1-Speed Automatic,Electric
+1143,10,2019 BMW X7 xDrive40i,66965,66965, Carbon Black Metallic , Black , All-wheel Drive ,20–25,Gasoline ,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+1144,11,2019 BMW 430 i,38999,38999, Black Sapphire Metallic , Black , Rear-wheel Drive ,24–34,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+1145,12,2018 Toyota RAV4 Limited,28999,28999, Magnetic Gray Metallic , – , Front-wheel Drive ,23–29,Gasoline ,6-Speed Automatic,2.5L I4 16V MPFI DOHC
+1146,13,2021 BMW 228 Gran Coupe 228i sDrive Gran Coupe,39995,39995, Mineral Gray Metallic , – , Front-wheel Drive ,24–33,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+1147,14,2021 Lexus NX 300 Base,42996,42996, Nebula Gray Pearl , Red , All-wheel Drive ,22–28,Gasoline ,6-Speed Automatic,2.0L I4 16V PDI DOHC Turbo
+1148,15,2019 Volvo XC90 T6 Inscription,51589,51589, Osmium Gray Metallic , Charcoal , All-wheel Drive ,19–26,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC
+1149,16,2018 Volvo XC60 T6 Momentum,37997,37997, Onyx Black Metallic , Charcoal , All-wheel Drive ,21–27,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC
+1150,17,2019 BMW X5 xDrive40i,56962,56962, Jet Black , Black , All-wheel Drive ,20–26,Gasoline ,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+1151,18,2020 Subaru Legacy ,30877,30877, Crystal Black Silica , Black , All-wheel Drive ,27–35,Gasoline ,Automatic CVT,2.5L H4 16V GDI DOHC
+1152,19,2019 Jeep Grand Cherokee Limited,34000,34000, Black , Black , Four-wheel Drive ,18–25,Gasoline ,8-Speed Automatic,3.6L V6 24V MPFI DOHC
+1153,0,2021 Jeep Cherokee Limited,34995,34995, Diamond Black , Black , Four-wheel Drive ,19–27,Gasoline ,9-Speed Automatic,3.2L V6 24V MPFI DOHC
+1154,1,2016 Acura ILX 2.4L,21540,21540, Gray , Ebony , Front-wheel Drive ,25–36,Gasoline ,8-Speed Automatic with Auto-Shift,2.4L I4 16V GDI DOHC
+1155,2,2019 BMW 330 i xDrive,40781,40781, Jet Black , Black , All-wheel Drive ,25–34,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+1156,3,2019 BMW X3 xDrive30i,41998,41998, Black , Black , All-wheel Drive ,22–29,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+1157,4,2022 Mercedes-Benz GLE 350 Base 4MATIC,64220,64220, Selenite Gray Metallic , Black , All-wheel Drive ,None,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+1158,5,2019 BMW 740 i,46880,46880, Singapore Gray Metallic , Black , Rear-wheel Drive ,21–29,Gasoline ,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+1159,6,2018 Chevrolet Tahoe LT,44450,44450, Summit White , Black , Four-wheel Drive ,16–22,Gasoline ,6-Speed Automatic,5.3L V8 16V GDI OHV
+1160,7,2006 Toyota Sequoia Limited,3995,3995, Tan , Gray , Four-wheel Drive ,15–17,Gasoline ,5-Speed Automatic,4.7L V8 32V MPFI DOHC
+1161,8,2011 Toyota Prius IV,10500,10500, White , Beige , Front-wheel Drive ,51–48,Gas/Electric Hybrid ,CVT Transmission,98.0HP 1.8L 4 Cylinder Engine Gas/Electric Hybrid
+1162,9,2019 Honda CR-V EX-L,33908,33908, Gray , Gray , All-wheel Drive ,27–33,Gasoline ,Automatic CVT,1.5L I4 16V GDI DOHC Turbo
+1163,10,2011 GMC Yukon Denali,6500,6500, White Diamond Tri-Coat , Light Tan , All-wheel Drive ,13–18,E85 Flex Fuel ,6-Speed Automatic,6.2L V8 16V MPFI OHV Flexible Fuel
+1164,11,2018 Tesla Model 3 Mid Range,47000,47000, Black , Black , Rear-wheel Drive ,128–117,Electric ,1-Speed Automatic,Electric
+1165,12,2020 Chevrolet Camaro 2SS,55352,55352, Black , Black , Rear-wheel Drive ,16–24,Gasoline ,10-Speed Automatic,6.2L V8 16V GDI OHV
+1166,13,2018 Toyota RAV4 LE,28391,28391, Ruby , Black , All-wheel Drive ,22–28,Gasoline ,6-Speed Automatic,2.5L I4 16V MPFI DOHC
+1167,14,2012 Toyota Corolla S,6999,6999, Gray , – , Front-wheel Drive ,26–34,Gasoline ,4-Speed Automatic,1.8L I4 16V MPFI DOHC
+1168,15,2019 Chevrolet Equinox Premier w/1LZ,29897,29897, Nightfall Gray Metallic , Jet Black , Front-wheel Drive ,26–32,Gasoline ,6-Speed Automatic,1.5L I4 16V GDI DOHC Turbo
+1169,16,2021 RAM 1500 Laramie,48250,48250, Maximum Steel Metallic , Black , Rear-wheel Drive ,20–25,Gasoline ,8-Speed Automatic,5.7L V8 16V MPFI OHV
+1170,17,2020 Mercedes-Benz GLC 350e Base 4MATIC,39900,39900, Polar White , Silk Beige / Black , All-wheel Drive ,None,Hybrid ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo Hybrid
+1171,18,2018 Volvo XC60 T6 Momentum,42962,42962, Electric Silver Metallic , Charcoal , All-wheel Drive ,21–27,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC
+1172,19,2020 Honda CR-V EX-L,33763,33763, Platinum White Pearl , Ivory , All-wheel Drive ,27–32,Gasoline ,Automatic CVT,1.5L I4 16V GDI DOHC Turbo
+1173,0,2017 INFINITI QX80 Base,43998,43998, Black , Black , All-wheel Drive ,13–19,Gasoline ,7-Speed Automatic,5.6L V8 32V GDI DOHC
+1174,1,2019 Lexus RX 350 350,48595,48595, Nebula Gray Pearl , Brown , Front-wheel Drive ,20–28,Gasoline ,8-Speed Automatic,3.5L V6 24V PDI DOHC
+1175,2,2021 Nissan Rogue SV,33413,33413, Gun Metallic , Charcoal , All-wheel Drive ,25–32,Gasoline ,Automatic CVT,2.5L I4 16V GDI DOHC
+1176,3,2019 Lexus RX 350 350,44503,44503, Nebula Gray Pearl , Black , Front-wheel Drive ,20–28,Gasoline ,8-Speed Automatic,3.5L V6 24V PDI DOHC
+1177,4,2021 GMC Yukon AT4,75995,75995, Onyx Black , Jet Black , Four-wheel Drive ,16–20,Gasoline ,10-Speed Automatic,5.3L V8 16V GDI OHV
+1178,5,2019 BMW i3 120Ah,32850,32850, Black , Deka Dark , Rear-wheel Drive ,124–102,Electric ,1-Speed Automatic,Electric
+1179,6,2018 Chevrolet Silverado 1500 LTZ,38200,38200, Black , Jet Black , Four-wheel Drive ,None,Gasoline ,8-Speed Automatic with Overdrive,5.3L V8 16V GDI OHV
+1180,7,2019 Jeep Grand Cherokee Limited,30000,30000, Granite Crystal Clearcoat Metallic , Black , Rear-wheel Drive ,19–26,Gasoline ,8-Speed Automatic,3.6L V6 24V MPFI DOHC
+1181,8,2018 Toyota RAV4 LE,28481,28481, Electric Storm Blue , Black , Front-wheel Drive ,23–30,Gasoline ,6-Speed Automatic,2.5L I4 16V MPFI DOHC
+1182,9,2020 Toyota Tundra SR5,53587,53587, Midnight Black Metallic , Black , Four-wheel Drive ,13–17,Gasoline ,6-Speed Automatic,5.7L V8 32V MPFI DOHC
+1183,10,2017 Mercedes-Benz GLS 450 Base 4MATIC,33992,33992, Gray , – , AWD ,19–22,Gasoline ,9-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo
+1184,11,2020 Mercedes-Benz E-Class E 450 4MATIC,60997,60997, Polar White , Macchiato Beige , All-wheel Drive ,20–28,Gasoline ,9-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo
+1185,12,2020 Honda CR-V EX-L,34599,34599, Gray , Black , All-wheel Drive ,27–32,Gasoline ,Automatic CVT,1.5L I4 16V GDI DOHC Turbo
+1186,13,2021 BMW 330 i,43200,43200, Mineral White Metallic , Beige , Rear-wheel Drive ,26–36,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+1187,14,2020 BMW M340 i xDrive,51209,51209, Black Sapphire Metallic , Black , All-wheel Drive ,22–30,Gasoline ,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+1188,15,2021 Ford F-150 Lariat,58117,58117, Lead Foot , Black , Four-wheel Drive ,19–24,Gasoline ,10-Speed Automatic,2.7L V6 24V PDI DOHC Twin Turbo
+1189,16,2020 RAM 1500 Limited,57900,57900, Diamond Black , Black , Four-wheel Drive ,19–24,Gasoline ,8-Speed Automatic,5.7L V8 16V MPFI OHV
+1190,17,2021 GMC Yukon Denali,84991,84991, Dark Sky Metallic , Jet Black , Four-wheel Drive ,14–19,Gasoline ,10-Speed Automatic,6.2L V8 16V GDI OHV
+1191,18,2020 Subaru Ascent Touring 7-Passenger,42910,42910, Cinnamon Brown Pearl , Java Brown , All-wheel Drive ,20–26,Gasoline ,Automatic CVT,2.4L H4 16V GDI DOHC Turbo
+1192,19,2017 Chevrolet Tahoe LT,42498,42498, Pepperdust Metallic , Jet Black , Four-wheel Drive ,16–22,Gasoline ,6-Speed Automatic,5.3L V8 16V GDI OHV
