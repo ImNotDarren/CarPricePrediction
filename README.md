@@ -37,8 +37,8 @@ The project proposal is shown [here](/proposal.md).
 
 **To get data:**
 
-Use [car_info.csv](/car_info.csv) or scrape [cars.com](https://www.cars.com) by running [web_scraping.ipynb](/web_scraping.ipynb)
+* Use [car_info.csv](/car_info.csv) or scrape [cars.com](https://www.cars.com) by running [web_scraping.ipynb](/web_scraping.ipynb)
 
-**To train the module**
+**To train the module:**
 
-Run [car_price_prediction](/car_price_prediction.ipynb) in Jupyter Notebook
+* Run [car_price_prediction](/car_price_prediction.ipynb) in Jupyter Notebook
