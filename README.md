@@ -41,4 +41,4 @@ The project proposal is shown [here](/proposal.md).
 
 **To train the module:**
 
-* Run [car_price_prediction](/car_price_prediction.ipynb) in Jupyter Notebook
+* Run [car_price_prediction.ipynb](/car_price_prediction.ipynb) in Jupyter Notebook
