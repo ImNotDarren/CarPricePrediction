@@ -19,7 +19,10 @@
 
 ## <a name="link-part-3">Data</a>
 
-
+The data I used is scraped from [cars.com](https://www.cars.com).
+It includes 1193 used car information including year, module, make,
+price, mileage, color, drivetrain, mpg, fuel type, transmission type,
+and engine. 
 
 ## <a name="link-part-4">Algorithm</a>
 
@@ -27,7 +30,10 @@
 
 ## <a name="link-part-5">Tools</a>
 
-
+* Pandas for exploratory data analysis
+* Matplotlib and Seabornfor plotting
+* Beautiful soup and Requests for web scraping
+* sklearn and statsmodels for building regression module
 
 ## <a name="link-part-6">Communication</a>
 
