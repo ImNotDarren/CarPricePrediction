@@ -54,7 +54,7 @@ MVP document is shown [here](/documents/MVP.md).
 
 **To get data:**
 
-* Use [car_info](/data/car_info.csv) or scrape [cars.com](https://www.cars.com) by running [web_scraping](/web_scraping.ipynb)
+* Use [this dataset](/data/car_info.csv) or scrape [cars.com](https://www.cars.com) by running [web_scraping](/web_scraping.ipynb)
 
 **To train the model:**
 
