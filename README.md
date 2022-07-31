@@ -40,7 +40,7 @@ drivetrain, mpg, fuel type, transmission type, and engine.
 ## <a name="link-part-5">Tools</a>
 
 * Pandas for exploratory data analysis
-* Matplotlib and Seabornfor plotting
+* Matplotlib and Seaborn for plotting
 * Beautiful soup and Requests for web scraping
 * sklearn and statsmodels for building regression module
 
