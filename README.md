@@ -54,8 +54,8 @@ MVP document is shown [here](/documents/MVP.md).
 
 **To get data:**
 
-* Use [car_info.csv](/data/car_info.csv) or scrape [cars.com](https://www.cars.com) by running [web_scraping.ipynb](/web_scraping.ipynb)
+* Use [car_info](/data/car_info.csv) or scrape [cars.com](https://www.cars.com) by running [web_scraping](/web_scraping.ipynb)
 
 **To train the module:**
 
-* Run [car_price_prediction.ipynb](/car_price_prediction.ipynb) in Jupyter Notebook
+* Run [car_price_prediction](/car_price_prediction.ipynb) in Jupyter Notebook
