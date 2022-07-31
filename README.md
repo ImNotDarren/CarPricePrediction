@@ -11,11 +11,18 @@
 
 ## <a name="link-part-1">Abstract</a>
 
-
+The goal of this project was to build a module using used car
+infomation on [cars.com](https://www.cars.com) to predict used
+car prices. Based on the prices we have, we may be able to predict
+car prices in a few years to make a better choice when to get a
+used car.
 
 ## <a name="link-part-2">Design</a>
 
-
+Nowadays, because of the COVID situation, used cars are getting more and more expensive.
+People are usually confused if they should get a car now or if they should wait. Hence,
+more and more people need a car price predicting tool to predict the price of used cars
+to avoid spending too much money.
 
 ## <a name="link-part-3">Data</a>
 
