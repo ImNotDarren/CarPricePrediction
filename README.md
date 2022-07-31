@@ -26,10 +26,12 @@ to avoid spending too much money.
 
 ## <a name="link-part-3">Data</a>
 
-The data I used is scraped from [cars.com](https://www.cars.com).
-It includes 1193 used car information including year, module, make,
-price, mileage, color, drivetrain, mpg, fuel type, transmission type,
-and engine. 
+The dataset I used is scraped from [cars.com](https://www.cars.com)
+containing 1193 rows of data.
+
+Each row will represent one used car that is on sale on cars.com.
+The information includes year, module, make, price, mileage, color,
+drivetrain, mpg, fuel type, transmission type, and engine. 
 
 ## <a name="link-part-4">Algorithm</a>
 
