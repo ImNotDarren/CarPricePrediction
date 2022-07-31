@@ -7,7 +7,7 @@
 - [Algorithm](#link-part-4)
 - [Tools](#link-part-5)
 - [Communication](#link-part-6)
-- [How to run](#link-part-7)
+- [**How to run**](#link-part-7)
 
 ## <a name="link-part-1">Abstract</a>
 
