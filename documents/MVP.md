@@ -7,4 +7,5 @@ and saved them in a [csv file](/data/car_info.csv).
 
 ## Moduling
 The moduling part is done in [this file](/car_price_prediction.ipynb).
-I have the data cleaned and have built some models with the data.
+I have the data cleaned and have built some virtualizations and models
+with the data.
