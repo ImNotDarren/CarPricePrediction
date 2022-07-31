@@ -48,6 +48,8 @@ drivetrain, mpg, fuel type, transmission type, and engine.
 
 The project proposal is shown [here](/documents/proposal.md).
 
+MVP document is shown [here](/documents/MVP.md).
+
 ## <a name="link-part-7">How to run</a>
 
 **To get data:**
