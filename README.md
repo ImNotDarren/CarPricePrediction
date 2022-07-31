@@ -46,13 +46,13 @@ drivetrain, mpg, fuel type, transmission type, and engine.
 
 ## <a name="link-part-6">Communication</a>
 
-The project proposal is shown [here](/proposal.md).
+The project proposal is shown [here](/documents/proposal.md).
 
 ## <a name="link-part-7">How to run</a>
 
 **To get data:**
 
-* Use [car_info.csv](/car_info.csv) or scrape [cars.com](https://www.cars.com) by running [web_scraping.ipynb](/web_scraping.ipynb)
+* Use [car_info.csv](/data/car_info.csv) or scrape [cars.com](https://www.cars.com) by running [web_scraping.ipynb](/web_scraping.ipynb)
 
 **To train the module:**
 
