@@ -1,4 +1,4 @@
-# Car Price Prediction - still on progress
+# Car Price Prediction (in progress)
 
 ## Table of Contents
 - [Abstract](#link-part-1)
