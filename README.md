@@ -29,7 +29,7 @@ to avoid spending too much money.
 The dataset I used is scraped from [cars.com](https://www.cars.com)
 containing 1193 rows of data.
 
-Each row will represent one used car that is on sale on cars.com.
+Each row will represent one used car that is on sale on [cars.com](https://www.cars.com).
 The information includes year, module, make, price, mileage, color,
 drivetrain, mpg, fuel type, transmission type, and engine. 
 
