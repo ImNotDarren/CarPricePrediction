@@ -46,6 +46,12 @@ drivetrain, mpg, fuel type, transmission type, and engine.
 
 ## <a name="link-part-6">Communication</a>
 
+* Linear regression model test:
+
+<img src="images/linear_regression_test.png" alt="drawing" width="500"/>
+
+**$R^2$ score: 0.869**
+
 The project proposal is shown [here](/documents/proposal.md).
 
 MVP documentation is shown [here](/documents/MVP.md).
