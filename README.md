@@ -50,6 +50,8 @@ The project proposal is shown [here](/documents/proposal.md).
 
 MVP documentation is shown [here](/documents/MVP.md).
 
+The slides to the project are not here yet.
+
 ## <a name="link-part-7">How to run</a>
 
 **To get data:**
