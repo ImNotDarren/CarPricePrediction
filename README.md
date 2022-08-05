@@ -39,7 +39,7 @@ drivetrain, mpg, fuel type, transmission type, and engine.
 
 ## <a name="link-part-4">Algorithm</a>
 
-Feature Engineering
+**Feature Engineering**
 
 1. Converting fuel type, car make and model, transmission into dummies.
 
@@ -49,12 +49,18 @@ Feature Engineering
 
 4. Breaking down drivetrain into 2-wheel-drive and 4-wheel-drive
 
-Models
+**Models**
 
 The first linear regression model has a huge overfitting problem. The train $R^2$ value
-is usually around 0.94 while the test $R^2$ value is around 0.70 to 0.80. Then I applied
-the lasso regression model which solves the overfitting problem quite well. Now the train
-$R^2$ value and test $R^2$ value are both around 0.934. 
+is usually around 0.94 while the test $R^2$ value is around 0.70 to 0.80. Then I tuned
+the lasso regression model which solves the overfitting problem quite well. Lasso excluded
+lots of features including is_gas, age, engine_L and many car makes. Now the train $R^2$
+value and test $R^2$ value are both around 0.934.
+
+**Model Evaluation**
+
+The entire training dataset of 1193 records was split into 80/20 train vs. holdout, and all
+scores reported below were validated from both train dataset and test dataset.
 
 ## <a name="link-part-5">Tools</a>
 
