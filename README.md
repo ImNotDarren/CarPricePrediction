@@ -50,7 +50,17 @@ drivetrain, mpg, fuel type, transmission type, and engine.
 
 <img src="images/linear_regression_test.png" alt="drawing" width="500"/>
 
-**$R^2$ score: 0.918**
+**Train $R^2$ score: 0.940**
+
+**Test $R^2$ score: 0.918**
+
+* Lasso regression model test: (Solved overfitting)
+
+<img src="images/lasso_regression_test.png" alt="drawing" width="500"/>
+
+**Train $R^2$ score: 0.935**
+
+**Test $R^2$ score: 0.934**
 
 The project proposal is shown [here](/documents/proposal.md).
 
