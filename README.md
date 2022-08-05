@@ -79,6 +79,10 @@ scores reported below were validated from both train dataset and test dataset.
 
 ## <a name="link-part-6">Communication</a>
 
+* [Data](/data/car_info.csv) scraped from [cars.com](https://www.cars.com):
+
+<img src="images/scraped_data.png" alt="drawing" width="500"/>
+
 * [Linear regression model](/models/linear_model_pkl) test:
 
 <img src="images/linear_regression_test.png" alt="drawing" width="500"/>
