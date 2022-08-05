@@ -39,14 +39,20 @@ drivetrain, mpg, fuel type, transmission type, and engine.
 
 ## <a name="link-part-4">Algorithm</a>
 
+**Web Scraping**
+
+1. Getting used car list url
+2. Using the url of the first page to get the urls of the first 60 pages.
+3. Scraping name, price, mileage information from every page.
+4. Scraping every used car's individual page link from every page.
+5. Scraping each used car's page to get color, drivetrain, mpg, fuel type, transmission and engine information.
+6. Saving the information in a dataframe and then saving into a csv file for modeling.
+
 **Feature Engineering**
 
 1. Converting fuel type, car make and model, transmission into dummies.
-
 2. Converting MPG into int type by add lowest mpg to highest mpg.
-
 3. Breaking down car engines into liters and volts.
-
 4. Breaking down drivetrain into 2-wheel-drive and 4-wheel-drive
 
 **Models**
@@ -61,6 +67,8 @@ makes. Now the train $R^2$ value and test $R^2$ value are both around 0.934.
 
 The entire training dataset of 1193 records was split into 80/20 train vs. holdout, and all
 scores reported below were validated from both train dataset and test dataset.
+
+**Final Score: 0.934** (168 features are included)
 
 ## <a name="link-part-5">Tools</a>
 
