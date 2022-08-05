@@ -57,7 +57,7 @@ drivetrain, mpg, fuel type, transmission type, and engine.
 **Models**
 
 The first linear regression model has a huge overfitting problem. The train $R^2$ value
-is usually around 0.94 while the test $R^2$ value is around 0.70 to 0.80. Then I tuned
+is usually around 0.95 while the test $R^2$ value is around 0.70 to 0.80. Then I tuned
 the lasso regression model which is this final model and added ploynomial features which
 solves the overfitting problem and massively increased the performance. Lasso excluded
 lots of features including is_gas, age, engine_L and many car makes. Now the train $R^2$
@@ -66,9 +66,9 @@ value and test $R^2$ value are both around 0.98.
 **Model Evaluation**
 
 The entire training dataset of 1193 records was split into 80/20 train vs. holdout, and all
-scores reported below were validated from both train dataset and test dataset.
+scores reported below were validated from both train dataset and holdout dataset.
 
-**Final Score: 0.934** (168 features are included)
+**Final Score: 0.980**
 
 ## <a name="link-part-5">Tools</a>
 
@@ -87,9 +87,9 @@ scores reported below were validated from both train dataset and test dataset.
 
 <img src="images/linear_regression_test.png" alt="drawing" width="500"/>
 
-**Train $R^2$ score: 0.940**
+**Train $R^2$ score: 0.958**
 
-**Test $R^2$ score: 0.918**
+**Test $R^2$ score: 0.765**
 
 * [Lasso regression model](/models/lasso_model_pkl) test: (Solved overfitting)
 
