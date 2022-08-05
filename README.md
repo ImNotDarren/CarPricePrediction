@@ -1,5 +1,4 @@
-# Car Price Prediction (in progress)
-
+# Car Price Prediction
 ## Table of Contents
 - [Abstract](#link-part-1)
 - [Design](#link-part-2)
