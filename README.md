@@ -108,10 +108,11 @@ The slides to the project are not here yet.
 
 **To get data:**
 
-* Use [this dataset](/data/car_info.csv) or scrape [cars.com](https://www.cars.com) by running [web_scraping](/web_scraping.ipynb)
+* Use [this dataset](/data/car_info.csv) or scrape [cars.com](https://www.cars.com)
+by running [web_scraping](/web_scraping.ipynb).
 
 **To train the model:**
 
-* Run [car_price_prediction](/car_price_prediction.ipynb) in Jupyter Notebook
+* Run [car_price_prediction](/car_price_prediction.ipynb) in Jupyter Notebook.
 
-* Saved models are in [here](/models)
+* Saved models are in [here](/models).
