@@ -76,6 +76,7 @@ scores reported below were validated from both train dataset and holdout dataset
 * **Matplotlib** and **Seaborn** for plotting
 * **Beautifulsoup** and **Requests** for web scraping
 * **Scikit Learn** and **Statsmodels** for building regression model
+* **Pickle** for saving regression models in a pickle file
 
 ## <a name="link-part-6">Communication</a>
 
