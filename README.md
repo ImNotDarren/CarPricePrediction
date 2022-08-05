@@ -11,11 +11,11 @@
 
 ## <a name="link-part-1">Abstract</a>
 
-The goal of this project was to build a model using used car
-infomation on [cars.com](https://www.cars.com) to predict used
-car prices. Based on the prices we have, we may be able to predict
-car prices in a few years to make a better choice when to get a
-used car.
+The goal of this project was to build a regression model to predict used
+car prices. I worked with data scraped from [cars.com](https://www.cars.com)
+to achieve training the model. Based on the prices we have, we are able to
+predict car prices in a few years to make a better choice on when to get which
+used cars.
 
 ## <a name="link-part-2">Design</a>
 
@@ -23,6 +23,10 @@ Nowadays, because of the COVID situation, used cars are getting more and more ex
 People are usually confused if they should get a car now or if they should wait. Hence,
 more and more people need a car price predicting tool to predict the price of used cars
 to avoid spending too much money.
+
+For car owners, they are also able to predict their cars' prices in a few years using
+this model, which can help them decide when to sell their car and get a car at the same
+time with the best deal.
 
 ## <a name="link-part-3">Data</a>
 
@@ -35,7 +39,15 @@ drivetrain, mpg, fuel type, transmission type, and engine.
 
 ## <a name="link-part-4">Algorithm</a>
 
+Feature Engineering
 
+1. Converting fuel type, car make and model, transmission into dummies.
+
+2. Converting MPG into int type by add lowest mpg to highest mpg.
+
+3. Breaking down car engines into liters and volts.
+
+4. Breaking down drivetrain into 2-wheel-drive and 4-wheel-drive
 
 ## <a name="link-part-5">Tools</a>
 
