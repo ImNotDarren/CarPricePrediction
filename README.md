@@ -46,7 +46,7 @@ drivetrain, mpg, fuel type, transmission type, and engine.
 
 ## <a name="link-part-6">Communication</a>
 
-* Linear regression model test:
+* [Linear regression model](/models/linear_model_pkl) test:
 
 <img src="images/linear_regression_test.png" alt="drawing" width="500"/>
 
@@ -54,7 +54,7 @@ drivetrain, mpg, fuel type, transmission type, and engine.
 
 **Test $R^2$ score: 0.918**
 
-* Lasso regression model test: (Solved overfitting)
+* [Lasso regression model](/models/lasso_model_pkl) test: (Solved overfitting)
 
 <img src="images/lasso_regression_test.png" alt="drawing" width="500"/>
 
