@@ -104,7 +104,7 @@ The project proposal is shown [here](/documents/proposal.md).
 
 MVP documentation is shown [here](/documents/MVP.md).
 
-The slides to the project are not here yet.
+The slides to the project are [here](/documents/slides.pdf).
 
 ## <a name="link-part-7">How to run</a>
 
