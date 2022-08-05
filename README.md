@@ -49,6 +49,13 @@ Feature Engineering
 
 4. Breaking down drivetrain into 2-wheel-drive and 4-wheel-drive
 
+Models
+
+The first linear regression model has a huge overfitting problem. The train $R^2$ value
+is usually around 0.94 while the test $R^2$ value is around 0.70 to 0.80. Then I applied
+the lasso regression model which solves the overfitting problem quite well. Now the train
+$R^2$ value and test $R^2$ value are both around 0.934. 
+
 ## <a name="link-part-5">Tools</a>
 
 * **Pandas** for exploratory data analysis
