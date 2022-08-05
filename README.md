@@ -53,9 +53,9 @@ drivetrain, mpg, fuel type, transmission type, and engine.
 
 The first linear regression model has a huge overfitting problem. The train $R^2$ value
 is usually around 0.94 while the test $R^2$ value is around 0.70 to 0.80. Then I tuned
-the lasso regression model which solves the overfitting problem quite well. Lasso excluded
-lots of features including is_gas, age, engine_L and many car makes. Now the train $R^2$
-value and test $R^2$ value are both around 0.934.
+the lasso regression model which is this final model and solves the overfitting problem
+quite well. Lasso excluded lots of features including is_gas, age, engine_L and many car
+makes. Now the train $R^2$ value and test $R^2$ value are both around 0.934.
 
 **Model Evaluation**
 
