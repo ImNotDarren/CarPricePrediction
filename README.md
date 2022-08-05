@@ -50,7 +50,7 @@ drivetrain, mpg, fuel type, transmission type, and engine.
 
 <img src="images/linear_regression_test.png" alt="drawing" width="500"/>
 
-**$R^2$ score: 0.902**
+**$R^2$ score: 0.918**
 
 The project proposal is shown [here](/documents/proposal.md).
 
