@@ -40,11 +40,10 @@ drivetrain, mpg, fuel type, transmission type, engine and zip code.
 
 **Web Scraping**
 
-1. Getting used car list url
-2. Using the url of the first page to get the urls of the first 60 pages.
+1. Getting used car list url 120 pages.
 3. Scraping name, price, mileage information from every page.
 4. Scraping every used car's individual page link from every page.
-5. Scraping each used car's page to get color, drivetrain, mpg, fuel type, transmission and engine information.
+5. Scraping each used car's page to get drivetrain, mpg, fuel type, transmission and engine information.
 6. Saving the information in a dataframe and then saving into a csv file for modeling.
 
 **Feature Engineering**
@@ -52,16 +51,15 @@ drivetrain, mpg, fuel type, transmission type, engine and zip code.
 1. Converting fuel type, car make and model, transmission into dummies.
 2. Converting MPG into int type by add lowest mpg to highest mpg.
 3. Breaking down car engines into liters and volts.
-4. Breaking down drivetrain into 2-wheel-drive and 4-wheel-drive
+4. Breaking down drivetrain into 2-wheel-drive and 4-wheel-drive.
+5. Get major city and population by zip code.
 
 **Models**
 
-The first linear regression model has a huge overfitting problem. The train $R^2$ value
-is usually around 0.95 while the test $R^2$ value is around 0.70 to 0.80. Then I tuned
-the lasso regression model which is this final model and added ploynomial features which
-solves the overfitting problem and massively increased the performance. Lasso excluded
-lots of features including is_gas, age, engine_L and many car makes. Now the train $R^2$
-value and test $R^2$ value are both around 0.98.
+I chose to use lasso regression model to solve the overfitting problem. I added ploynomial
+features which massively increased the performance. Lasso excluded lots of features including
+is_gas, age, engine_L and many car makes. Now the train $R^2$ value and test $R^2$ value are
+both around 0.98.
 
 **Model Evaluation**
 
