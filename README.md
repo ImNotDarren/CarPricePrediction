@@ -106,6 +106,17 @@ The slides to the project are [here](/documents/slides.pdf).
 
 ## <a name="link-part-7">How to run</a>
 
+**To perform prediction:**
+
+```
+python3 CPP.py $(car_webpage_url) $(year)
+```
+
+For example:
+```
+python3 CPP.py https://www.cars.com/vehicledetail/c8e2871f-4ccc-4d5a-a3e5-21d30ff60e80/ 2030
+```
+
 **To get data:**
 
 * Use [this dataset](/data/car_info.csv) or scrape [cars.com](https://www.cars.com)
@@ -115,4 +126,4 @@ by running [web_scraping](/web_scraping.ipynb).
 
 * Run [car_price_prediction](/car_price_prediction.ipynb) in Jupyter Notebook.
 
-* Saved models are in [here](/models).
+* The saved model is [here](/models/lasso_model_pkl).
