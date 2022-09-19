@@ -126,4 +126,4 @@ by running [web_scraping](/web_scraping.ipynb).
 
 * Run [car_price_prediction](/car_price_prediction.ipynb) in Jupyter Notebook.
 
-* The saved model is [here](/models/lasso_model_pkl).
+* The saved model is [here](/models/lasso_model.pkl).
