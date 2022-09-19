@@ -114,7 +114,7 @@ python3 CPP.py $(car_webpage_url) $(year)
 
 For example:
 ```
-python3 CPP.py https://www.cars.com/vehicledetail/c8e2871f-4ccc-4d5a-a3e5-21d30ff60e80/ 2030
+python3 CPP.py https://www.cars.com/vehicledetail/98da3fd2-a852-4dd2-8727-32a3e7e834a9/ 2024
 ```
 
 **To get data:**
