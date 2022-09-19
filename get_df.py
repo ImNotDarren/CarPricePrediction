@@ -41,7 +41,7 @@ def get_year_make_model(row):
 
 def get_low_mpg(row):
     if row.mpg == '–' or row.mpg == 'None':
-        return 0
+        return 25.4
     else:
         i = row.mpg.find('–')
         if i != -1:
@@ -51,13 +51,13 @@ def get_low_mpg(row):
 
 def get_high_mpg(row):
     if row.mpg == '–' or row.mpg == 'None':
-        return 0
+        return 25.4
     else:
         i = row.mpg.find('–')
         if i != -1:
             return row.mpg[i+1:]
         else:
-            return 0
+            return row.mpg
 
 def is_auto(row):
     regex = re.compile('.*([A|a]uto|A/T|Dual Shift).*')
@@ -84,7 +84,7 @@ def get_speed(row):
     tmp = row.transmission
     tmp = re.sub('[^0-9]', '', tmp)
     if tmp == '':
-        return 0
+        return 6
     else:
         return int(tmp)
 
@@ -113,7 +113,7 @@ def get_V(row):
     elif e.match(i):
         return 12
     else:
-        return 0
+        return 24
 
 def get_drivetrain(row):
     i = row.drivetrain
@@ -124,7 +124,7 @@ def get_drivetrain(row):
     elif two.match(i):
         return 2
     else:
-        return 0
+        return 3
 
 def get_major_city(row):
     engine = SearchEngine()
