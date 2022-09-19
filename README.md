@@ -106,7 +106,7 @@ The slides to the project are [here](/documents/slides.pdf).
 
 ## <a name="link-part-7">How to run</a>
 
-**To perform prediction:**
+**To get predicted price:**
 
 ```
 python3 CPP.py $(car_webpage_url) $(year)
