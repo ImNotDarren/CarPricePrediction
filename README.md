@@ -1,4 +1,4 @@
-# Car Price Prediction
+# Used Car Price Predicting Tool
 ## Table of Contents
 - [Abstract](#link-part-1)
 - [Design](#link-part-2)
