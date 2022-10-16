@@ -84,19 +84,15 @@ scores reported below were validated from both train dataset and holdout dataset
 
 * [Linear regression model](/models/linear_model_pkl) test:
 
-<img src="images/linear_regression_test.png" alt="drawing" width="500"/>
+**Train $R^2$ score: 0.847**
 
-**Train $R^2$ score: 0.958**
+**Test $R^2$ score: 0.435**
 
-**Test $R^2$ score: 0.765**
+* [Lasso regression model](/models/lasso_model_pkl) test:
 
-* [Lasso regression model](/models/lasso_model_pkl) test: (Solved overfitting)
+**Train $R^2$ score: 0.823**
 
-<img src="images/lasso_regression_test.png" alt="drawing" width="500"/>
-
-**Train $R^2$ score: 0.985**
-
-**Test $R^2$ score: 0.980**
+**Test $R^2$ score: 0.784**
 
 The project proposal is shown [here](/documents/proposal.md).
 
@@ -114,7 +110,7 @@ python3 CPP.py $(car_webpage_link) $(year)
 
 For example:
 ```
-python3 CPP.py https://www.cars.com/vehicledetail/98da3fd2-a852-4dd2-8727-32a3e7e834a9/ 2024
+python3 CPP.py https://www.cars.com/vehicledetail/0fd3138e-4a1e-44ac-ba26-3c1bbbd8368b/ 2024
 ```
 
 **To get data:**
