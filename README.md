@@ -77,23 +77,19 @@ scores reported below were validated from both train dataset and holdout dataset
 
 ## <a name="link-part-6">Communication</a>
 
-* Linear regression model test:
+* **Linear regression model** test:
 
-**Train $R^2$ score: 0.847**
+    Train $R^2$ score: 0.847
 
-**Test $R^2$ score: 0.435**
+    Test $R^2$ score: 0.435
 
-* [Ridge regression model](/models/ridge_model.pkl) test:
+* **[Ridge regression model](/models/ridge_model.pkl)** test:
 
-**Train $R^2$ score: 0.823**
+    Train $R^2$ score: 0.823
 
-**Test $R^2$ score: 0.784**
+    Test $R^2$ score: **0.784**
 
 The project proposal is shown [here](/documents/proposal.md).
-
-MVP documentation is shown [here](/documents/MVP.md).
-
-The slides to the project are [here](/documents/slides.pdf).
 
 ## <a name="link-part-7">How to run</a>
 
