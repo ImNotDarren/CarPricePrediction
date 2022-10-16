@@ -52,7 +52,7 @@ drivetrain, mpg, fuel type, transmission type, engine and zip code.
 2. Converting MPG into int type by add lowest mpg to highest mpg.
 3. Breaking down car engines into liters and volts.
 4. Breaking down drivetrain into 2-wheel-drive and 4-wheel-drive.
-5. Get major city and population by zip code.
+5. Get population by zip code.
 
 **Models**
 
