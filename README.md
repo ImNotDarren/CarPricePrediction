@@ -103,6 +103,12 @@ The slides to the project are [here](/documents/slides.pdf).
 
 **To get predicted price:**
 
+cd into [src](/src):
+```
+cd src
+```
+
+Run the predictor by:
 ```
 python3 CPP.py $(car_webpage_link) $(year)
 ```
@@ -114,11 +120,11 @@ python3 CPP.py https://www.cars.com/vehicledetail/0fd3138e-4a1e-44ac-ba26-3c1bbb
 
 **To get data:**
 
-* Use [this dataset](/data/car_info.csv) or scrape [cars.com](https://www.cars.com)
+* Fine the data [here](/data) or scrape [cars.com](https://www.cars.com)
 by running [web_scraping](/web_scraping.ipynb).
 
 **To train the model:**
 
 * Run [car_price_prediction](/car_price_prediction.ipynb) in Jupyter Notebook.
 
-* The saved model is [here](/models/lasso_model.pkl).
+* The saved model is [here](/models/ridge_model.pkl).
