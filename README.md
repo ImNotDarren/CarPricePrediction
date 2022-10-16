@@ -109,7 +109,7 @@ The slides to the project are [here](/documents/slides.pdf).
 **To get predicted price:**
 
 ```
-python3 CPP.py $(car_webpage_url) $(year)
+python3 CPP.py $(car_webpage_link) $(year)
 ```
 
 For example:
