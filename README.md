@@ -30,7 +30,7 @@ time with the best deal.
 ## <a name="link-part-3">Data</a>
 
 The dataset I used is scraped from [cars.com](https://www.cars.com)
-containing 2397 rows of data.
+containing 4161 rows of data.
 
 Each row will represent one used car that is on sale on [cars.com](https://www.cars.com).
 The information includes year, module, make, price, mileage,
@@ -56,17 +56,16 @@ drivetrain, mpg, fuel type, transmission type, engine and zip code.
 
 **Models**
 
-I chose to use lasso regression model to solve the overfitting problem. I added ploynomial
-features which massively increased the performance. Lasso excluded lots of features including
-is_gas, age, engine_L and many car makes. Now the train $R^2$ value and test $R^2$ value are
-both around 0.98.
+I chose to use ridge regression model to solve the overfitting problem. I added ploynomial
+features which massively increased the performance. Now the train $R^2$ value and test $R^2$
+value are both around 0.80.
 
 **Model Evaluation**
 
-The entire training dataset of 1193 records was split into 80/20 train vs. holdout, and all
+The entire training dataset of 4161 records was split into 80/20 train vs. holdout, and all
 scores reported below were validated from both train dataset and holdout dataset.
 
-**Final Score: 0.980**
+**Final Score: 0.784**
 
 ## <a name="link-part-5">Tools</a>
 
@@ -82,13 +81,13 @@ scores reported below were validated from both train dataset and holdout dataset
 
 <img src="images/scraped_data.png" alt="drawing" width="300"/>
 
-* [Linear regression model](/models/linear_model_pkl) test:
+* Linear regression model test:
 
 **Train $R^2$ score: 0.847**
 
 **Test $R^2$ score: 0.435**
 
-* [Lasso regression model](/models/lasso_model_pkl) test:
+* [Ridge regression model](/models/ridge_model.pkl) test:
 
 **Train $R^2$ score: 0.823**
 
