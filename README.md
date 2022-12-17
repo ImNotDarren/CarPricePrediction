@@ -109,6 +109,26 @@ scores reported below were validated from both train dataset and holdout dataset
     Train $R^2$ score: 0.823
 
     Test $R^2$ score: **0.784**
+    
+* **Predicting tool:**
+
+I also built a tool that takes a cars.com webpage and year as input, and it will output
+the predicted price of the vehicle in that year.
+
+Here are some examples:
+
+For this 2021 Cadillac XT6 Sport AWD, in 2022, its price is $53,852.
+
+<div align="center">
+    <img width="519" alt="Screen Shot 2022-12-16 at 23 08 53" src="https://user-           images.githubusercontent.com/80400820/208224181-be3a5a9e-4d4b-4d99-ba61-0e0fdd2b6111.png">
+</div>
+
+However, if you wait till 2025, this vehicle's price should only be $39,607.
+
+<div align="center">
+    <img width="568" alt="example1" src="https://user-images.githubusercontent.com/80400820/208223970-882b7c80-9a71-4d01-bd6b-4963e0d0f4ef.png">
+</div>
+
 
 The project proposal is shown [here](/documents/proposal.md).
 
