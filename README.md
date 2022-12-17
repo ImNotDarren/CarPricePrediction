@@ -56,9 +56,30 @@ drivetrain, mpg, fuel type, transmission type, engine and zip code.
 
 **Models**
 
-I chose to use ridge regression model to solve the overfitting problem. I added ploynomial
-features which massively increased the performance. Now the train $R^2$ value and test $R^2$
-value are both around 0.80.
+I chose to use ridge regression model to solve the overfitting problem.
+
+<div align="center">
+    <img src="imgs/ridge.png" style="width: 400px;" />
+</div>
+
+Ridge regression is a model tuning method that is used to analyse any data
+that suffers from multicollinearity. This method performs L2 regularization.
+
+The cost function for ridge regression:
+
+```
+Min(||Y – X(theta)||^2 + λ||theta||^2)
+```
+
+Lambda is the penalty term. λ given here is denoted by an alpha parameter
+in the ridge function. So, by changing the values of alpha, we are controlling
+the penalty term. The higher the values of alpha, the bigger is the penalty
+and therefore the magnitude of coefficients is reduced.
+
+Ploynomial features are also included in training which massively increased
+the performance.
+
+Now the train $R^2$ value and test $R^2$ value are both around 0.80.
 
 **Model Evaluation**
 
