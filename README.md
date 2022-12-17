@@ -32,9 +32,15 @@ time with the best deal.
 The dataset I used is scraped from [cars.com](https://www.cars.com)
 containing 4161 rows of data.
 
+<div align="center">
+    <img width="999" alt="Screen Shot 2022-12-17 at 15 26 54" src="https://user-images.githubusercontent.com/80400820/208264920-f4fa3a06-6c7e-4efc-8568-46dfca3c6143.png">
+</div>
+
+
 Each row will represent one used car that is on sale on [cars.com](https://www.cars.com).
-The information includes year, module, make, price, mileage,
-drivetrain, mpg, fuel type, transmission type, engine and zip code. 
+Features includes year, module, make, price, mileage, drivetrain, mpg, fuel type, transmission
+type, engine and zip code. Oneowner and personal_use don't have a big influence on the
+result, hence they're not used for model building.
 
 ## <a name="link-part-4">Algorithm</a>
 
@@ -56,7 +62,12 @@ drivetrain, mpg, fuel type, transmission type, engine and zip code.
 
 **Models**
 
-I chose to use ridge regression model to solve the overfitting problem.
+Firstly, I built a baseline model with linear regression. It has a 0.847
+accuracy on validation set and only 0.435 accuracy on test set which shows
+a huge overfitting problem. 
+
+In order to solve this problem, ridge regression is used here and massively
+reduced overfitting and increased accuracy on test set.
 
 <div align="center">
     <img src="imgs/ridge.png" style="width: 400px;" />
