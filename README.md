@@ -125,6 +125,10 @@ For this 2021 Cadillac XT6 Sport AWD, in 2022, its price is $53,852.
 
 However, if you wait till 2025, this vehicle's price should only be $39,607.
 
+<div align="center">
+    <img width="568" alt="example1" src="https://user-images.githubusercontent.com/80400820/208223970-882b7c80-9a71-4d01-bd6b-4963e0d0f4ef.png">
+</div>
+
 And for this 2017 Cadillac XT5 Premium Luxury, in 2022, its price is $25,950.
 
 <div align="center">
@@ -135,11 +139,6 @@ However, in 2026, the price would likely drop to $11,450.
 
 <div align="center">
     <img width="596" alt="example2" src="https://user-images.githubusercontent.com/80400820/208224409-74c37c80-1699-48c6-8c12-004d094923db.png">
-</div>
-
-
-<div align="center">
-    <img width="568" alt="example1" src="https://user-images.githubusercontent.com/80400820/208223970-882b7c80-9a71-4d01-bd6b-4963e0d0f4ef.png">
 </div>
 
 
